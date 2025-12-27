@@ -1,0 +1,6314 @@
+[
+  {
+    "entry_time": 1736609400,
+    "exit_time": 1736673300,
+    "side": "long",
+    "entry_price": 2.4139,
+    "exit_price": 2.5103,
+    "pnl": 0.0964
+  },
+  {
+    "entry_time": 1736673300,
+    "exit_time": 1736694900,
+    "side": "short",
+    "entry_price": 2.5103,
+    "exit_price": 2.531,
+    "pnl": -0.0207
+  },
+  {
+    "entry_time": 1736694900,
+    "exit_time": 1736719200,
+    "side": "long",
+    "entry_price": 2.531,
+    "exit_price": 2.4974,
+    "pnl": -0.0336
+  },
+  {
+    "entry_time": 1736719200,
+    "exit_time": 1736727300,
+    "side": "short",
+    "entry_price": 2.4974,
+    "exit_price": 2.5393,
+    "pnl": -0.0419
+  },
+  {
+    "entry_time": 1736727300,
+    "exit_time": 1736748900,
+    "side": "long",
+    "entry_price": 2.5393,
+    "exit_price": 2.4939,
+    "pnl": -0.0454
+  },
+  {
+    "entry_time": 1736748900,
+    "exit_time": 1736778600,
+    "side": "short",
+    "entry_price": 2.4939,
+    "exit_price": 2.4461,
+    "pnl": 0.0478
+  },
+  {
+    "entry_time": 1736778600,
+    "exit_time": 1736938800,
+    "side": "long",
+    "entry_price": 2.4461,
+    "exit_price": 2.7752,
+    "pnl": 0.3291
+  },
+  {
+    "entry_time": 1736938800,
+    "exit_time": 1736947800,
+    "side": "short",
+    "entry_price": 2.7752,
+    "exit_price": 2.8435,
+    "pnl": -0.0683
+  },
+  {
+    "entry_time": 1736947800,
+    "exit_time": 1736986500,
+    "side": "long",
+    "entry_price": 2.8435,
+    "exit_price": 3.0261,
+    "pnl": 0.1826
+  },
+  {
+    "entry_time": 1736986500,
+    "exit_time": 1737025200,
+    "side": "short",
+    "entry_price": 3.0261,
+    "exit_price": 3.1595,
+    "pnl": -0.1334
+  },
+  {
+    "entry_time": 1737025200,
+    "exit_time": 1737066600,
+    "side": "long",
+    "entry_price": 3.1595,
+    "exit_price": 3.2026,
+    "pnl": 0.0431
+  },
+  {
+    "entry_time": 1737066600,
+    "exit_time": 1737081900,
+    "side": "short",
+    "entry_price": 3.2026,
+    "exit_price": 3.3432,
+    "pnl": -0.1406
+  },
+  {
+    "entry_time": 1737081900,
+    "exit_time": 1737102600,
+    "side": "long",
+    "entry_price": 3.3432,
+    "exit_price": 3.2508,
+    "pnl": -0.0924
+  },
+  {
+    "entry_time": 1737102600,
+    "exit_time": 1737148500,
+    "side": "short",
+    "entry_price": 3.2508,
+    "exit_price": 3.2885,
+    "pnl": -0.0377
+  },
+  {
+    "entry_time": 1737148500,
+    "exit_time": 1737162000,
+    "side": "long",
+    "entry_price": 3.2885,
+    "exit_price": 3.2187,
+    "pnl": -0.0698
+  },
+  {
+    "entry_time": 1737162000,
+    "exit_time": 1737206100,
+    "side": "short",
+    "entry_price": 3.2187,
+    "exit_price": 3.1952,
+    "pnl": 0.0235
+  },
+  {
+    "entry_time": 1737206100,
+    "exit_time": 1737218700,
+    "side": "long",
+    "entry_price": 3.1952,
+    "exit_price": 3.1429,
+    "pnl": -0.0523
+  },
+  {
+    "entry_time": 1737218700,
+    "exit_time": 1737242100,
+    "side": "short",
+    "entry_price": 3.1429,
+    "exit_price": 3.2596,
+    "pnl": -0.1167
+  },
+  {
+    "entry_time": 1737242100,
+    "exit_time": 1737261000,
+    "side": "long",
+    "entry_price": 3.2596,
+    "exit_price": 3.2008,
+    "pnl": -0.0588
+  },
+  {
+    "entry_time": 1737261000,
+    "exit_time": 1737296100,
+    "side": "short",
+    "entry_price": 3.2008,
+    "exit_price": 3.1481,
+    "pnl": 0.0527
+  },
+  {
+    "entry_time": 1737296100,
+    "exit_time": 1737321300,
+    "side": "long",
+    "entry_price": 3.1481,
+    "exit_price": 3.1093,
+    "pnl": -0.0388
+  },
+  {
+    "entry_time": 1737321300,
+    "exit_time": 1737347400,
+    "side": "short",
+    "entry_price": 3.1093,
+    "exit_price": 3.1209,
+    "pnl": -0.0116
+  },
+  {
+    "entry_time": 1737347400,
+    "exit_time": 1737392400,
+    "side": "long",
+    "entry_price": 3.1209,
+    "exit_price": 3.2114,
+    "pnl": 0.0905
+  },
+  {
+    "entry_time": 1737392400,
+    "exit_time": 1737475200,
+    "side": "short",
+    "entry_price": 3.2114,
+    "exit_price": 3.1745,
+    "pnl": 0.0369
+  },
+  {
+    "entry_time": 1737475200,
+    "exit_time": 1737553500,
+    "side": "long",
+    "entry_price": 3.1745,
+    "exit_price": 3.179,
+    "pnl": 0.0045
+  },
+  {
+    "entry_time": 1737553500,
+    "exit_time": 1737575100,
+    "side": "short",
+    "entry_price": 3.179,
+    "exit_price": 3.2248,
+    "pnl": -0.0458
+  },
+  {
+    "entry_time": 1737575100,
+    "exit_time": 1737592200,
+    "side": "long",
+    "entry_price": 3.2248,
+    "exit_price": 3.1635,
+    "pnl": -0.0613
+  },
+  {
+    "entry_time": 1737592200,
+    "exit_time": 1737641700,
+    "side": "short",
+    "entry_price": 3.1635,
+    "exit_price": 3.1048,
+    "pnl": 0.0587
+  },
+  {
+    "entry_time": 1737641700,
+    "exit_time": 1737666900,
+    "side": "long",
+    "entry_price": 3.1048,
+    "exit_price": 3.0734,
+    "pnl": -0.0314
+  },
+  {
+    "entry_time": 1737666900,
+    "exit_time": 1737689400,
+    "side": "short",
+    "entry_price": 3.0734,
+    "exit_price": 3.1263,
+    "pnl": -0.0529
+  },
+  {
+    "entry_time": 1737689400,
+    "exit_time": 1737732600,
+    "side": "long",
+    "entry_price": 3.1263,
+    "exit_price": 3.1437,
+    "pnl": 0.0174
+  },
+  {
+    "entry_time": 1737732600,
+    "exit_time": 1737776700,
+    "side": "short",
+    "entry_price": 3.1437,
+    "exit_price": 3.1318,
+    "pnl": 0.0119
+  },
+  {
+    "entry_time": 1737776700,
+    "exit_time": 1737796500,
+    "side": "long",
+    "entry_price": 3.1318,
+    "exit_price": 3.095,
+    "pnl": -0.0368
+  },
+  {
+    "entry_time": 1737796500,
+    "exit_time": 1737804600,
+    "side": "short",
+    "entry_price": 3.095,
+    "exit_price": 3.1111,
+    "pnl": -0.0161
+  },
+  {
+    "entry_time": 1737804600,
+    "exit_time": 1737848700,
+    "side": "long",
+    "entry_price": 3.1111,
+    "exit_price": 3.107,
+    "pnl": -0.0041
+  },
+  {
+    "entry_time": 1737848700,
+    "exit_time": 1737862200,
+    "side": "short",
+    "entry_price": 3.107,
+    "exit_price": 3.1395,
+    "pnl": -0.0325
+  },
+  {
+    "entry_time": 1737862200,
+    "exit_time": 1737883800,
+    "side": "long",
+    "entry_price": 3.1395,
+    "exit_price": 3.1161,
+    "pnl": -0.0234
+  },
+  {
+    "entry_time": 1737883800,
+    "exit_time": 1737917100,
+    "side": "short",
+    "entry_price": 3.1161,
+    "exit_price": 3.1317,
+    "pnl": -0.0156
+  },
+  {
+    "entry_time": 1737917100,
+    "exit_time": 1737925200,
+    "side": "long",
+    "entry_price": 3.1317,
+    "exit_price": 3.1122,
+    "pnl": -0.0195
+  },
+  {
+    "entry_time": 1737925200,
+    "exit_time": 1737982800,
+    "side": "short",
+    "entry_price": 3.1122,
+    "exit_price": 2.9192,
+    "pnl": 0.193
+  },
+  {
+    "entry_time": 1737982800,
+    "exit_time": 1738097100,
+    "side": "long",
+    "entry_price": 2.9192,
+    "exit_price": 3.0774,
+    "pnl": 0.1582
+  },
+  {
+    "entry_time": 1738097100,
+    "exit_time": 1738137600,
+    "side": "short",
+    "entry_price": 3.0774,
+    "exit_price": 3.126,
+    "pnl": -0.0486
+  },
+  {
+    "entry_time": 1738137600,
+    "exit_time": 1738153800,
+    "side": "long",
+    "entry_price": 3.126,
+    "exit_price": 3.0692,
+    "pnl": -0.0568
+  },
+  {
+    "entry_time": 1738153800,
+    "exit_time": 1738179000,
+    "side": "short",
+    "entry_price": 3.0692,
+    "exit_price": 3.0934,
+    "pnl": -0.0242
+  },
+  {
+    "entry_time": 1738179000,
+    "exit_time": 1738240200,
+    "side": "long",
+    "entry_price": 3.0934,
+    "exit_price": 3.0843,
+    "pnl": -0.0091
+  },
+  {
+    "entry_time": 1738240200,
+    "exit_time": 1738248300,
+    "side": "short",
+    "entry_price": 3.0843,
+    "exit_price": 3.1192,
+    "pnl": -0.0349
+  },
+  {
+    "entry_time": 1738248300,
+    "exit_time": 1738284300,
+    "side": "long",
+    "entry_price": 3.1192,
+    "exit_price": 3.1078,
+    "pnl": -0.0114
+  },
+  {
+    "entry_time": 1738284300,
+    "exit_time": 1738321200,
+    "side": "short",
+    "entry_price": 3.1078,
+    "exit_price": 3.0936,
+    "pnl": 0.0142
+  },
+  {
+    "entry_time": 1738321200,
+    "exit_time": 1738347300,
+    "side": "long",
+    "entry_price": 3.0936,
+    "exit_price": 3.0557,
+    "pnl": -0.0379
+  },
+  {
+    "entry_time": 1738347300,
+    "exit_time": 1738373400,
+    "side": "short",
+    "entry_price": 3.0557,
+    "exit_price": 3.058,
+    "pnl": -0.0023
+  },
+  {
+    "entry_time": 1738373400,
+    "exit_time": 1738395900,
+    "side": "long",
+    "entry_price": 3.058,
+    "exit_price": 3.03,
+    "pnl": -0.028
+  },
+  {
+    "entry_time": 1738395900,
+    "exit_time": 1738456200,
+    "side": "short",
+    "entry_price": 3.03,
+    "exit_price": 2.9284,
+    "pnl": 0.1016
+  },
+  {
+    "entry_time": 1738456200,
+    "exit_time": 1738465200,
+    "side": "long",
+    "entry_price": 2.9284,
+    "exit_price": 2.8528,
+    "pnl": -0.0756
+  },
+  {
+    "entry_time": 1738465200,
+    "exit_time": 1738504800,
+    "side": "short",
+    "entry_price": 2.8528,
+    "exit_price": 2.8345,
+    "pnl": 0.0183
+  },
+  {
+    "entry_time": 1738504800,
+    "exit_time": 1738513800,
+    "side": "long",
+    "entry_price": 2.8345,
+    "exit_price": 2.7467,
+    "pnl": -0.0878
+  },
+  {
+    "entry_time": 1738513800,
+    "exit_time": 1738526400,
+    "side": "short",
+    "entry_price": 2.7467,
+    "exit_price": 2.7007,
+    "pnl": 0.046
+  },
+  {
+    "entry_time": 1738526400,
+    "exit_time": 1738535400,
+    "side": "long",
+    "entry_price": 2.7007,
+    "exit_price": 2.5241,
+    "pnl": -0.1766
+  },
+  {
+    "entry_time": 1738535400,
+    "exit_time": 1738566900,
+    "side": "short",
+    "entry_price": 2.5241,
+    "exit_price": 2.388,
+    "pnl": 0.1361
+  },
+  {
+    "entry_time": 1738566900,
+    "exit_time": 1738591200,
+    "side": "long",
+    "entry_price": 2.388,
+    "exit_price": 2.2551,
+    "pnl": -0.1329
+  },
+  {
+    "entry_time": 1738591200,
+    "exit_time": 1738595700,
+    "side": "short",
+    "entry_price": 2.2551,
+    "exit_price": 2.5024,
+    "pnl": -0.2473
+  },
+  {
+    "entry_time": 1738595700,
+    "exit_time": 1738645200,
+    "side": "long",
+    "entry_price": 2.5024,
+    "exit_price": 2.5683,
+    "pnl": 0.0659
+  },
+  {
+    "entry_time": 1738645200,
+    "exit_time": 1738667700,
+    "side": "short",
+    "entry_price": 2.5683,
+    "exit_price": 2.6179,
+    "pnl": -0.0496
+  },
+  {
+    "entry_time": 1738667700,
+    "exit_time": 1738699200,
+    "side": "long",
+    "entry_price": 2.6179,
+    "exit_price": 2.556,
+    "pnl": -0.0619
+  },
+  {
+    "entry_time": 1738699200,
+    "exit_time": 1738823400,
+    "side": "short",
+    "entry_price": 2.556,
+    "exit_price": 2.4591,
+    "pnl": 0.0969
+  },
+  {
+    "entry_time": 1738823400,
+    "exit_time": 1738845000,
+    "side": "long",
+    "entry_price": 2.4591,
+    "exit_price": 2.4061,
+    "pnl": -0.053
+  },
+  {
+    "entry_time": 1738845000,
+    "exit_time": 1738919700,
+    "side": "short",
+    "entry_price": 2.4061,
+    "exit_price": 2.3535,
+    "pnl": 0.0526
+  },
+  {
+    "entry_time": 1738919700,
+    "exit_time": 1738958400,
+    "side": "long",
+    "entry_price": 2.3535,
+    "exit_price": 2.395,
+    "pnl": 0.0415
+  },
+  {
+    "entry_time": 1738958400,
+    "exit_time": 1739008800,
+    "side": "short",
+    "entry_price": 2.395,
+    "exit_price": 2.4061,
+    "pnl": -0.0111
+  },
+  {
+    "entry_time": 1739008800,
+    "exit_time": 1739101500,
+    "side": "long",
+    "entry_price": 2.4061,
+    "exit_price": 2.4379,
+    "pnl": 0.0318
+  },
+  {
+    "entry_time": 1739101500,
+    "exit_time": 1739140200,
+    "side": "short",
+    "entry_price": 2.4379,
+    "exit_price": 2.3968,
+    "pnl": 0.0411
+  },
+  {
+    "entry_time": 1739140200,
+    "exit_time": 1739151000,
+    "side": "long",
+    "entry_price": 2.3968,
+    "exit_price": 2.342,
+    "pnl": -0.0548
+  },
+  {
+    "entry_time": 1739151000,
+    "exit_time": 1739174400,
+    "side": "short",
+    "entry_price": 2.342,
+    "exit_price": 2.4267,
+    "pnl": -0.0847
+  },
+  {
+    "entry_time": 1739174400,
+    "exit_time": 1739281500,
+    "side": "long",
+    "entry_price": 2.4267,
+    "exit_price": 2.4414,
+    "pnl": 0.0147
+  },
+  {
+    "entry_time": 1739281500,
+    "exit_time": 1739309400,
+    "side": "short",
+    "entry_price": 2.4414,
+    "exit_price": 2.4415,
+    "pnl": -0.0001
+  },
+  {
+    "entry_time": 1739309400,
+    "exit_time": 1739329200,
+    "side": "long",
+    "entry_price": 2.4415,
+    "exit_price": 2.3838,
+    "pnl": -0.0577
+  },
+  {
+    "entry_time": 1739329200,
+    "exit_time": 1739361600,
+    "side": "short",
+    "entry_price": 2.3838,
+    "exit_price": 2.4327,
+    "pnl": -0.0489
+  },
+  {
+    "entry_time": 1739361600,
+    "exit_time": 1739367000,
+    "side": "long",
+    "entry_price": 2.4327,
+    "exit_price": 2.3758,
+    "pnl": -0.0569
+  },
+  {
+    "entry_time": 1739367000,
+    "exit_time": 1739380500,
+    "side": "short",
+    "entry_price": 2.3758,
+    "exit_price": 2.4552,
+    "pnl": -0.0794
+  },
+  {
+    "entry_time": 1739380500,
+    "exit_time": 1739428200,
+    "side": "long",
+    "entry_price": 2.4552,
+    "exit_price": 2.4511,
+    "pnl": -0.0041
+  },
+  {
+    "entry_time": 1739428200,
+    "exit_time": 1739473200,
+    "side": "short",
+    "entry_price": 2.4511,
+    "exit_price": 2.4661,
+    "pnl": -0.015
+  },
+  {
+    "entry_time": 1739473200,
+    "exit_time": 1739573100,
+    "side": "long",
+    "entry_price": 2.4661,
+    "exit_price": 2.7083,
+    "pnl": 0.2422
+  },
+  {
+    "entry_time": 1739573100,
+    "exit_time": 1739584800,
+    "side": "short",
+    "entry_price": 2.7083,
+    "exit_price": 2.8108,
+    "pnl": -0.1025
+  },
+  {
+    "entry_time": 1739584800,
+    "exit_time": 1739629800,
+    "side": "long",
+    "entry_price": 2.8108,
+    "exit_price": 2.7605,
+    "pnl": -0.0503
+  },
+  {
+    "entry_time": 1739629800,
+    "exit_time": 1739664900,
+    "side": "short",
+    "entry_price": 2.7605,
+    "exit_price": 2.7723,
+    "pnl": -0.0118
+  },
+  {
+    "entry_time": 1739664900,
+    "exit_time": 1739691900,
+    "side": "long",
+    "entry_price": 2.7723,
+    "exit_price": 2.7595,
+    "pnl": -0.0128
+  },
+  {
+    "entry_time": 1739691900,
+    "exit_time": 1739738700,
+    "side": "short",
+    "entry_price": 2.7595,
+    "exit_price": 2.7442,
+    "pnl": 0.0153
+  },
+  {
+    "entry_time": 1739738700,
+    "exit_time": 1739763000,
+    "side": "long",
+    "entry_price": 2.7442,
+    "exit_price": 2.7033,
+    "pnl": -0.0409
+  },
+  {
+    "entry_time": 1739763000,
+    "exit_time": 1739800800,
+    "side": "short",
+    "entry_price": 2.7033,
+    "exit_price": 2.723,
+    "pnl": -0.0197
+  },
+  {
+    "entry_time": 1739800800,
+    "exit_time": 1739806200,
+    "side": "long",
+    "entry_price": 2.723,
+    "exit_price": 2.6629,
+    "pnl": -0.0601
+  },
+  {
+    "entry_time": 1739806200,
+    "exit_time": 1739888100,
+    "side": "short",
+    "entry_price": 2.6629,
+    "exit_price": 2.6203,
+    "pnl": 0.0426
+  },
+  {
+    "entry_time": 1739888100,
+    "exit_time": 1739890800,
+    "side": "long",
+    "entry_price": 2.6203,
+    "exit_price": 2.5713,
+    "pnl": -0.049
+  },
+  {
+    "entry_time": 1739890800,
+    "exit_time": 1739916900,
+    "side": "short",
+    "entry_price": 2.5713,
+    "exit_price": 2.5541,
+    "pnl": 0.0172
+  },
+  {
+    "entry_time": 1739916900,
+    "exit_time": 1739940300,
+    "side": "long",
+    "entry_price": 2.5541,
+    "exit_price": 2.5161,
+    "pnl": -0.038
+  },
+  {
+    "entry_time": 1739940300,
+    "exit_time": 1739959200,
+    "side": "short",
+    "entry_price": 2.5161,
+    "exit_price": 2.5797,
+    "pnl": -0.0636
+  },
+  {
+    "entry_time": 1739959200,
+    "exit_time": 1740034800,
+    "side": "long",
+    "entry_price": 2.5797,
+    "exit_price": 2.6739,
+    "pnl": 0.0942
+  },
+  {
+    "entry_time": 1740034800,
+    "exit_time": 1740060000,
+    "side": "short",
+    "entry_price": 2.6739,
+    "exit_price": 2.7287,
+    "pnl": -0.0548
+  },
+  {
+    "entry_time": 1740060000,
+    "exit_time": 1740066300,
+    "side": "long",
+    "entry_price": 2.7287,
+    "exit_price": 2.6708,
+    "pnl": -0.0579
+  },
+  {
+    "entry_time": 1740066300,
+    "exit_time": 1740133800,
+    "side": "short",
+    "entry_price": 2.6708,
+    "exit_price": 2.676,
+    "pnl": -0.0052
+  },
+  {
+    "entry_time": 1740133800,
+    "exit_time": 1740150900,
+    "side": "long",
+    "entry_price": 2.676,
+    "exit_price": 2.6476,
+    "pnl": -0.0284
+  },
+  {
+    "entry_time": 1740150900,
+    "exit_time": 1740187800,
+    "side": "short",
+    "entry_price": 2.6476,
+    "exit_price": 2.5955,
+    "pnl": 0.0521
+  },
+  {
+    "entry_time": 1740187800,
+    "exit_time": 1740255300,
+    "side": "long",
+    "entry_price": 2.5955,
+    "exit_price": 2.5742,
+    "pnl": -0.0213
+  },
+  {
+    "entry_time": 1740255300,
+    "exit_time": 1740294900,
+    "side": "short",
+    "entry_price": 2.5742,
+    "exit_price": 2.5755,
+    "pnl": -0.0013
+  },
+  {
+    "entry_time": 1740294900,
+    "exit_time": 1740312000,
+    "side": "long",
+    "entry_price": 2.5755,
+    "exit_price": 2.5593,
+    "pnl": -0.0162
+  },
+  {
+    "entry_time": 1740312000,
+    "exit_time": 1740334500,
+    "side": "short",
+    "entry_price": 2.5593,
+    "exit_price": 2.5597,
+    "pnl": -0.0004
+  },
+  {
+    "entry_time": 1740334500,
+    "exit_time": 1740360600,
+    "side": "long",
+    "entry_price": 2.5597,
+    "exit_price": 2.5558,
+    "pnl": -0.0039
+  },
+  {
+    "entry_time": 1740360600,
+    "exit_time": 1740484800,
+    "side": "short",
+    "entry_price": 2.5558,
+    "exit_price": 2.207,
+    "pnl": 0.3488
+  },
+  {
+    "entry_time": 1740484800,
+    "exit_time": 1740573000,
+    "side": "long",
+    "entry_price": 2.207,
+    "exit_price": 2.266,
+    "pnl": 0.059
+  },
+  {
+    "entry_time": 1740573000,
+    "exit_time": 1740582000,
+    "side": "short",
+    "entry_price": 2.266,
+    "exit_price": 2.2929,
+    "pnl": -0.0269
+  },
+  {
+    "entry_time": 1740582000,
+    "exit_time": 1740593700,
+    "side": "long",
+    "entry_price": 2.2929,
+    "exit_price": 2.1871,
+    "pnl": -0.1058
+  },
+  {
+    "entry_time": 1740593700,
+    "exit_time": 1740651300,
+    "side": "short",
+    "entry_price": 2.1871,
+    "exit_price": 2.2399,
+    "pnl": -0.0528
+  },
+  {
+    "entry_time": 1740651300,
+    "exit_time": 1740666600,
+    "side": "long",
+    "entry_price": 2.2399,
+    "exit_price": 2.1979,
+    "pnl": -0.042
+  },
+  {
+    "entry_time": 1740666600,
+    "exit_time": 1740735900,
+    "side": "short",
+    "entry_price": 2.1979,
+    "exit_price": 2.0528,
+    "pnl": 0.1451
+  },
+  {
+    "entry_time": 1740735900,
+    "exit_time": 1740825000,
+    "side": "long",
+    "entry_price": 2.0528,
+    "exit_price": 2.1596,
+    "pnl": 0.1068
+  },
+  {
+    "entry_time": 1740825000,
+    "exit_time": 1740864600,
+    "side": "short",
+    "entry_price": 2.1596,
+    "exit_price": 2.1781,
+    "pnl": -0.0185
+  },
+  {
+    "entry_time": 1740864600,
+    "exit_time": 1740924900,
+    "side": "long",
+    "entry_price": 2.1781,
+    "exit_price": 2.2419,
+    "pnl": 0.0638
+  },
+  {
+    "entry_time": 1740924900,
+    "exit_time": 1740928500,
+    "side": "short",
+    "entry_price": 2.2419,
+    "exit_price": 2.3851,
+    "pnl": -0.1432
+  },
+  {
+    "entry_time": 1740928500,
+    "exit_time": 1740966300,
+    "side": "long",
+    "entry_price": 2.3851,
+    "exit_price": 2.8087,
+    "pnl": 0.4236
+  },
+  {
+    "entry_time": 1740966300,
+    "exit_time": 1741008600,
+    "side": "short",
+    "entry_price": 2.8087,
+    "exit_price": 2.7047,
+    "pnl": 0.104
+  },
+  {
+    "entry_time": 1741008600,
+    "exit_time": 1741013100,
+    "side": "long",
+    "entry_price": 2.7047,
+    "exit_price": 2.5605,
+    "pnl": -0.1442
+  },
+  {
+    "entry_time": 1741013100,
+    "exit_time": 1741098600,
+    "side": "short",
+    "entry_price": 2.5605,
+    "exit_price": 2.4081,
+    "pnl": 0.1524
+  },
+  {
+    "entry_time": 1741098600,
+    "exit_time": 1741152600,
+    "side": "long",
+    "entry_price": 2.4081,
+    "exit_price": 2.4301,
+    "pnl": 0.022
+  },
+  {
+    "entry_time": 1741152600,
+    "exit_time": 1741165200,
+    "side": "short",
+    "entry_price": 2.4301,
+    "exit_price": 2.4976,
+    "pnl": -0.0675
+  },
+  {
+    "entry_time": 1741165200,
+    "exit_time": 1741181400,
+    "side": "long",
+    "entry_price": 2.4976,
+    "exit_price": 2.4576,
+    "pnl": -0.04
+  },
+  {
+    "entry_time": 1741181400,
+    "exit_time": 1741226400,
+    "side": "short",
+    "entry_price": 2.4576,
+    "exit_price": 2.5223,
+    "pnl": -0.0647
+  },
+  {
+    "entry_time": 1741226400,
+    "exit_time": 1741282200,
+    "side": "long",
+    "entry_price": 2.5223,
+    "exit_price": 2.5424,
+    "pnl": 0.0201
+  },
+  {
+    "entry_time": 1741282200,
+    "exit_time": 1741338000,
+    "side": "short",
+    "entry_price": 2.5424,
+    "exit_price": 2.5327,
+    "pnl": 0.0097
+  },
+  {
+    "entry_time": 1741338000,
+    "exit_time": 1741363200,
+    "side": "long",
+    "entry_price": 2.5327,
+    "exit_price": 2.4306,
+    "pnl": -0.1021
+  },
+  {
+    "entry_time": 1741363200,
+    "exit_time": 1741444200,
+    "side": "short",
+    "entry_price": 2.4306,
+    "exit_price": 2.359,
+    "pnl": 0.0716
+  },
+  {
+    "entry_time": 1741444200,
+    "exit_time": 1741453200,
+    "side": "long",
+    "entry_price": 2.359,
+    "exit_price": 2.3135,
+    "pnl": -0.0455
+  },
+  {
+    "entry_time": 1741453200,
+    "exit_time": 1741552200,
+    "side": "short",
+    "entry_price": 2.3135,
+    "exit_price": 2.1979,
+    "pnl": 0.1156
+  },
+  {
+    "entry_time": 1741552200,
+    "exit_time": 1741615200,
+    "side": "long",
+    "entry_price": 2.1979,
+    "exit_price": 2.1135,
+    "pnl": -0.0844
+  },
+  {
+    "entry_time": 1741615200,
+    "exit_time": 1741658400,
+    "side": "short",
+    "entry_price": 2.1135,
+    "exit_price": 2.0358,
+    "pnl": 0.0777
+  },
+  {
+    "entry_time": 1741658400,
+    "exit_time": 1741698000,
+    "side": "long",
+    "entry_price": 2.0358,
+    "exit_price": 2.0869,
+    "pnl": 0.0511
+  },
+  {
+    "entry_time": 1741698000,
+    "exit_time": 1741716900,
+    "side": "short",
+    "entry_price": 2.0869,
+    "exit_price": 2.1673,
+    "pnl": -0.0804
+  },
+  {
+    "entry_time": 1741716900,
+    "exit_time": 1741751100,
+    "side": "long",
+    "entry_price": 2.1673,
+    "exit_price": 2.166,
+    "pnl": -0.0013
+  },
+  {
+    "entry_time": 1741751100,
+    "exit_time": 1741766400,
+    "side": "short",
+    "entry_price": 2.166,
+    "exit_price": 2.215,
+    "pnl": -0.049
+  },
+  {
+    "entry_time": 1741766400,
+    "exit_time": 1741788000,
+    "side": "long",
+    "entry_price": 2.215,
+    "exit_price": 2.1826,
+    "pnl": -0.0324
+  },
+  {
+    "entry_time": 1741788000,
+    "exit_time": 1741795200,
+    "side": "short",
+    "entry_price": 2.1826,
+    "exit_price": 2.248,
+    "pnl": -0.0654
+  },
+  {
+    "entry_time": 1741795200,
+    "exit_time": 1741886100,
+    "side": "long",
+    "entry_price": 2.248,
+    "exit_price": 2.2462,
+    "pnl": -0.0018
+  },
+  {
+    "entry_time": 1741886100,
+    "exit_time": 1741918500,
+    "side": "short",
+    "entry_price": 2.2462,
+    "exit_price": 2.2772,
+    "pnl": -0.031
+  },
+  {
+    "entry_time": 1741918500,
+    "exit_time": 1742022000,
+    "side": "long",
+    "entry_price": 2.2772,
+    "exit_price": 2.4048,
+    "pnl": 0.1276
+  },
+  {
+    "entry_time": 1742022000,
+    "exit_time": 1742041800,
+    "side": "short",
+    "entry_price": 2.4048,
+    "exit_price": 2.4323,
+    "pnl": -0.0275
+  },
+  {
+    "entry_time": 1742041800,
+    "exit_time": 1742063400,
+    "side": "long",
+    "entry_price": 2.4323,
+    "exit_price": 2.401,
+    "pnl": -0.0313
+  },
+  {
+    "entry_time": 1742063400,
+    "exit_time": 1742141700,
+    "side": "short",
+    "entry_price": 2.401,
+    "exit_price": 2.3333,
+    "pnl": 0.0677
+  },
+  {
+    "entry_time": 1742141700,
+    "exit_time": 1742190300,
+    "side": "long",
+    "entry_price": 2.3333,
+    "exit_price": 2.3281,
+    "pnl": -0.0052
+  },
+  {
+    "entry_time": 1742190300,
+    "exit_time": 1742232600,
+    "side": "short",
+    "entry_price": 2.3281,
+    "exit_price": 2.3563,
+    "pnl": -0.0282
+  },
+  {
+    "entry_time": 1742232600,
+    "exit_time": 1742256000,
+    "side": "long",
+    "entry_price": 2.3563,
+    "exit_price": 2.3295,
+    "pnl": -0.0268
+  },
+  {
+    "entry_time": 1742256000,
+    "exit_time": 1742283900,
+    "side": "short",
+    "entry_price": 2.3295,
+    "exit_price": 2.2876,
+    "pnl": 0.0419
+  },
+  {
+    "entry_time": 1742283900,
+    "exit_time": 1742298300,
+    "side": "long",
+    "entry_price": 2.2876,
+    "exit_price": 2.2611,
+    "pnl": -0.0265
+  },
+  {
+    "entry_time": 1742298300,
+    "exit_time": 1742337000,
+    "side": "short",
+    "entry_price": 2.2611,
+    "exit_price": 2.2733,
+    "pnl": -0.0122
+  },
+  {
+    "entry_time": 1742337000,
+    "exit_time": 1742348700,
+    "side": "long",
+    "entry_price": 2.2733,
+    "exit_price": 2.2687,
+    "pnl": -0.0046
+  },
+  {
+    "entry_time": 1742348700,
+    "exit_time": 1742364000,
+    "side": "short",
+    "entry_price": 2.2687,
+    "exit_price": 2.3007,
+    "pnl": -0.032
+  },
+  {
+    "entry_time": 1742364000,
+    "exit_time": 1742443200,
+    "side": "long",
+    "entry_price": 2.3007,
+    "exit_price": 2.4765,
+    "pnl": 0.1758
+  },
+  {
+    "entry_time": 1742443200,
+    "exit_time": 1742459400,
+    "side": "short",
+    "entry_price": 2.4765,
+    "exit_price": 2.4902,
+    "pnl": -0.0137
+  },
+  {
+    "entry_time": 1742459400,
+    "exit_time": 1742484600,
+    "side": "long",
+    "entry_price": 2.4902,
+    "exit_price": 2.4499,
+    "pnl": -0.0403
+  },
+  {
+    "entry_time": 1742484600,
+    "exit_time": 1742521500,
+    "side": "short",
+    "entry_price": 2.4499,
+    "exit_price": 2.4606,
+    "pnl": -0.0107
+  },
+  {
+    "entry_time": 1742521500,
+    "exit_time": 1742534100,
+    "side": "long",
+    "entry_price": 2.4606,
+    "exit_price": 2.4143,
+    "pnl": -0.0463
+  },
+  {
+    "entry_time": 1742534100,
+    "exit_time": 1742581800,
+    "side": "short",
+    "entry_price": 2.4143,
+    "exit_price": 2.4126,
+    "pnl": 0.0017
+  },
+  {
+    "entry_time": 1742581800,
+    "exit_time": 1742599800,
+    "side": "long",
+    "entry_price": 2.4126,
+    "exit_price": 2.3783,
+    "pnl": -0.0343
+  },
+  {
+    "entry_time": 1742599800,
+    "exit_time": 1742635800,
+    "side": "short",
+    "entry_price": 2.3783,
+    "exit_price": 2.4115,
+    "pnl": -0.0332
+  },
+  {
+    "entry_time": 1742635800,
+    "exit_time": 1742641200,
+    "side": "long",
+    "entry_price": 2.4115,
+    "exit_price": 2.3877,
+    "pnl": -0.0238
+  },
+  {
+    "entry_time": 1742641200,
+    "exit_time": 1742697900,
+    "side": "short",
+    "entry_price": 2.3877,
+    "exit_price": 2.3853,
+    "pnl": 0.0024
+  },
+  {
+    "entry_time": 1742697900,
+    "exit_time": 1742753700,
+    "side": "long",
+    "entry_price": 2.3853,
+    "exit_price": 2.3846,
+    "pnl": -0.0007
+  },
+  {
+    "entry_time": 1742753700,
+    "exit_time": 1742767200,
+    "side": "short",
+    "entry_price": 2.3846,
+    "exit_price": 2.4148,
+    "pnl": -0.0302
+  },
+  {
+    "entry_time": 1742767200,
+    "exit_time": 1742780700,
+    "side": "long",
+    "entry_price": 2.4148,
+    "exit_price": 2.414,
+    "pnl": -0.0008
+  },
+  {
+    "entry_time": 1742780700,
+    "exit_time": 1742788800,
+    "side": "short",
+    "entry_price": 2.414,
+    "exit_price": 2.4507,
+    "pnl": -0.0367
+  },
+  {
+    "entry_time": 1742788800,
+    "exit_time": 1742832900,
+    "side": "long",
+    "entry_price": 2.4507,
+    "exit_price": 2.4485,
+    "pnl": -0.0022
+  },
+  {
+    "entry_time": 1742832900,
+    "exit_time": 1742895900,
+    "side": "short",
+    "entry_price": 2.4485,
+    "exit_price": 2.4382,
+    "pnl": 0.0103
+  },
+  {
+    "entry_time": 1742895900,
+    "exit_time": 1742957100,
+    "side": "long",
+    "entry_price": 2.4382,
+    "exit_price": 2.4399,
+    "pnl": 0.0017
+  },
+  {
+    "entry_time": 1742957100,
+    "exit_time": 1742975100,
+    "side": "short",
+    "entry_price": 2.4399,
+    "exit_price": 2.4643,
+    "pnl": -0.0244
+  },
+  {
+    "entry_time": 1742975100,
+    "exit_time": 1742991300,
+    "side": "long",
+    "entry_price": 2.4643,
+    "exit_price": 2.4472,
+    "pnl": -0.0171
+  },
+  {
+    "entry_time": 1742991300,
+    "exit_time": 1743040800,
+    "side": "short",
+    "entry_price": 2.4472,
+    "exit_price": 2.3764,
+    "pnl": 0.0708
+  },
+  {
+    "entry_time": 1743040800,
+    "exit_time": 1743074100,
+    "side": "long",
+    "entry_price": 2.3764,
+    "exit_price": 2.3493,
+    "pnl": -0.0271
+  },
+  {
+    "entry_time": 1743074100,
+    "exit_time": 1743086700,
+    "side": "short",
+    "entry_price": 2.3493,
+    "exit_price": 2.3609,
+    "pnl": -0.0116
+  },
+  {
+    "entry_time": 1743086700,
+    "exit_time": 1743123600,
+    "side": "long",
+    "entry_price": 2.3609,
+    "exit_price": 2.3182,
+    "pnl": -0.0427
+  },
+  {
+    "entry_time": 1743123600,
+    "exit_time": 1743206400,
+    "side": "short",
+    "entry_price": 2.3182,
+    "exit_price": 2.2122,
+    "pnl": 0.106
+  },
+  {
+    "entry_time": 1743206400,
+    "exit_time": 1743214500,
+    "side": "long",
+    "entry_price": 2.2122,
+    "exit_price": 2.1817,
+    "pnl": -0.0305
+  },
+  {
+    "entry_time": 1743214500,
+    "exit_time": 1743253200,
+    "side": "short",
+    "entry_price": 2.1817,
+    "exit_price": 2.124,
+    "pnl": 0.0577
+  },
+  {
+    "entry_time": 1743253200,
+    "exit_time": 1743330600,
+    "side": "long",
+    "entry_price": 2.124,
+    "exit_price": 2.1533,
+    "pnl": 0.0293
+  },
+  {
+    "entry_time": 1743330600,
+    "exit_time": 1743424200,
+    "side": "short",
+    "entry_price": 2.1533,
+    "exit_price": 2.0989,
+    "pnl": 0.0544
+  },
+  {
+    "entry_time": 1743424200,
+    "exit_time": 1743507000,
+    "side": "long",
+    "entry_price": 2.0989,
+    "exit_price": 2.1321,
+    "pnl": 0.0332
+  },
+  {
+    "entry_time": 1743507000,
+    "exit_time": 1743519600,
+    "side": "short",
+    "entry_price": 2.1321,
+    "exit_price": 2.1695,
+    "pnl": -0.0374
+  },
+  {
+    "entry_time": 1743519600,
+    "exit_time": 1743554700,
+    "side": "long",
+    "entry_price": 2.1695,
+    "exit_price": 2.1131,
+    "pnl": -0.0564
+  },
+  {
+    "entry_time": 1743554700,
+    "exit_time": 1743579900,
+    "side": "short",
+    "entry_price": 2.1131,
+    "exit_price": 2.107,
+    "pnl": 0.0061
+  },
+  {
+    "entry_time": 1743579900,
+    "exit_time": 1743625800,
+    "side": "long",
+    "entry_price": 2.107,
+    "exit_price": 2.1065,
+    "pnl": -0.0005
+  },
+  {
+    "entry_time": 1743625800,
+    "exit_time": 1743705000,
+    "side": "short",
+    "entry_price": 2.1065,
+    "exit_price": 2.0456,
+    "pnl": 0.0609
+  },
+  {
+    "entry_time": 1743705000,
+    "exit_time": 1743761700,
+    "side": "long",
+    "entry_price": 2.0456,
+    "exit_price": 2.0582,
+    "pnl": 0.0126
+  },
+  {
+    "entry_time": 1743761700,
+    "exit_time": 1743774300,
+    "side": "short",
+    "entry_price": 2.0582,
+    "exit_price": 2.1188,
+    "pnl": -0.0606
+  },
+  {
+    "entry_time": 1743774300,
+    "exit_time": 1743858900,
+    "side": "long",
+    "entry_price": 2.1188,
+    "exit_price": 2.1319,
+    "pnl": 0.0131
+  },
+  {
+    "entry_time": 1743858900,
+    "exit_time": 1743898500,
+    "side": "short",
+    "entry_price": 2.1319,
+    "exit_price": 2.1469,
+    "pnl": -0.015
+  },
+  {
+    "entry_time": 1743898500,
+    "exit_time": 1743909300,
+    "side": "long",
+    "entry_price": 2.1469,
+    "exit_price": 2.1241,
+    "pnl": -0.0228
+  },
+  {
+    "entry_time": 1743909300,
+    "exit_time": 1743950700,
+    "side": "short",
+    "entry_price": 2.1241,
+    "exit_price": 2.0921,
+    "pnl": 0.032
+  },
+  {
+    "entry_time": 1743950700,
+    "exit_time": 1743960600,
+    "side": "long",
+    "entry_price": 2.0921,
+    "exit_price": 2.0361,
+    "pnl": -0.056
+  },
+  {
+    "entry_time": 1743960600,
+    "exit_time": 1744014600,
+    "side": "short",
+    "entry_price": 2.0361,
+    "exit_price": 1.7844,
+    "pnl": 0.2517
+  },
+  {
+    "entry_time": 1744014600,
+    "exit_time": 1744094700,
+    "side": "long",
+    "entry_price": 1.7844,
+    "exit_price": 1.8592,
+    "pnl": 0.0748
+  },
+  {
+    "entry_time": 1744094700,
+    "exit_time": 1744110900,
+    "side": "short",
+    "entry_price": 1.8592,
+    "exit_price": 1.9157,
+    "pnl": -0.0565
+  },
+  {
+    "entry_time": 1744110900,
+    "exit_time": 1744123500,
+    "side": "long",
+    "entry_price": 1.9157,
+    "exit_price": 1.8976,
+    "pnl": -0.0181
+  },
+  {
+    "entry_time": 1744123500,
+    "exit_time": 1744178400,
+    "side": "short",
+    "entry_price": 1.8976,
+    "exit_price": 1.8231,
+    "pnl": 0.0745
+  },
+  {
+    "entry_time": 1744178400,
+    "exit_time": 1744198200,
+    "side": "long",
+    "entry_price": 1.8231,
+    "exit_price": 1.7708,
+    "pnl": -0.0523
+  },
+  {
+    "entry_time": 1744198200,
+    "exit_time": 1744214400,
+    "side": "short",
+    "entry_price": 1.7708,
+    "exit_price": 1.8436,
+    "pnl": -0.0728
+  },
+  {
+    "entry_time": 1744214400,
+    "exit_time": 1744254000,
+    "side": "long",
+    "entry_price": 1.8436,
+    "exit_price": 1.9817,
+    "pnl": 0.1381
+  },
+  {
+    "entry_time": 1744254000,
+    "exit_time": 1744335900,
+    "side": "short",
+    "entry_price": 1.9817,
+    "exit_price": 1.9935,
+    "pnl": -0.0118
+  },
+  {
+    "entry_time": 1744335900,
+    "exit_time": 1744380900,
+    "side": "long",
+    "entry_price": 1.9935,
+    "exit_price": 1.9874,
+    "pnl": -0.0061
+  },
+  {
+    "entry_time": 1744380900,
+    "exit_time": 1744392600,
+    "side": "short",
+    "entry_price": 1.9874,
+    "exit_price": 2.0332,
+    "pnl": -0.0458
+  },
+  {
+    "entry_time": 1744392600,
+    "exit_time": 1744425900,
+    "side": "long",
+    "entry_price": 2.0332,
+    "exit_price": 2.0032,
+    "pnl": -0.03
+  },
+  {
+    "entry_time": 1744425900,
+    "exit_time": 1744434900,
+    "side": "short",
+    "entry_price": 2.0032,
+    "exit_price": 2.0307,
+    "pnl": -0.0275
+  },
+  {
+    "entry_time": 1744434900,
+    "exit_time": 1744520400,
+    "side": "long",
+    "entry_price": 2.0307,
+    "exit_price": 2.1269,
+    "pnl": 0.0962
+  },
+  {
+    "entry_time": 1744520400,
+    "exit_time": 1744533900,
+    "side": "short",
+    "entry_price": 2.1269,
+    "exit_price": 2.1754,
+    "pnl": -0.0485
+  },
+  {
+    "entry_time": 1744533900,
+    "exit_time": 1744546500,
+    "side": "long",
+    "entry_price": 2.1754,
+    "exit_price": 2.1694,
+    "pnl": -0.006
+  },
+  {
+    "entry_time": 1744546500,
+    "exit_time": 1744596900,
+    "side": "short",
+    "entry_price": 2.1694,
+    "exit_price": 2.1586,
+    "pnl": 0.0108
+  },
+  {
+    "entry_time": 1744596900,
+    "exit_time": 1744614000,
+    "side": "long",
+    "entry_price": 2.1586,
+    "exit_price": 2.108,
+    "pnl": -0.0506
+  },
+  {
+    "entry_time": 1744614000,
+    "exit_time": 1744626600,
+    "side": "short",
+    "entry_price": 2.108,
+    "exit_price": 2.1511,
+    "pnl": -0.0431
+  },
+  {
+    "entry_time": 1744626600,
+    "exit_time": 1744645500,
+    "side": "long",
+    "entry_price": 2.1511,
+    "exit_price": 2.115,
+    "pnl": -0.0361
+  },
+  {
+    "entry_time": 1744645500,
+    "exit_time": 1744688700,
+    "side": "short",
+    "entry_price": 2.115,
+    "exit_price": 2.1524,
+    "pnl": -0.0374
+  },
+  {
+    "entry_time": 1744688700,
+    "exit_time": 1744726500,
+    "side": "long",
+    "entry_price": 2.1524,
+    "exit_price": 2.1388,
+    "pnl": -0.0136
+  },
+  {
+    "entry_time": 1744726500,
+    "exit_time": 1744800300,
+    "side": "short",
+    "entry_price": 2.1388,
+    "exit_price": 2.0795,
+    "pnl": 0.0593
+  },
+  {
+    "entry_time": 1744800300,
+    "exit_time": 1744825500,
+    "side": "long",
+    "entry_price": 2.0795,
+    "exit_price": 2.0517,
+    "pnl": -0.0278
+  },
+  {
+    "entry_time": 1744825500,
+    "exit_time": 1744867800,
+    "side": "short",
+    "entry_price": 2.0517,
+    "exit_price": 2.1001,
+    "pnl": -0.0484
+  },
+  {
+    "entry_time": 1744867800,
+    "exit_time": 1744899300,
+    "side": "long",
+    "entry_price": 2.1001,
+    "exit_price": 2.077,
+    "pnl": -0.0231
+  },
+  {
+    "entry_time": 1744899300,
+    "exit_time": 1744912800,
+    "side": "short",
+    "entry_price": 2.077,
+    "exit_price": 2.1009,
+    "pnl": -0.0239
+  },
+  {
+    "entry_time": 1744912800,
+    "exit_time": 1744917300,
+    "side": "long",
+    "entry_price": 2.1009,
+    "exit_price": 2.0568,
+    "pnl": -0.0441
+  },
+  {
+    "entry_time": 1744917300,
+    "exit_time": 1744964100,
+    "side": "short",
+    "entry_price": 2.0568,
+    "exit_price": 2.0757,
+    "pnl": -0.0189
+  },
+  {
+    "entry_time": 1744964100,
+    "exit_time": 1744988400,
+    "side": "long",
+    "entry_price": 2.0757,
+    "exit_price": 2.0596,
+    "pnl": -0.0161
+  },
+  {
+    "entry_time": 1744988400,
+    "exit_time": 1745000100,
+    "side": "short",
+    "entry_price": 2.0596,
+    "exit_price": 2.0868,
+    "pnl": -0.0272
+  },
+  {
+    "entry_time": 1745000100,
+    "exit_time": 1745018100,
+    "side": "long",
+    "entry_price": 2.0868,
+    "exit_price": 2.0594,
+    "pnl": -0.0274
+  },
+  {
+    "entry_time": 1745018100,
+    "exit_time": 1745028900,
+    "side": "short",
+    "entry_price": 2.0594,
+    "exit_price": 2.0786,
+    "pnl": -0.0192
+  },
+  {
+    "entry_time": 1745028900,
+    "exit_time": 1745077500,
+    "side": "long",
+    "entry_price": 2.0786,
+    "exit_price": 2.076,
+    "pnl": -0.0026
+  },
+  {
+    "entry_time": 1745077500,
+    "exit_time": 1745085600,
+    "side": "short",
+    "entry_price": 2.076,
+    "exit_price": 2.0917,
+    "pnl": -0.0157
+  },
+  {
+    "entry_time": 1745085600,
+    "exit_time": 1745130600,
+    "side": "long",
+    "entry_price": 2.0917,
+    "exit_price": 2.0744,
+    "pnl": -0.0173
+  },
+  {
+    "entry_time": 1745130600,
+    "exit_time": 1745167500,
+    "side": "short",
+    "entry_price": 2.0744,
+    "exit_price": 2.0595,
+    "pnl": 0.0149
+  },
+  {
+    "entry_time": 1745167500,
+    "exit_time": 1745234100,
+    "side": "long",
+    "entry_price": 2.0595,
+    "exit_price": 2.112,
+    "pnl": 0.0525
+  },
+  {
+    "entry_time": 1745234100,
+    "exit_time": 1745244900,
+    "side": "short",
+    "entry_price": 2.112,
+    "exit_price": 2.1339,
+    "pnl": -0.0219
+  },
+  {
+    "entry_time": 1745244900,
+    "exit_time": 1745253000,
+    "side": "long",
+    "entry_price": 2.1339,
+    "exit_price": 2.0951,
+    "pnl": -0.0388
+  },
+  {
+    "entry_time": 1745253000,
+    "exit_time": 1745284500,
+    "side": "short",
+    "entry_price": 2.0951,
+    "exit_price": 2.0909,
+    "pnl": 0.0042
+  },
+  {
+    "entry_time": 1745284500,
+    "exit_time": 1745415900,
+    "side": "long",
+    "entry_price": 2.0909,
+    "exit_price": 2.2454,
+    "pnl": 0.1545
+  },
+  {
+    "entry_time": 1745415900,
+    "exit_time": 1745496900,
+    "side": "short",
+    "entry_price": 2.2454,
+    "exit_price": 2.1618,
+    "pnl": 0.0836
+  },
+  {
+    "entry_time": 1745496900,
+    "exit_time": 1745548200,
+    "side": "long",
+    "entry_price": 2.1618,
+    "exit_price": 2.178,
+    "pnl": 0.0162
+  },
+  {
+    "entry_time": 1745548200,
+    "exit_time": 1745574300,
+    "side": "short",
+    "entry_price": 2.178,
+    "exit_price": 2.2075,
+    "pnl": -0.0295
+  },
+  {
+    "entry_time": 1745574300,
+    "exit_time": 1745586900,
+    "side": "long",
+    "entry_price": 2.2075,
+    "exit_price": 2.1774,
+    "pnl": -0.0301
+  },
+  {
+    "entry_time": 1745586900,
+    "exit_time": 1745631900,
+    "side": "short",
+    "entry_price": 2.1774,
+    "exit_price": 2.2019,
+    "pnl": -0.0245
+  },
+  {
+    "entry_time": 1745631900,
+    "exit_time": 1745657100,
+    "side": "long",
+    "entry_price": 2.2019,
+    "exit_price": 2.2096,
+    "pnl": 0.0077
+  },
+  {
+    "entry_time": 1745657100,
+    "exit_time": 1745757000,
+    "side": "short",
+    "entry_price": 2.2096,
+    "exit_price": 2.2365,
+    "pnl": -0.0269
+  },
+  {
+    "entry_time": 1745757000,
+    "exit_time": 1745798400,
+    "side": "long",
+    "entry_price": 2.2365,
+    "exit_price": 2.2403,
+    "pnl": 0.0038
+  },
+  {
+    "entry_time": 1745798400,
+    "exit_time": 1745816400,
+    "side": "short",
+    "entry_price": 2.2403,
+    "exit_price": 2.2785,
+    "pnl": -0.0382
+  },
+  {
+    "entry_time": 1745816400,
+    "exit_time": 1745847900,
+    "side": "long",
+    "entry_price": 2.2785,
+    "exit_price": 2.28,
+    "pnl": 0.0015
+  },
+  {
+    "entry_time": 1745847900,
+    "exit_time": 1745889300,
+    "side": "short",
+    "entry_price": 2.28,
+    "exit_price": 2.3076,
+    "pnl": -0.0276
+  },
+  {
+    "entry_time": 1745889300,
+    "exit_time": 1745901000,
+    "side": "long",
+    "entry_price": 2.3076,
+    "exit_price": 2.2767,
+    "pnl": -0.0309
+  },
+  {
+    "entry_time": 1745901000,
+    "exit_time": 1745919900,
+    "side": "short",
+    "entry_price": 2.2767,
+    "exit_price": 2.2998,
+    "pnl": -0.0231
+  },
+  {
+    "entry_time": 1745919900,
+    "exit_time": 1745930700,
+    "side": "long",
+    "entry_price": 2.2998,
+    "exit_price": 2.2722,
+    "pnl": -0.0276
+  },
+  {
+    "entry_time": 1745930700,
+    "exit_time": 1745943300,
+    "side": "short",
+    "entry_price": 2.2722,
+    "exit_price": 2.2938,
+    "pnl": -0.0216
+  },
+  {
+    "entry_time": 1745943300,
+    "exit_time": 1745960400,
+    "side": "long",
+    "entry_price": 2.2938,
+    "exit_price": 2.2669,
+    "pnl": -0.0269
+  },
+  {
+    "entry_time": 1745960400,
+    "exit_time": 1746043200,
+    "side": "short",
+    "entry_price": 2.2669,
+    "exit_price": 2.2076,
+    "pnl": 0.0593
+  },
+  {
+    "entry_time": 1746043200,
+    "exit_time": 1746107100,
+    "side": "long",
+    "entry_price": 2.2076,
+    "exit_price": 2.2158,
+    "pnl": 0.0082
+  },
+  {
+    "entry_time": 1746107100,
+    "exit_time": 1746111600,
+    "side": "short",
+    "entry_price": 2.2158,
+    "exit_price": 2.2535,
+    "pnl": -0.0377
+  },
+  {
+    "entry_time": 1746111600,
+    "exit_time": 1746131400,
+    "side": "long",
+    "entry_price": 2.2535,
+    "exit_price": 2.2163,
+    "pnl": -0.0372
+  },
+  {
+    "entry_time": 1746131400,
+    "exit_time": 1746154800,
+    "side": "short",
+    "entry_price": 2.2163,
+    "exit_price": 2.2323,
+    "pnl": -0.016
+  },
+  {
+    "entry_time": 1746154800,
+    "exit_time": 1746167400,
+    "side": "long",
+    "entry_price": 2.2323,
+    "exit_price": 2.2092,
+    "pnl": -0.0231
+  },
+  {
+    "entry_time": 1746167400,
+    "exit_time": 1746185400,
+    "side": "short",
+    "entry_price": 2.2092,
+    "exit_price": 2.2177,
+    "pnl": -0.0085
+  },
+  {
+    "entry_time": 1746185400,
+    "exit_time": 1746212400,
+    "side": "long",
+    "entry_price": 2.2177,
+    "exit_price": 2.2041,
+    "pnl": -0.0136
+  },
+  {
+    "entry_time": 1746212400,
+    "exit_time": 1746240300,
+    "side": "short",
+    "entry_price": 2.2041,
+    "exit_price": 2.2177,
+    "pnl": -0.0136
+  },
+  {
+    "entry_time": 1746240300,
+    "exit_time": 1746255600,
+    "side": "long",
+    "entry_price": 2.2177,
+    "exit_price": 2.2019,
+    "pnl": -0.0158
+  },
+  {
+    "entry_time": 1746255600,
+    "exit_time": 1746281700,
+    "side": "short",
+    "entry_price": 2.2019,
+    "exit_price": 2.2062,
+    "pnl": -0.0043
+  },
+  {
+    "entry_time": 1746281700,
+    "exit_time": 1746291600,
+    "side": "long",
+    "entry_price": 2.2062,
+    "exit_price": 2.183,
+    "pnl": -0.0232
+  },
+  {
+    "entry_time": 1746291600,
+    "exit_time": 1746324000,
+    "side": "short",
+    "entry_price": 2.183,
+    "exit_price": 2.2109,
+    "pnl": -0.0279
+  },
+  {
+    "entry_time": 1746324000,
+    "exit_time": 1746349200,
+    "side": "long",
+    "entry_price": 2.2109,
+    "exit_price": 2.1862,
+    "pnl": -0.0247
+  },
+  {
+    "entry_time": 1746349200,
+    "exit_time": 1746370800,
+    "side": "short",
+    "entry_price": 2.1862,
+    "exit_price": 2.1983,
+    "pnl": -0.0121
+  },
+  {
+    "entry_time": 1746370800,
+    "exit_time": 1746378900,
+    "side": "long",
+    "entry_price": 2.1983,
+    "exit_price": 2.1777,
+    "pnl": -0.0206
+  },
+  {
+    "entry_time": 1746378900,
+    "exit_time": 1746423900,
+    "side": "short",
+    "entry_price": 2.1777,
+    "exit_price": 2.177,
+    "pnl": 0.0007
+  },
+  {
+    "entry_time": 1746423900,
+    "exit_time": 1746440100,
+    "side": "long",
+    "entry_price": 2.177,
+    "exit_price": 2.163,
+    "pnl": -0.014
+  },
+  {
+    "entry_time": 1746440100,
+    "exit_time": 1746468000,
+    "side": "short",
+    "entry_price": 2.163,
+    "exit_price": 2.1472,
+    "pnl": 0.0158
+  },
+  {
+    "entry_time": 1746468000,
+    "exit_time": 1746477000,
+    "side": "long",
+    "entry_price": 2.1472,
+    "exit_price": 2.1182,
+    "pnl": -0.029
+  },
+  {
+    "entry_time": 1746477000,
+    "exit_time": 1746544500,
+    "side": "short",
+    "entry_price": 2.1182,
+    "exit_price": 2.116,
+    "pnl": 0.0022
+  },
+  {
+    "entry_time": 1746544500,
+    "exit_time": 1746566100,
+    "side": "long",
+    "entry_price": 2.116,
+    "exit_price": 2.1121,
+    "pnl": -0.0039
+  },
+  {
+    "entry_time": 1746566100,
+    "exit_time": 1746569700,
+    "side": "short",
+    "entry_price": 2.1121,
+    "exit_price": 2.1458,
+    "pnl": -0.0337
+  },
+  {
+    "entry_time": 1746569700,
+    "exit_time": 1746596700,
+    "side": "long",
+    "entry_price": 2.1458,
+    "exit_price": 2.1331,
+    "pnl": -0.0127
+  },
+  {
+    "entry_time": 1746596700,
+    "exit_time": 1746627300,
+    "side": "short",
+    "entry_price": 2.1331,
+    "exit_price": 2.143,
+    "pnl": -0.0099
+  },
+  {
+    "entry_time": 1746627300,
+    "exit_time": 1746633600,
+    "side": "long",
+    "entry_price": 2.143,
+    "exit_price": 2.1207,
+    "pnl": -0.0223
+  },
+  {
+    "entry_time": 1746633600,
+    "exit_time": 1746666900,
+    "side": "short",
+    "entry_price": 2.1207,
+    "exit_price": 2.144,
+    "pnl": -0.0233
+  },
+  {
+    "entry_time": 1746666900,
+    "exit_time": 1746922500,
+    "side": "long",
+    "entry_price": 2.144,
+    "exit_price": 2.4034,
+    "pnl": 0.2594
+  },
+  {
+    "entry_time": 1746922500,
+    "exit_time": 1747009800,
+    "side": "short",
+    "entry_price": 2.4034,
+    "exit_price": 2.3858,
+    "pnl": 0.0176
+  },
+  {
+    "entry_time": 1747009800,
+    "exit_time": 1747074600,
+    "side": "long",
+    "entry_price": 2.3858,
+    "exit_price": 2.4962,
+    "pnl": 0.1104
+  },
+  {
+    "entry_time": 1747074600,
+    "exit_time": 1747116000,
+    "side": "short",
+    "entry_price": 2.4962,
+    "exit_price": 2.5082,
+    "pnl": -0.012
+  },
+  {
+    "entry_time": 1747116000,
+    "exit_time": 1747188900,
+    "side": "long",
+    "entry_price": 2.5082,
+    "exit_price": 2.5457,
+    "pnl": 0.0375
+  },
+  {
+    "entry_time": 1747188900,
+    "exit_time": 1747208700,
+    "side": "short",
+    "entry_price": 2.5457,
+    "exit_price": 2.6196,
+    "pnl": -0.0739
+  },
+  {
+    "entry_time": 1747208700,
+    "exit_time": 1747229400,
+    "side": "long",
+    "entry_price": 2.6196,
+    "exit_price": 2.5636,
+    "pnl": -0.056
+  },
+  {
+    "entry_time": 1747229400,
+    "exit_time": 1747327500,
+    "side": "short",
+    "entry_price": 2.5636,
+    "exit_price": 2.4882,
+    "pnl": 0.0754
+  },
+  {
+    "entry_time": 1747327500,
+    "exit_time": 1747334700,
+    "side": "long",
+    "entry_price": 2.4882,
+    "exit_price": 2.4315,
+    "pnl": -0.0567
+  },
+  {
+    "entry_time": 1747334700,
+    "exit_time": 1747372500,
+    "side": "short",
+    "entry_price": 2.4315,
+    "exit_price": 2.4244,
+    "pnl": 0.0071
+  },
+  {
+    "entry_time": 1747372500,
+    "exit_time": 1747384200,
+    "side": "long",
+    "entry_price": 2.4244,
+    "exit_price": 2.3855,
+    "pnl": -0.0389
+  },
+  {
+    "entry_time": 1747384200,
+    "exit_time": 1747388700,
+    "side": "short",
+    "entry_price": 2.3855,
+    "exit_price": 2.424,
+    "pnl": -0.0385
+  },
+  {
+    "entry_time": 1747388700,
+    "exit_time": 1747413000,
+    "side": "long",
+    "entry_price": 2.424,
+    "exit_price": 2.3984,
+    "pnl": -0.0256
+  },
+  {
+    "entry_time": 1747413000,
+    "exit_time": 1747455300,
+    "side": "short",
+    "entry_price": 2.3984,
+    "exit_price": 2.3761,
+    "pnl": 0.0223
+  },
+  {
+    "entry_time": 1747455300,
+    "exit_time": 1747479600,
+    "side": "long",
+    "entry_price": 2.3761,
+    "exit_price": 2.3498,
+    "pnl": -0.0263
+  },
+  {
+    "entry_time": 1747479600,
+    "exit_time": 1747505700,
+    "side": "short",
+    "entry_price": 2.3498,
+    "exit_price": 2.3464,
+    "pnl": 0.0034
+  },
+  {
+    "entry_time": 1747505700,
+    "exit_time": 1747590300,
+    "side": "long",
+    "entry_price": 2.3464,
+    "exit_price": 2.3957,
+    "pnl": 0.0493
+  },
+  {
+    "entry_time": 1747590300,
+    "exit_time": 1747610100,
+    "side": "short",
+    "entry_price": 2.3957,
+    "exit_price": 2.4092,
+    "pnl": -0.0135
+  },
+  {
+    "entry_time": 1747610100,
+    "exit_time": 1747620000,
+    "side": "long",
+    "entry_price": 2.4092,
+    "exit_price": 2.3733,
+    "pnl": -0.0359
+  },
+  {
+    "entry_time": 1747620000,
+    "exit_time": 1747665000,
+    "side": "short",
+    "entry_price": 2.3733,
+    "exit_price": 2.3375,
+    "pnl": 0.0358
+  },
+  {
+    "entry_time": 1747665000,
+    "exit_time": 1747721700,
+    "side": "long",
+    "entry_price": 2.3375,
+    "exit_price": 2.3615,
+    "pnl": 0.024
+  },
+  {
+    "entry_time": 1747721700,
+    "exit_time": 1747770300,
+    "side": "short",
+    "entry_price": 2.3615,
+    "exit_price": 2.3557,
+    "pnl": 0.0058
+  },
+  {
+    "entry_time": 1747770300,
+    "exit_time": 1747812600,
+    "side": "long",
+    "entry_price": 2.3557,
+    "exit_price": 2.345,
+    "pnl": -0.0107
+  },
+  {
+    "entry_time": 1747812600,
+    "exit_time": 1747834200,
+    "side": "short",
+    "entry_price": 2.345,
+    "exit_price": 2.3686,
+    "pnl": -0.0236
+  },
+  {
+    "entry_time": 1747834200,
+    "exit_time": 1747847700,
+    "side": "long",
+    "entry_price": 2.3686,
+    "exit_price": 2.3454,
+    "pnl": -0.0232
+  },
+  {
+    "entry_time": 1747847700,
+    "exit_time": 1747875600,
+    "side": "short",
+    "entry_price": 2.3454,
+    "exit_price": 2.4071,
+    "pnl": -0.0617
+  },
+  {
+    "entry_time": 1747875600,
+    "exit_time": 1747948500,
+    "side": "long",
+    "entry_price": 2.4071,
+    "exit_price": 2.4054,
+    "pnl": -0.0017
+  },
+  {
+    "entry_time": 1747948500,
+    "exit_time": 1747958400,
+    "side": "short",
+    "entry_price": 2.4054,
+    "exit_price": 2.4386,
+    "pnl": -0.0332
+  },
+  {
+    "entry_time": 1747958400,
+    "exit_time": 1747980900,
+    "side": "long",
+    "entry_price": 2.4386,
+    "exit_price": 2.4329,
+    "pnl": -0.0057
+  },
+  {
+    "entry_time": 1747980900,
+    "exit_time": 1748056500,
+    "side": "short",
+    "entry_price": 2.4329,
+    "exit_price": 2.334,
+    "pnl": 0.0989
+  },
+  {
+    "entry_time": 1748056500,
+    "exit_time": 1748124000,
+    "side": "long",
+    "entry_price": 2.334,
+    "exit_price": 2.3367,
+    "pnl": 0.0027
+  },
+  {
+    "entry_time": 1748124000,
+    "exit_time": 1748196900,
+    "side": "short",
+    "entry_price": 2.3367,
+    "exit_price": 2.3025,
+    "pnl": 0.0342
+  },
+  {
+    "entry_time": 1748196900,
+    "exit_time": 1748267100,
+    "side": "long",
+    "entry_price": 2.3025,
+    "exit_price": 2.3235,
+    "pnl": 0.021
+  },
+  {
+    "entry_time": 1748267100,
+    "exit_time": 1748325600,
+    "side": "short",
+    "entry_price": 2.3235,
+    "exit_price": 2.3044,
+    "pnl": 0.0191
+  },
+  {
+    "entry_time": 1748325600,
+    "exit_time": 1748381400,
+    "side": "long",
+    "entry_price": 2.3044,
+    "exit_price": 2.3164,
+    "pnl": 0.012
+  },
+  {
+    "entry_time": 1748381400,
+    "exit_time": 1748434500,
+    "side": "short",
+    "entry_price": 2.3164,
+    "exit_price": 2.3116,
+    "pnl": 0.0048
+  },
+  {
+    "entry_time": 1748434500,
+    "exit_time": 1748439900,
+    "side": "long",
+    "entry_price": 2.3116,
+    "exit_price": 2.2813,
+    "pnl": -0.0303
+  },
+  {
+    "entry_time": 1748439900,
+    "exit_time": 1748473200,
+    "side": "short",
+    "entry_price": 2.2813,
+    "exit_price": 2.2659,
+    "pnl": 0.0154
+  },
+  {
+    "entry_time": 1748473200,
+    "exit_time": 1748527200,
+    "side": "long",
+    "entry_price": 2.2659,
+    "exit_price": 2.2806,
+    "pnl": 0.0147
+  },
+  {
+    "entry_time": 1748527200,
+    "exit_time": 1748628900,
+    "side": "short",
+    "entry_price": 2.2806,
+    "exit_price": 2.1972,
+    "pnl": 0.0834
+  },
+  {
+    "entry_time": 1748628900,
+    "exit_time": 1748644200,
+    "side": "long",
+    "entry_price": 2.1972,
+    "exit_price": 2.1469,
+    "pnl": -0.0503
+  },
+  {
+    "entry_time": 1748644200,
+    "exit_time": 1748693700,
+    "side": "short",
+    "entry_price": 2.1469,
+    "exit_price": 2.15,
+    "pnl": -0.0031
+  },
+  {
+    "entry_time": 1748693700,
+    "exit_time": 1748734200,
+    "side": "long",
+    "entry_price": 2.15,
+    "exit_price": 2.1737,
+    "pnl": 0.0237
+  },
+  {
+    "entry_time": 1748734200,
+    "exit_time": 1748793600,
+    "side": "short",
+    "entry_price": 2.1737,
+    "exit_price": 2.1617,
+    "pnl": 0.012
+  },
+  {
+    "entry_time": 1748793600,
+    "exit_time": 1748833200,
+    "side": "long",
+    "entry_price": 2.1617,
+    "exit_price": 2.1526,
+    "pnl": -0.0091
+  },
+  {
+    "entry_time": 1748833200,
+    "exit_time": 1748852100,
+    "side": "short",
+    "entry_price": 2.1526,
+    "exit_price": 2.1766,
+    "pnl": -0.024
+  },
+  {
+    "entry_time": 1748852100,
+    "exit_time": 1748854800,
+    "side": "long",
+    "entry_price": 2.1766,
+    "exit_price": 2.1507,
+    "pnl": -0.0259
+  },
+  {
+    "entry_time": 1748854800,
+    "exit_time": 1748884500,
+    "side": "short",
+    "entry_price": 2.1507,
+    "exit_price": 2.1708,
+    "pnl": -0.0201
+  },
+  {
+    "entry_time": 1748884500,
+    "exit_time": 1748923200,
+    "side": "long",
+    "entry_price": 2.1708,
+    "exit_price": 2.1906,
+    "pnl": 0.0198
+  },
+  {
+    "entry_time": 1748923200,
+    "exit_time": 1748948400,
+    "side": "short",
+    "entry_price": 2.1906,
+    "exit_price": 2.2073,
+    "pnl": -0.0167
+  },
+  {
+    "entry_time": 1748948400,
+    "exit_time": 1748987100,
+    "side": "long",
+    "entry_price": 2.2073,
+    "exit_price": 2.2422,
+    "pnl": 0.0349
+  },
+  {
+    "entry_time": 1748987100,
+    "exit_time": 1749027600,
+    "side": "short",
+    "entry_price": 2.2422,
+    "exit_price": 2.253,
+    "pnl": -0.0108
+  },
+  {
+    "entry_time": 1749027600,
+    "exit_time": 1749039300,
+    "side": "long",
+    "entry_price": 2.253,
+    "exit_price": 2.2388,
+    "pnl": -0.0142
+  },
+  {
+    "entry_time": 1749039300,
+    "exit_time": 1749049200,
+    "side": "short",
+    "entry_price": 2.2388,
+    "exit_price": 2.255,
+    "pnl": -0.0162
+  },
+  {
+    "entry_time": 1749049200,
+    "exit_time": 1749061800,
+    "side": "long",
+    "entry_price": 2.255,
+    "exit_price": 2.2276,
+    "pnl": -0.0274
+  },
+  {
+    "entry_time": 1749061800,
+    "exit_time": 1749124800,
+    "side": "short",
+    "entry_price": 2.2276,
+    "exit_price": 2.2104,
+    "pnl": 0.0172
+  },
+  {
+    "entry_time": 1749124800,
+    "exit_time": 1749131100,
+    "side": "long",
+    "entry_price": 2.2104,
+    "exit_price": 2.1994,
+    "pnl": -0.011
+  },
+  {
+    "entry_time": 1749131100,
+    "exit_time": 1749181500,
+    "side": "short",
+    "entry_price": 2.1994,
+    "exit_price": 2.1281,
+    "pnl": 0.0713
+  },
+  {
+    "entry_time": 1749181500,
+    "exit_time": 1749254400,
+    "side": "long",
+    "entry_price": 2.1281,
+    "exit_price": 2.1518,
+    "pnl": 0.0237
+  },
+  {
+    "entry_time": 1749254400,
+    "exit_time": 1749266100,
+    "side": "short",
+    "entry_price": 2.1518,
+    "exit_price": 2.1732,
+    "pnl": -0.0214
+  },
+  {
+    "entry_time": 1749266100,
+    "exit_time": 1749318300,
+    "side": "long",
+    "entry_price": 2.1732,
+    "exit_price": 2.1719,
+    "pnl": -0.0013
+  },
+  {
+    "entry_time": 1749318300,
+    "exit_time": 1749359700,
+    "side": "short",
+    "entry_price": 2.1719,
+    "exit_price": 2.1865,
+    "pnl": -0.0146
+  },
+  {
+    "entry_time": 1749359700,
+    "exit_time": 1749422700,
+    "side": "long",
+    "entry_price": 2.1865,
+    "exit_price": 2.2589,
+    "pnl": 0.0724
+  },
+  {
+    "entry_time": 1749422700,
+    "exit_time": 1749460500,
+    "side": "short",
+    "entry_price": 2.2589,
+    "exit_price": 2.2456,
+    "pnl": 0.0133
+  },
+  {
+    "entry_time": 1749460500,
+    "exit_time": 1749532500,
+    "side": "long",
+    "entry_price": 2.2456,
+    "exit_price": 2.2883,
+    "pnl": 0.0427
+  },
+  {
+    "entry_time": 1749532500,
+    "exit_time": 1749555000,
+    "side": "short",
+    "entry_price": 2.2883,
+    "exit_price": 2.3119,
+    "pnl": -0.0236
+  },
+  {
+    "entry_time": 1749555000,
+    "exit_time": 1749564900,
+    "side": "long",
+    "entry_price": 2.3119,
+    "exit_price": 2.28,
+    "pnl": -0.0319
+  },
+  {
+    "entry_time": 1749564900,
+    "exit_time": 1749592800,
+    "side": "short",
+    "entry_price": 2.28,
+    "exit_price": 2.3076,
+    "pnl": -0.0276
+  },
+  {
+    "entry_time": 1749592800,
+    "exit_time": 1749606300,
+    "side": "long",
+    "entry_price": 2.3076,
+    "exit_price": 2.283,
+    "pnl": -0.0246
+  },
+  {
+    "entry_time": 1749606300,
+    "exit_time": 1749628800,
+    "side": "short",
+    "entry_price": 2.283,
+    "exit_price": 2.3097,
+    "pnl": -0.0267
+  },
+  {
+    "entry_time": 1749628800,
+    "exit_time": 1749667500,
+    "side": "long",
+    "entry_price": 2.3097,
+    "exit_price": 2.2964,
+    "pnl": -0.0133
+  },
+  {
+    "entry_time": 1749667500,
+    "exit_time": 1749736800,
+    "side": "short",
+    "entry_price": 2.2964,
+    "exit_price": 2.2505,
+    "pnl": 0.0459
+  },
+  {
+    "entry_time": 1749736800,
+    "exit_time": 1749756600,
+    "side": "long",
+    "entry_price": 2.2505,
+    "exit_price": 2.2272,
+    "pnl": -0.0233
+  },
+  {
+    "entry_time": 1749756600,
+    "exit_time": 1749801600,
+    "side": "short",
+    "entry_price": 2.2272,
+    "exit_price": 2.1521,
+    "pnl": 0.0751
+  },
+  {
+    "entry_time": 1749801600,
+    "exit_time": 1749824100,
+    "side": "long",
+    "entry_price": 2.1521,
+    "exit_price": 2.1232,
+    "pnl": -0.0289
+  },
+  {
+    "entry_time": 1749824100,
+    "exit_time": 1749872700,
+    "side": "short",
+    "entry_price": 2.1232,
+    "exit_price": 2.1584,
+    "pnl": -0.0352
+  },
+  {
+    "entry_time": 1749872700,
+    "exit_time": 1749915000,
+    "side": "long",
+    "entry_price": 2.1584,
+    "exit_price": 2.155,
+    "pnl": -0.0034
+  },
+  {
+    "entry_time": 1749915000,
+    "exit_time": 1749948300,
+    "side": "short",
+    "entry_price": 2.155,
+    "exit_price": 2.147,
+    "pnl": 0.008
+  },
+  {
+    "entry_time": 1749948300,
+    "exit_time": 1750017600,
+    "side": "long",
+    "entry_price": 2.147,
+    "exit_price": 2.1549,
+    "pnl": 0.0079
+  },
+  {
+    "entry_time": 1750017600,
+    "exit_time": 1750024800,
+    "side": "short",
+    "entry_price": 2.1549,
+    "exit_price": 2.1644,
+    "pnl": -0.0095
+  },
+  {
+    "entry_time": 1750024800,
+    "exit_time": 1750113000,
+    "side": "long",
+    "entry_price": 2.1644,
+    "exit_price": 2.2614,
+    "pnl": 0.097
+  },
+  {
+    "entry_time": 1750113000,
+    "exit_time": 1750187700,
+    "side": "short",
+    "entry_price": 2.2614,
+    "exit_price": 2.1943,
+    "pnl": 0.0671
+  },
+  {
+    "entry_time": 1750187700,
+    "exit_time": 1750198500,
+    "side": "long",
+    "entry_price": 2.1943,
+    "exit_price": 2.1552,
+    "pnl": -0.0391
+  },
+  {
+    "entry_time": 1750198500,
+    "exit_time": 1750255200,
+    "side": "short",
+    "entry_price": 2.1552,
+    "exit_price": 2.1559,
+    "pnl": -0.0007
+  },
+  {
+    "entry_time": 1750255200,
+    "exit_time": 1750331700,
+    "side": "long",
+    "entry_price": 2.1559,
+    "exit_price": 2.1522,
+    "pnl": -0.0037
+  },
+  {
+    "entry_time": 1750331700,
+    "exit_time": 1750354200,
+    "side": "short",
+    "entry_price": 2.1522,
+    "exit_price": 2.1698,
+    "pnl": -0.0176
+  },
+  {
+    "entry_time": 1750354200,
+    "exit_time": 1750391100,
+    "side": "long",
+    "entry_price": 2.1698,
+    "exit_price": 2.1541,
+    "pnl": -0.0157
+  },
+  {
+    "entry_time": 1750391100,
+    "exit_time": 1750404600,
+    "side": "short",
+    "entry_price": 2.1541,
+    "exit_price": 2.1634,
+    "pnl": -0.0093
+  },
+  {
+    "entry_time": 1750404600,
+    "exit_time": 1750428000,
+    "side": "long",
+    "entry_price": 2.1634,
+    "exit_price": 2.158,
+    "pnl": -0.0054
+  },
+  {
+    "entry_time": 1750428000,
+    "exit_time": 1750449600,
+    "side": "short",
+    "entry_price": 2.158,
+    "exit_price": 2.1392,
+    "pnl": 0.0188
+  },
+  {
+    "entry_time": 1750449600,
+    "exit_time": 1750510800,
+    "side": "long",
+    "entry_price": 2.1392,
+    "exit_price": 2.1276,
+    "pnl": -0.0116
+  },
+  {
+    "entry_time": 1750510800,
+    "exit_time": 1750552200,
+    "side": "short",
+    "entry_price": 2.1276,
+    "exit_price": 2.0795,
+    "pnl": 0.0481
+  },
+  {
+    "entry_time": 1750552200,
+    "exit_time": 1750585500,
+    "side": "long",
+    "entry_price": 2.0795,
+    "exit_price": 2.0369,
+    "pnl": -0.0426
+  },
+  {
+    "entry_time": 1750585500,
+    "exit_time": 1750631400,
+    "side": "short",
+    "entry_price": 2.0369,
+    "exit_price": 2.0024,
+    "pnl": 0.0345
+  },
+  {
+    "entry_time": 1750631400,
+    "exit_time": 1750672800,
+    "side": "long",
+    "entry_price": 2.0024,
+    "exit_price": 2.0033,
+    "pnl": 0.0009
+  },
+  {
+    "entry_time": 1750672800,
+    "exit_time": 1750682700,
+    "side": "short",
+    "entry_price": 2.0033,
+    "exit_price": 2.0188,
+    "pnl": -0.0155
+  },
+  {
+    "entry_time": 1750682700,
+    "exit_time": 1750695300,
+    "side": "long",
+    "entry_price": 2.0188,
+    "exit_price": 1.9733,
+    "pnl": -0.0455
+  },
+  {
+    "entry_time": 1750695300,
+    "exit_time": 1750698900,
+    "side": "short",
+    "entry_price": 1.9733,
+    "exit_price": 2.0169,
+    "pnl": -0.0436
+  },
+  {
+    "entry_time": 1750698900,
+    "exit_time": 1750824000,
+    "side": "long",
+    "entry_price": 2.0169,
+    "exit_price": 2.174,
+    "pnl": 0.1571
+  },
+  {
+    "entry_time": 1750824000,
+    "exit_time": 1750851000,
+    "side": "short",
+    "entry_price": 2.174,
+    "exit_price": 2.1947,
+    "pnl": -0.0207
+  },
+  {
+    "entry_time": 1750851000,
+    "exit_time": 1750864500,
+    "side": "long",
+    "entry_price": 2.1947,
+    "exit_price": 2.1818,
+    "pnl": -0.0129
+  },
+  {
+    "entry_time": 1750864500,
+    "exit_time": 1750905900,
+    "side": "short",
+    "entry_price": 2.1818,
+    "exit_price": 2.2016,
+    "pnl": -0.0198
+  },
+  {
+    "entry_time": 1750905900,
+    "exit_time": 1750928400,
+    "side": "long",
+    "entry_price": 2.2016,
+    "exit_price": 2.1809,
+    "pnl": -0.0207
+  },
+  {
+    "entry_time": 1750928400,
+    "exit_time": 1750969800,
+    "side": "short",
+    "entry_price": 2.1809,
+    "exit_price": 2.1446,
+    "pnl": 0.0363
+  },
+  {
+    "entry_time": 1750969800,
+    "exit_time": 1750977900,
+    "side": "long",
+    "entry_price": 2.1446,
+    "exit_price": 2.1082,
+    "pnl": -0.0364
+  },
+  {
+    "entry_time": 1750977900,
+    "exit_time": 1751040900,
+    "side": "short",
+    "entry_price": 2.1082,
+    "exit_price": 2.106,
+    "pnl": 0.0022
+  },
+  {
+    "entry_time": 1751040900,
+    "exit_time": 1751049000,
+    "side": "long",
+    "entry_price": 2.106,
+    "exit_price": 2.0781,
+    "pnl": -0.0279
+  },
+  {
+    "entry_time": 1751049000,
+    "exit_time": 1751056200,
+    "side": "short",
+    "entry_price": 2.0781,
+    "exit_price": 2.1102,
+    "pnl": -0.0321
+  },
+  {
+    "entry_time": 1751056200,
+    "exit_time": 1751140800,
+    "side": "long",
+    "entry_price": 2.1102,
+    "exit_price": 2.1821,
+    "pnl": 0.0719
+  },
+  {
+    "entry_time": 1751140800,
+    "exit_time": 1751188500,
+    "side": "short",
+    "entry_price": 2.1821,
+    "exit_price": 2.1921,
+    "pnl": -0.01
+  },
+  {
+    "entry_time": 1751188500,
+    "exit_time": 1751207400,
+    "side": "long",
+    "entry_price": 2.1921,
+    "exit_price": 2.1806,
+    "pnl": -0.0115
+  },
+  {
+    "entry_time": 1751207400,
+    "exit_time": 1751234400,
+    "side": "short",
+    "entry_price": 2.1806,
+    "exit_price": 2.1925,
+    "pnl": -0.0119
+  },
+  {
+    "entry_time": 1751234400,
+    "exit_time": 1751252400,
+    "side": "long",
+    "entry_price": 2.1925,
+    "exit_price": 2.1953,
+    "pnl": 0.0028
+  },
+  {
+    "entry_time": 1751252400,
+    "exit_time": 1751297400,
+    "side": "short",
+    "entry_price": 2.1953,
+    "exit_price": 2.189,
+    "pnl": 0.0063
+  },
+  {
+    "entry_time": 1751297400,
+    "exit_time": 1751324400,
+    "side": "long",
+    "entry_price": 2.189,
+    "exit_price": 2.2488,
+    "pnl": 0.0598
+  },
+  {
+    "entry_time": 1751324400,
+    "exit_time": 1751427900,
+    "side": "short",
+    "entry_price": 2.2488,
+    "exit_price": 2.1849,
+    "pnl": 0.0639
+  },
+  {
+    "entry_time": 1751427900,
+    "exit_time": 1751455800,
+    "side": "long",
+    "entry_price": 2.1849,
+    "exit_price": 2.1786,
+    "pnl": -0.0063
+  },
+  {
+    "entry_time": 1751455800,
+    "exit_time": 1751464800,
+    "side": "short",
+    "entry_price": 2.1786,
+    "exit_price": 2.1898,
+    "pnl": -0.0112
+  },
+  {
+    "entry_time": 1751464800,
+    "exit_time": 1751554800,
+    "side": "long",
+    "entry_price": 2.1898,
+    "exit_price": 2.2681,
+    "pnl": 0.0783
+  },
+  {
+    "entry_time": 1751554800,
+    "exit_time": 1751627700,
+    "side": "short",
+    "entry_price": 2.2681,
+    "exit_price": 2.2387,
+    "pnl": 0.0294
+  },
+  {
+    "entry_time": 1751627700,
+    "exit_time": 1751636700,
+    "side": "long",
+    "entry_price": 2.2387,
+    "exit_price": 2.2194,
+    "pnl": -0.0193
+  },
+  {
+    "entry_time": 1751636700,
+    "exit_time": 1751696100,
+    "side": "short",
+    "entry_price": 2.2194,
+    "exit_price": 2.231,
+    "pnl": -0.0116
+  },
+  {
+    "entry_time": 1751696100,
+    "exit_time": 1751706000,
+    "side": "long",
+    "entry_price": 2.231,
+    "exit_price": 2.2142,
+    "pnl": -0.0168
+  },
+  {
+    "entry_time": 1751706000,
+    "exit_time": 1751726700,
+    "side": "short",
+    "entry_price": 2.2142,
+    "exit_price": 2.2266,
+    "pnl": -0.0124
+  },
+  {
+    "entry_time": 1751726700,
+    "exit_time": 1751734800,
+    "side": "long",
+    "entry_price": 2.2266,
+    "exit_price": 2.2084,
+    "pnl": -0.0182
+  },
+  {
+    "entry_time": 1751734800,
+    "exit_time": 1751756400,
+    "side": "short",
+    "entry_price": 2.2084,
+    "exit_price": 2.2184,
+    "pnl": -0.01
+  },
+  {
+    "entry_time": 1751756400,
+    "exit_time": 1751825700,
+    "side": "long",
+    "entry_price": 2.2184,
+    "exit_price": 2.255,
+    "pnl": 0.0366
+  },
+  {
+    "entry_time": 1751825700,
+    "exit_time": 1751835600,
+    "side": "short",
+    "entry_price": 2.255,
+    "exit_price": 2.2726,
+    "pnl": -0.0176
+  },
+  {
+    "entry_time": 1751835600,
+    "exit_time": 1751850000,
+    "side": "long",
+    "entry_price": 2.2726,
+    "exit_price": 2.2581,
+    "pnl": -0.0145
+  },
+  {
+    "entry_time": 1751850000,
+    "exit_time": 1751855400,
+    "side": "short",
+    "entry_price": 2.2581,
+    "exit_price": 2.2785,
+    "pnl": -0.0204
+  },
+  {
+    "entry_time": 1751855400,
+    "exit_time": 1751870700,
+    "side": "long",
+    "entry_price": 2.2785,
+    "exit_price": 2.2579,
+    "pnl": -0.0206
+  },
+  {
+    "entry_time": 1751870700,
+    "exit_time": 1751880600,
+    "side": "short",
+    "entry_price": 2.2579,
+    "exit_price": 2.2775,
+    "pnl": -0.0196
+  },
+  {
+    "entry_time": 1751880600,
+    "exit_time": 1751912100,
+    "side": "long",
+    "entry_price": 2.2775,
+    "exit_price": 2.2852,
+    "pnl": 0.0077
+  },
+  {
+    "entry_time": 1751912100,
+    "exit_time": 1751961600,
+    "side": "short",
+    "entry_price": 2.2852,
+    "exit_price": 2.28,
+    "pnl": 0.0052
+  },
+  {
+    "entry_time": 1751961600,
+    "exit_time": 1752249600,
+    "side": "long",
+    "entry_price": 2.28,
+    "exit_price": 2.7497,
+    "pnl": 0.4697
+  },
+  {
+    "entry_time": 1752249600,
+    "exit_time": 1752282900,
+    "side": "short",
+    "entry_price": 2.7497,
+    "exit_price": 2.8114,
+    "pnl": -0.0617
+  },
+  {
+    "entry_time": 1752282900,
+    "exit_time": 1752322500,
+    "side": "long",
+    "entry_price": 2.8114,
+    "exit_price": 2.782,
+    "pnl": -0.0294
+  },
+  {
+    "entry_time": 1752322500,
+    "exit_time": 1752371100,
+    "side": "short",
+    "entry_price": 2.782,
+    "exit_price": 2.7617,
+    "pnl": 0.0203
+  },
+  {
+    "entry_time": 1752371100,
+    "exit_time": 1752442200,
+    "side": "long",
+    "entry_price": 2.7617,
+    "exit_price": 2.7999,
+    "pnl": 0.0382
+  },
+  {
+    "entry_time": 1752442200,
+    "exit_time": 1752459300,
+    "side": "short",
+    "entry_price": 2.7999,
+    "exit_price": 2.8836,
+    "pnl": -0.0837
+  },
+  {
+    "entry_time": 1752459300,
+    "exit_time": 1752518700,
+    "side": "long",
+    "entry_price": 2.8836,
+    "exit_price": 2.9169,
+    "pnl": 0.0333
+  },
+  {
+    "entry_time": 1752518700,
+    "exit_time": 1752574500,
+    "side": "short",
+    "entry_price": 2.9169,
+    "exit_price": 2.9144,
+    "pnl": 0.0025
+  },
+  {
+    "entry_time": 1752574500,
+    "exit_time": 1752590700,
+    "side": "long",
+    "entry_price": 2.9144,
+    "exit_price": 2.8552,
+    "pnl": -0.0592
+  },
+  {
+    "entry_time": 1752590700,
+    "exit_time": 1752647400,
+    "side": "short",
+    "entry_price": 2.8552,
+    "exit_price": 2.9352,
+    "pnl": -0.08
+  },
+  {
+    "entry_time": 1752647400,
+    "exit_time": 1752722100,
+    "side": "long",
+    "entry_price": 2.9352,
+    "exit_price": 3.0119,
+    "pnl": 0.0767
+  },
+  {
+    "entry_time": 1752722100,
+    "exit_time": 1752729300,
+    "side": "short",
+    "entry_price": 3.0119,
+    "exit_price": 3.1189,
+    "pnl": -0.107
+  },
+  {
+    "entry_time": 1752729300,
+    "exit_time": 1752823800,
+    "side": "long",
+    "entry_price": 3.1189,
+    "exit_price": 3.5234,
+    "pnl": 0.4045
+  },
+  {
+    "entry_time": 1752823800,
+    "exit_time": 1752899400,
+    "side": "short",
+    "entry_price": 3.5234,
+    "exit_price": 3.4783,
+    "pnl": 0.0451
+  },
+  {
+    "entry_time": 1752899400,
+    "exit_time": 1752922800,
+    "side": "long",
+    "entry_price": 3.4783,
+    "exit_price": 3.4037,
+    "pnl": -0.0746
+  },
+  {
+    "entry_time": 1752922800,
+    "exit_time": 1752941700,
+    "side": "short",
+    "entry_price": 3.4037,
+    "exit_price": 3.4339,
+    "pnl": -0.0302
+  },
+  {
+    "entry_time": 1752941700,
+    "exit_time": 1752977700,
+    "side": "long",
+    "entry_price": 3.4339,
+    "exit_price": 3.3926,
+    "pnl": -0.0413
+  },
+  {
+    "entry_time": 1752977700,
+    "exit_time": 1752995700,
+    "side": "short",
+    "entry_price": 3.3926,
+    "exit_price": 3.4544,
+    "pnl": -0.0618
+  },
+  {
+    "entry_time": 1752995700,
+    "exit_time": 1753048800,
+    "side": "long",
+    "entry_price": 3.4544,
+    "exit_price": 3.4505,
+    "pnl": -0.0039
+  },
+  {
+    "entry_time": 1753048800,
+    "exit_time": 1753073100,
+    "side": "short",
+    "entry_price": 3.4505,
+    "exit_price": 3.5052,
+    "pnl": -0.0547
+  },
+  {
+    "entry_time": 1753073100,
+    "exit_time": 1753123500,
+    "side": "long",
+    "entry_price": 3.5052,
+    "exit_price": 3.5544,
+    "pnl": 0.0492
+  },
+  {
+    "entry_time": 1753123500,
+    "exit_time": 1753184700,
+    "side": "short",
+    "entry_price": 3.5544,
+    "exit_price": 3.5205,
+    "pnl": 0.0339
+  },
+  {
+    "entry_time": 1753184700,
+    "exit_time": 1753232400,
+    "side": "long",
+    "entry_price": 3.5205,
+    "exit_price": 3.5082,
+    "pnl": -0.0123
+  },
+  {
+    "entry_time": 1753232400,
+    "exit_time": 1753321500,
+    "side": "short",
+    "entry_price": 3.5082,
+    "exit_price": 3.2305,
+    "pnl": 0.2777
+  },
+  {
+    "entry_time": 1753321500,
+    "exit_time": 1753331400,
+    "side": "long",
+    "entry_price": 3.2305,
+    "exit_price": 3.1315,
+    "pnl": -0.099
+  },
+  {
+    "entry_time": 1753331400,
+    "exit_time": 1753355700,
+    "side": "short",
+    "entry_price": 3.1315,
+    "exit_price": 3.1545,
+    "pnl": -0.023
+  },
+  {
+    "entry_time": 1753355700,
+    "exit_time": 1753394400,
+    "side": "long",
+    "entry_price": 3.1545,
+    "exit_price": 3.1714,
+    "pnl": 0.0169
+  },
+  {
+    "entry_time": 1753394400,
+    "exit_time": 1753442100,
+    "side": "short",
+    "entry_price": 3.1714,
+    "exit_price": 3.1484,
+    "pnl": 0.023
+  },
+  {
+    "entry_time": 1753442100,
+    "exit_time": 1753452000,
+    "side": "long",
+    "entry_price": 3.1484,
+    "exit_price": 3.0708,
+    "pnl": -0.0776
+  },
+  {
+    "entry_time": 1753452000,
+    "exit_time": 1753474500,
+    "side": "short",
+    "entry_price": 3.0708,
+    "exit_price": 3.1083,
+    "pnl": -0.0375
+  },
+  {
+    "entry_time": 1753474500,
+    "exit_time": 1753551000,
+    "side": "long",
+    "entry_price": 3.1083,
+    "exit_price": 3.1678,
+    "pnl": 0.0595
+  },
+  {
+    "entry_time": 1753551000,
+    "exit_time": 1753578900,
+    "side": "short",
+    "entry_price": 3.1678,
+    "exit_price": 3.1974,
+    "pnl": -0.0296
+  },
+  {
+    "entry_time": 1753578900,
+    "exit_time": 1753601400,
+    "side": "long",
+    "entry_price": 3.1974,
+    "exit_price": 3.1914,
+    "pnl": -0.006
+  },
+  {
+    "entry_time": 1753601400,
+    "exit_time": 1753613100,
+    "side": "short",
+    "entry_price": 3.1914,
+    "exit_price": 3.2011,
+    "pnl": -0.0097
+  },
+  {
+    "entry_time": 1753613100,
+    "exit_time": 1753693200,
+    "side": "long",
+    "entry_price": 3.2011,
+    "exit_price": 3.2513,
+    "pnl": 0.0502
+  },
+  {
+    "entry_time": 1753693200,
+    "exit_time": 1753808400,
+    "side": "short",
+    "entry_price": 3.2513,
+    "exit_price": 3.1382,
+    "pnl": 0.1131
+  },
+  {
+    "entry_time": 1753808400,
+    "exit_time": 1753867800,
+    "side": "long",
+    "entry_price": 3.1382,
+    "exit_price": 3.094,
+    "pnl": -0.0442
+  },
+  {
+    "entry_time": 1753867800,
+    "exit_time": 1753886700,
+    "side": "short",
+    "entry_price": 3.094,
+    "exit_price": 3.1475,
+    "pnl": -0.0535
+  },
+  {
+    "entry_time": 1753886700,
+    "exit_time": 1753901100,
+    "side": "long",
+    "entry_price": 3.1475,
+    "exit_price": 3.0497,
+    "pnl": -0.0978
+  },
+  {
+    "entry_time": 1753901100,
+    "exit_time": 1753905600,
+    "side": "short",
+    "entry_price": 3.0497,
+    "exit_price": 3.1121,
+    "pnl": -0.0624
+  },
+  {
+    "entry_time": 1753905600,
+    "exit_time": 1753963200,
+    "side": "long",
+    "entry_price": 3.1121,
+    "exit_price": 3.1358,
+    "pnl": 0.0237
+  },
+  {
+    "entry_time": 1753963200,
+    "exit_time": 1754051400,
+    "side": "short",
+    "entry_price": 3.1358,
+    "exit_price": 2.9959,
+    "pnl": 0.1399
+  },
+  {
+    "entry_time": 1754051400,
+    "exit_time": 1754085600,
+    "side": "long",
+    "entry_price": 2.9959,
+    "exit_price": 2.9624,
+    "pnl": -0.0335
+  },
+  {
+    "entry_time": 1754085600,
+    "exit_time": 1754109000,
+    "side": "short",
+    "entry_price": 2.9624,
+    "exit_price": 3.0118,
+    "pnl": -0.0494
+  },
+  {
+    "entry_time": 1754109000,
+    "exit_time": 1754115300,
+    "side": "long",
+    "entry_price": 3.0118,
+    "exit_price": 2.9674,
+    "pnl": -0.0444
+  },
+  {
+    "entry_time": 1754115300,
+    "exit_time": 1754191800,
+    "side": "short",
+    "entry_price": 2.9674,
+    "exit_price": 2.836,
+    "pnl": 0.1314
+  },
+  {
+    "entry_time": 1754191800,
+    "exit_time": 1754360100,
+    "side": "long",
+    "entry_price": 2.836,
+    "exit_price": 3.0474,
+    "pnl": 0.2114
+  },
+  {
+    "entry_time": 1754360100,
+    "exit_time": 1754386200,
+    "side": "short",
+    "entry_price": 3.0474,
+    "exit_price": 3.0475,
+    "pnl": -0.0001
+  },
+  {
+    "entry_time": 1754386200,
+    "exit_time": 1754397000,
+    "side": "long",
+    "entry_price": 3.0475,
+    "exit_price": 3.0291,
+    "pnl": -0.0184
+  },
+  {
+    "entry_time": 1754397000,
+    "exit_time": 1754458200,
+    "side": "short",
+    "entry_price": 3.0291,
+    "exit_price": 2.9613,
+    "pnl": 0.0678
+  },
+  {
+    "entry_time": 1754458200,
+    "exit_time": 1754535600,
+    "side": "long",
+    "entry_price": 2.9613,
+    "exit_price": 2.9708,
+    "pnl": 0.0095
+  },
+  {
+    "entry_time": 1754535600,
+    "exit_time": 1754546400,
+    "side": "short",
+    "entry_price": 2.9708,
+    "exit_price": 3.0042,
+    "pnl": -0.0334
+  },
+  {
+    "entry_time": 1754546400,
+    "exit_time": 1754584200,
+    "side": "long",
+    "entry_price": 3.0042,
+    "exit_price": 3.0332,
+    "pnl": 0.029
+  },
+  {
+    "entry_time": 1754584200,
+    "exit_time": 1754595000,
+    "side": "short",
+    "entry_price": 3.0332,
+    "exit_price": 3.0726,
+    "pnl": -0.0394
+  },
+  {
+    "entry_time": 1754595000,
+    "exit_time": 1754663400,
+    "side": "long",
+    "entry_price": 3.0726,
+    "exit_price": 3.2845,
+    "pnl": 0.2119
+  },
+  {
+    "entry_time": 1754663400,
+    "exit_time": 1754682300,
+    "side": "short",
+    "entry_price": 3.2845,
+    "exit_price": 3.3376,
+    "pnl": -0.0531
+  },
+  {
+    "entry_time": 1754682300,
+    "exit_time": 1754744400,
+    "side": "long",
+    "entry_price": 3.3376,
+    "exit_price": 3.2982,
+    "pnl": -0.0394
+  },
+  {
+    "entry_time": 1754744400,
+    "exit_time": 1754801100,
+    "side": "short",
+    "entry_price": 3.2982,
+    "exit_price": 3.2725,
+    "pnl": 0.0257
+  },
+  {
+    "entry_time": 1754801100,
+    "exit_time": 1754810100,
+    "side": "long",
+    "entry_price": 3.2725,
+    "exit_price": 3.2341,
+    "pnl": -0.0384
+  },
+  {
+    "entry_time": 1754810100,
+    "exit_time": 1754852400,
+    "side": "short",
+    "entry_price": 3.2341,
+    "exit_price": 3.2126,
+    "pnl": 0.0215
+  },
+  {
+    "entry_time": 1754852400,
+    "exit_time": 1754859600,
+    "side": "long",
+    "entry_price": 3.2126,
+    "exit_price": 3.1726,
+    "pnl": -0.04
+  },
+  {
+    "entry_time": 1754859600,
+    "exit_time": 1754874000,
+    "side": "short",
+    "entry_price": 3.1726,
+    "exit_price": 3.2049,
+    "pnl": -0.0323
+  },
+  {
+    "entry_time": 1754874000,
+    "exit_time": 1754910900,
+    "side": "long",
+    "entry_price": 3.2049,
+    "exit_price": 3.215,
+    "pnl": 0.0101
+  },
+  {
+    "entry_time": 1754910900,
+    "exit_time": 1755000900,
+    "side": "short",
+    "entry_price": 3.215,
+    "exit_price": 3.1613,
+    "pnl": 0.0537
+  },
+  {
+    "entry_time": 1755000900,
+    "exit_time": 1755046800,
+    "side": "long",
+    "entry_price": 3.1613,
+    "exit_price": 3.2167,
+    "pnl": 0.0554
+  },
+  {
+    "entry_time": 1755046800,
+    "exit_time": 1755072900,
+    "side": "short",
+    "entry_price": 3.2167,
+    "exit_price": 3.2695,
+    "pnl": -0.0528
+  },
+  {
+    "entry_time": 1755072900,
+    "exit_time": 1755096300,
+    "side": "long",
+    "entry_price": 3.2695,
+    "exit_price": 3.2401,
+    "pnl": -0.0294
+  },
+  {
+    "entry_time": 1755096300,
+    "exit_time": 1755135000,
+    "side": "short",
+    "entry_price": 3.2401,
+    "exit_price": 3.3214,
+    "pnl": -0.0813
+  },
+  {
+    "entry_time": 1755135000,
+    "exit_time": 1755149400,
+    "side": "long",
+    "entry_price": 3.3214,
+    "exit_price": 3.2765,
+    "pnl": -0.0449
+  },
+  {
+    "entry_time": 1755149400,
+    "exit_time": 1755224100,
+    "side": "short",
+    "entry_price": 3.2765,
+    "exit_price": 3.1032,
+    "pnl": 0.1733
+  },
+  {
+    "entry_time": 1755224100,
+    "exit_time": 1755264600,
+    "side": "long",
+    "entry_price": 3.1032,
+    "exit_price": 3.0833,
+    "pnl": -0.0199
+  },
+  {
+    "entry_time": 1755264600,
+    "exit_time": 1755291600,
+    "side": "short",
+    "entry_price": 3.0833,
+    "exit_price": 3.0844,
+    "pnl": -0.0011
+  },
+  {
+    "entry_time": 1755291600,
+    "exit_time": 1755342900,
+    "side": "long",
+    "entry_price": 3.0844,
+    "exit_price": 3.1168,
+    "pnl": 0.0324
+  },
+  {
+    "entry_time": 1755342900,
+    "exit_time": 1755395100,
+    "side": "short",
+    "entry_price": 3.1168,
+    "exit_price": 3.1042,
+    "pnl": 0.0126
+  },
+  {
+    "entry_time": 1755395100,
+    "exit_time": 1755449100,
+    "side": "long",
+    "entry_price": 3.1042,
+    "exit_price": 3.1107,
+    "pnl": 0.0065
+  },
+  {
+    "entry_time": 1755449100,
+    "exit_time": 1755521100,
+    "side": "short",
+    "entry_price": 3.1107,
+    "exit_price": 2.989,
+    "pnl": 0.1217
+  },
+  {
+    "entry_time": 1755521100,
+    "exit_time": 1755571500,
+    "side": "long",
+    "entry_price": 2.989,
+    "exit_price": 3.0341,
+    "pnl": 0.0451
+  },
+  {
+    "entry_time": 1755571500,
+    "exit_time": 1755679500,
+    "side": "short",
+    "entry_price": 3.0341,
+    "exit_price": 2.9121,
+    "pnl": 0.122
+  },
+  {
+    "entry_time": 1755679500,
+    "exit_time": 1755689400,
+    "side": "long",
+    "entry_price": 2.9121,
+    "exit_price": 2.8642,
+    "pnl": -0.0479
+  },
+  {
+    "entry_time": 1755689400,
+    "exit_time": 1755702000,
+    "side": "short",
+    "entry_price": 2.8642,
+    "exit_price": 2.9139,
+    "pnl": -0.0497
+  },
+  {
+    "entry_time": 1755702000,
+    "exit_time": 1755741600,
+    "side": "long",
+    "entry_price": 2.9139,
+    "exit_price": 2.9268,
+    "pnl": 0.0129
+  },
+  {
+    "entry_time": 1755741600,
+    "exit_time": 1755841500,
+    "side": "short",
+    "entry_price": 2.9268,
+    "exit_price": 2.87,
+    "pnl": 0.0568
+  },
+  {
+    "entry_time": 1755841500,
+    "exit_time": 1755859500,
+    "side": "long",
+    "entry_price": 2.87,
+    "exit_price": 2.8313,
+    "pnl": -0.0387
+  },
+  {
+    "entry_time": 1755859500,
+    "exit_time": 1755869400,
+    "side": "short",
+    "entry_price": 2.8313,
+    "exit_price": 2.8456,
+    "pnl": -0.0143
+  },
+  {
+    "entry_time": 1755869400,
+    "exit_time": 1755910800,
+    "side": "long",
+    "entry_price": 2.8456,
+    "exit_price": 3.0359,
+    "pnl": 0.1903
+  },
+  {
+    "entry_time": 1755910800,
+    "exit_time": 1755926100,
+    "side": "short",
+    "entry_price": 3.0359,
+    "exit_price": 3.0436,
+    "pnl": -0.0077
+  },
+  {
+    "entry_time": 1755926100,
+    "exit_time": 1755955800,
+    "side": "long",
+    "entry_price": 3.0436,
+    "exit_price": 3.0145,
+    "pnl": -0.0291
+  },
+  {
+    "entry_time": 1755955800,
+    "exit_time": 1755989100,
+    "side": "short",
+    "entry_price": 3.0145,
+    "exit_price": 3.047,
+    "pnl": -0.0325
+  },
+  {
+    "entry_time": 1755989100,
+    "exit_time": 1756023300,
+    "side": "long",
+    "entry_price": 3.047,
+    "exit_price": 3.0383,
+    "pnl": -0.0087
+  },
+  {
+    "entry_time": 1756023300,
+    "exit_time": 1756054800,
+    "side": "short",
+    "entry_price": 3.0383,
+    "exit_price": 3.0399,
+    "pnl": -0.0016
+  },
+  {
+    "entry_time": 1756054800,
+    "exit_time": 1756063800,
+    "side": "long",
+    "entry_price": 3.0399,
+    "exit_price": 3.0553,
+    "pnl": 0.0154
+  },
+  {
+    "entry_time": 1756063800,
+    "exit_time": 1756184400,
+    "side": "short",
+    "entry_price": 3.0553,
+    "exit_price": 2.9129,
+    "pnl": 0.1424
+  },
+  {
+    "entry_time": 1756184400,
+    "exit_time": 1756321200,
+    "side": "long",
+    "entry_price": 2.9129,
+    "exit_price": 2.9944,
+    "pnl": 0.0815
+  },
+  {
+    "entry_time": 1756321200,
+    "exit_time": 1756356300,
+    "side": "short",
+    "entry_price": 2.9944,
+    "exit_price": 3.0069,
+    "pnl": -0.0125
+  },
+  {
+    "entry_time": 1756356300,
+    "exit_time": 1756394100,
+    "side": "long",
+    "entry_price": 3.0069,
+    "exit_price": 2.9941,
+    "pnl": -0.0128
+  },
+  {
+    "entry_time": 1756394100,
+    "exit_time": 1756462500,
+    "side": "short",
+    "entry_price": 2.9941,
+    "exit_price": 2.8835,
+    "pnl": 0.1106
+  },
+  {
+    "entry_time": 1756462500,
+    "exit_time": 1756474200,
+    "side": "long",
+    "entry_price": 2.8835,
+    "exit_price": 2.856,
+    "pnl": -0.0275
+  },
+  {
+    "entry_time": 1756474200,
+    "exit_time": 1756527300,
+    "side": "short",
+    "entry_price": 2.856,
+    "exit_price": 2.8205,
+    "pnl": 0.0355
+  },
+  {
+    "entry_time": 1756527300,
+    "exit_time": 1756544400,
+    "side": "long",
+    "entry_price": 2.8205,
+    "exit_price": 2.802,
+    "pnl": -0.0185
+  },
+  {
+    "entry_time": 1756544400,
+    "exit_time": 1756573200,
+    "side": "short",
+    "entry_price": 2.802,
+    "exit_price": 2.8154,
+    "pnl": -0.0134
+  },
+  {
+    "entry_time": 1756573200,
+    "exit_time": 1756621800,
+    "side": "long",
+    "entry_price": 2.8154,
+    "exit_price": 2.8279,
+    "pnl": 0.0125
+  },
+  {
+    "entry_time": 1756621800,
+    "exit_time": 1756629900,
+    "side": "short",
+    "entry_price": 2.8279,
+    "exit_price": 2.8427,
+    "pnl": -0.0148
+  },
+  {
+    "entry_time": 1756629900,
+    "exit_time": 1756635300,
+    "side": "long",
+    "entry_price": 2.8427,
+    "exit_price": 2.822,
+    "pnl": -0.0207
+  },
+  {
+    "entry_time": 1756635300,
+    "exit_time": 1756712700,
+    "side": "short",
+    "entry_price": 2.822,
+    "exit_price": 2.7931,
+    "pnl": 0.0289
+  },
+  {
+    "entry_time": 1756712700,
+    "exit_time": 1756726200,
+    "side": "long",
+    "entry_price": 2.7931,
+    "exit_price": 2.767,
+    "pnl": -0.0261
+  },
+  {
+    "entry_time": 1756726200,
+    "exit_time": 1756755000,
+    "side": "short",
+    "entry_price": 2.767,
+    "exit_price": 2.7701,
+    "pnl": -0.0031
+  },
+  {
+    "entry_time": 1756755000,
+    "exit_time": 1756761300,
+    "side": "long",
+    "entry_price": 2.7701,
+    "exit_price": 2.731,
+    "pnl": -0.0391
+  },
+  {
+    "entry_time": 1756761300,
+    "exit_time": 1756776600,
+    "side": "short",
+    "entry_price": 2.731,
+    "exit_price": 2.7704,
+    "pnl": -0.0394
+  },
+  {
+    "entry_time": 1756776600,
+    "exit_time": 1756816200,
+    "side": "long",
+    "entry_price": 2.7704,
+    "exit_price": 2.7804,
+    "pnl": 0.01
+  },
+  {
+    "entry_time": 1756816200,
+    "exit_time": 1756819800,
+    "side": "short",
+    "entry_price": 2.7804,
+    "exit_price": 2.8068,
+    "pnl": -0.0264
+  },
+  {
+    "entry_time": 1756819800,
+    "exit_time": 1756829700,
+    "side": "long",
+    "entry_price": 2.8068,
+    "exit_price": 2.7817,
+    "pnl": -0.0251
+  },
+  {
+    "entry_time": 1756829700,
+    "exit_time": 1756844100,
+    "side": "short",
+    "entry_price": 2.7817,
+    "exit_price": 2.8488,
+    "pnl": -0.0671
+  },
+  {
+    "entry_time": 1756844100,
+    "exit_time": 1756878300,
+    "side": "long",
+    "entry_price": 2.8488,
+    "exit_price": 2.826,
+    "pnl": -0.0228
+  },
+  {
+    "entry_time": 1756878300,
+    "exit_time": 1756890900,
+    "side": "short",
+    "entry_price": 2.826,
+    "exit_price": 2.8396,
+    "pnl": -0.0136
+  },
+  {
+    "entry_time": 1756890900,
+    "exit_time": 1756947600,
+    "side": "long",
+    "entry_price": 2.8396,
+    "exit_price": 2.8345,
+    "pnl": -0.0051
+  },
+  {
+    "entry_time": 1756947600,
+    "exit_time": 1756973700,
+    "side": "short",
+    "entry_price": 2.8345,
+    "exit_price": 2.8518,
+    "pnl": -0.0173
+  },
+  {
+    "entry_time": 1756973700,
+    "exit_time": 1756994400,
+    "side": "long",
+    "entry_price": 2.8518,
+    "exit_price": 2.8119,
+    "pnl": -0.0399
+  },
+  {
+    "entry_time": 1756994400,
+    "exit_time": 1757046600,
+    "side": "short",
+    "entry_price": 2.8119,
+    "exit_price": 2.8154,
+    "pnl": -0.0035
+  },
+  {
+    "entry_time": 1757046600,
+    "exit_time": 1757081700,
+    "side": "long",
+    "entry_price": 2.8154,
+    "exit_price": 2.8262,
+    "pnl": 0.0108
+  },
+  {
+    "entry_time": 1757081700,
+    "exit_time": 1757099700,
+    "side": "short",
+    "entry_price": 2.8262,
+    "exit_price": 2.8494,
+    "pnl": -0.0232
+  },
+  {
+    "entry_time": 1757099700,
+    "exit_time": 1757108700,
+    "side": "long",
+    "entry_price": 2.8494,
+    "exit_price": 2.8216,
+    "pnl": -0.0278
+  },
+  {
+    "entry_time": 1757108700,
+    "exit_time": 1757164500,
+    "side": "short",
+    "entry_price": 2.8216,
+    "exit_price": 2.814,
+    "pnl": 0.0076
+  },
+  {
+    "entry_time": 1757164500,
+    "exit_time": 1757173500,
+    "side": "long",
+    "entry_price": 2.814,
+    "exit_price": 2.801,
+    "pnl": -0.013
+  },
+  {
+    "entry_time": 1757173500,
+    "exit_time": 1757200500,
+    "side": "short",
+    "entry_price": 2.801,
+    "exit_price": 2.8103,
+    "pnl": -0.0093
+  },
+  {
+    "entry_time": 1757200500,
+    "exit_time": 1757269800,
+    "side": "long",
+    "entry_price": 2.8103,
+    "exit_price": 2.8527,
+    "pnl": 0.0424
+  },
+  {
+    "entry_time": 1757269800,
+    "exit_time": 1757286900,
+    "side": "short",
+    "entry_price": 2.8527,
+    "exit_price": 2.889,
+    "pnl": -0.0363
+  },
+  {
+    "entry_time": 1757286900,
+    "exit_time": 1757377800,
+    "side": "long",
+    "entry_price": 2.889,
+    "exit_price": 2.9494,
+    "pnl": 0.0604
+  },
+  {
+    "entry_time": 1757377800,
+    "exit_time": 1757396700,
+    "side": "short",
+    "entry_price": 2.9494,
+    "exit_price": 2.9641,
+    "pnl": -0.0147
+  },
+  {
+    "entry_time": 1757396700,
+    "exit_time": 1757428200,
+    "side": "long",
+    "entry_price": 2.9641,
+    "exit_price": 2.9623,
+    "pnl": -0.0018
+  },
+  {
+    "entry_time": 1757428200,
+    "exit_time": 1757471400,
+    "side": "short",
+    "entry_price": 2.9623,
+    "exit_price": 2.9613,
+    "pnl": 0.001
+  },
+  {
+    "entry_time": 1757471400,
+    "exit_time": 1757531700,
+    "side": "long",
+    "entry_price": 2.9613,
+    "exit_price": 2.9739,
+    "pnl": 0.0126
+  },
+  {
+    "entry_time": 1757531700,
+    "exit_time": 1757560500,
+    "side": "short",
+    "entry_price": 2.9739,
+    "exit_price": 3.0048,
+    "pnl": -0.0309
+  },
+  {
+    "entry_time": 1757560500,
+    "exit_time": 1757593800,
+    "side": "long",
+    "entry_price": 3.0048,
+    "exit_price": 2.9955,
+    "pnl": -0.0093
+  },
+  {
+    "entry_time": 1757593800,
+    "exit_time": 1757631600,
+    "side": "short",
+    "entry_price": 2.9955,
+    "exit_price": 3.0427,
+    "pnl": -0.0472
+  },
+  {
+    "entry_time": 1757631600,
+    "exit_time": 1757677500,
+    "side": "long",
+    "entry_price": 3.0427,
+    "exit_price": 3.0378,
+    "pnl": -0.0049
+  },
+  {
+    "entry_time": 1757677500,
+    "exit_time": 1757698200,
+    "side": "short",
+    "entry_price": 3.0378,
+    "exit_price": 3.0694,
+    "pnl": -0.0316
+  },
+  {
+    "entry_time": 1757698200,
+    "exit_time": 1757772000,
+    "side": "long",
+    "entry_price": 3.0694,
+    "exit_price": 3.1381,
+    "pnl": 0.0687
+  },
+  {
+    "entry_time": 1757772000,
+    "exit_time": 1757815200,
+    "side": "short",
+    "entry_price": 3.1381,
+    "exit_price": 3.1259,
+    "pnl": 0.0122
+  },
+  {
+    "entry_time": 1757815200,
+    "exit_time": 1757822400,
+    "side": "long",
+    "entry_price": 3.1259,
+    "exit_price": 3.0885,
+    "pnl": -0.0374
+  },
+  {
+    "entry_time": 1757822400,
+    "exit_time": 1757912400,
+    "side": "short",
+    "entry_price": 3.0885,
+    "exit_price": 3.0594,
+    "pnl": 0.0291
+  },
+  {
+    "entry_time": 1757912400,
+    "exit_time": 1757917800,
+    "side": "long",
+    "entry_price": 3.0594,
+    "exit_price": 3.0341,
+    "pnl": -0.0253
+  },
+  {
+    "entry_time": 1757917800,
+    "exit_time": 1757943000,
+    "side": "short",
+    "entry_price": 3.0341,
+    "exit_price": 3.016,
+    "pnl": 0.0181
+  },
+  {
+    "entry_time": 1757943000,
+    "exit_time": 1757990700,
+    "side": "long",
+    "entry_price": 3.016,
+    "exit_price": 2.9785,
+    "pnl": -0.0375
+  },
+  {
+    "entry_time": 1757990700,
+    "exit_time": 1758001500,
+    "side": "short",
+    "entry_price": 2.9785,
+    "exit_price": 3.0034,
+    "pnl": -0.0249
+  },
+  {
+    "entry_time": 1758001500,
+    "exit_time": 1758075300,
+    "side": "long",
+    "entry_price": 3.0034,
+    "exit_price": 3.0317,
+    "pnl": 0.0283
+  },
+  {
+    "entry_time": 1758075300,
+    "exit_time": 1758093300,
+    "side": "short",
+    "entry_price": 3.0317,
+    "exit_price": 3.0355,
+    "pnl": -0.0038
+  },
+  {
+    "entry_time": 1758093300,
+    "exit_time": 1758104100,
+    "side": "long",
+    "entry_price": 3.0355,
+    "exit_price": 3.006,
+    "pnl": -0.0295
+  },
+  {
+    "entry_time": 1758104100,
+    "exit_time": 1758114900,
+    "side": "short",
+    "entry_price": 3.006,
+    "exit_price": 3.029,
+    "pnl": -0.023
+  },
+  {
+    "entry_time": 1758114900,
+    "exit_time": 1758133800,
+    "side": "long",
+    "entry_price": 3.029,
+    "exit_price": 2.9933,
+    "pnl": -0.0357
+  },
+  {
+    "entry_time": 1758133800,
+    "exit_time": 1758147300,
+    "side": "short",
+    "entry_price": 2.9933,
+    "exit_price": 3.0674,
+    "pnl": -0.0741
+  },
+  {
+    "entry_time": 1758147300,
+    "exit_time": 1758175200,
+    "side": "long",
+    "entry_price": 3.0674,
+    "exit_price": 3.0603,
+    "pnl": -0.0071
+  },
+  {
+    "entry_time": 1758175200,
+    "exit_time": 1758182400,
+    "side": "short",
+    "entry_price": 3.0603,
+    "exit_price": 3.1027,
+    "pnl": -0.0424
+  },
+  {
+    "entry_time": 1758182400,
+    "exit_time": 1758229200,
+    "side": "long",
+    "entry_price": 3.1027,
+    "exit_price": 3.0873,
+    "pnl": -0.0154
+  },
+  {
+    "entry_time": 1758229200,
+    "exit_time": 1758349800,
+    "side": "short",
+    "entry_price": 3.0873,
+    "exit_price": 3.0041,
+    "pnl": 0.0832
+  },
+  {
+    "entry_time": 1758349800,
+    "exit_time": 1758357900,
+    "side": "long",
+    "entry_price": 3.0041,
+    "exit_price": 2.9839,
+    "pnl": -0.0202
+  },
+  {
+    "entry_time": 1758357900,
+    "exit_time": 1758381300,
+    "side": "short",
+    "entry_price": 2.9839,
+    "exit_price": 2.9916,
+    "pnl": -0.0077
+  },
+  {
+    "entry_time": 1758381300,
+    "exit_time": 1758445200,
+    "side": "long",
+    "entry_price": 2.9916,
+    "exit_price": 2.9834,
+    "pnl": -0.0082
+  },
+  {
+    "entry_time": 1758445200,
+    "exit_time": 1758479400,
+    "side": "short",
+    "entry_price": 2.9834,
+    "exit_price": 2.9792,
+    "pnl": 0.0042
+  },
+  {
+    "entry_time": 1758479400,
+    "exit_time": 1758500100,
+    "side": "long",
+    "entry_price": 2.9792,
+    "exit_price": 2.9536,
+    "pnl": -0.0256
+  },
+  {
+    "entry_time": 1758500100,
+    "exit_time": 1758546000,
+    "side": "short",
+    "entry_price": 2.9536,
+    "exit_price": 2.8488,
+    "pnl": 0.1048
+  },
+  {
+    "entry_time": 1758546000,
+    "exit_time": 1758591000,
+    "side": "long",
+    "entry_price": 2.8488,
+    "exit_price": 2.8315,
+    "pnl": -0.0173
+  },
+  {
+    "entry_time": 1758591000,
+    "exit_time": 1758597300,
+    "side": "short",
+    "entry_price": 2.8315,
+    "exit_price": 2.8472,
+    "pnl": -0.0157
+  },
+  {
+    "entry_time": 1758597300,
+    "exit_time": 1758649500,
+    "side": "long",
+    "entry_price": 2.8472,
+    "exit_price": 2.848,
+    "pnl": 0.0008
+  },
+  {
+    "entry_time": 1758649500,
+    "exit_time": 1758688200,
+    "side": "short",
+    "entry_price": 2.848,
+    "exit_price": 2.8435,
+    "pnl": 0.0045
+  },
+  {
+    "entry_time": 1758688200,
+    "exit_time": 1758755700,
+    "side": "long",
+    "entry_price": 2.8435,
+    "exit_price": 2.9283,
+    "pnl": 0.0848
+  },
+  {
+    "entry_time": 1758755700,
+    "exit_time": 1758806100,
+    "side": "short",
+    "entry_price": 2.9283,
+    "exit_price": 2.8488,
+    "pnl": 0.0795
+  },
+  {
+    "entry_time": 1758806100,
+    "exit_time": 1758818700,
+    "side": "long",
+    "entry_price": 2.8488,
+    "exit_price": 2.7913,
+    "pnl": -0.0575
+  },
+  {
+    "entry_time": 1758818700,
+    "exit_time": 1758827700,
+    "side": "short",
+    "entry_price": 2.7913,
+    "exit_price": 2.8081,
+    "pnl": -0.0168
+  },
+  {
+    "entry_time": 1758827700,
+    "exit_time": 1758835800,
+    "side": "long",
+    "entry_price": 2.8081,
+    "exit_price": 2.74,
+    "pnl": -0.0681
+  },
+  {
+    "entry_time": 1758835800,
+    "exit_time": 1758889800,
+    "side": "short",
+    "entry_price": 2.74,
+    "exit_price": 2.7604,
+    "pnl": -0.0204
+  },
+  {
+    "entry_time": 1758889800,
+    "exit_time": 1758960000,
+    "side": "long",
+    "entry_price": 2.7604,
+    "exit_price": 2.7706,
+    "pnl": 0.0102
+  },
+  {
+    "entry_time": 1758960000,
+    "exit_time": 1758969000,
+    "side": "short",
+    "entry_price": 2.7706,
+    "exit_price": 2.7917,
+    "pnl": -0.0211
+  },
+  {
+    "entry_time": 1758969000,
+    "exit_time": 1758993300,
+    "side": "long",
+    "entry_price": 2.7917,
+    "exit_price": 2.7678,
+    "pnl": -0.0239
+  },
+  {
+    "entry_time": 1758993300,
+    "exit_time": 1758996900,
+    "side": "short",
+    "entry_price": 2.7678,
+    "exit_price": 2.7853,
+    "pnl": -0.0175
+  },
+  {
+    "entry_time": 1758996900,
+    "exit_time": 1759017600,
+    "side": "long",
+    "entry_price": 2.7853,
+    "exit_price": 2.7942,
+    "pnl": 0.0089
+  },
+  {
+    "entry_time": 1759017600,
+    "exit_time": 1759070700,
+    "side": "short",
+    "entry_price": 2.7942,
+    "exit_price": 2.7947,
+    "pnl": -0.0005
+  },
+  {
+    "entry_time": 1759070700,
+    "exit_time": 1759141800,
+    "side": "long",
+    "entry_price": 2.7947,
+    "exit_price": 2.8581,
+    "pnl": 0.0634
+  },
+  {
+    "entry_time": 1759141800,
+    "exit_time": 1759152600,
+    "side": "short",
+    "entry_price": 2.8581,
+    "exit_price": 2.8814,
+    "pnl": -0.0233
+  },
+  {
+    "entry_time": 1759152600,
+    "exit_time": 1759195800,
+    "side": "long",
+    "entry_price": 2.8814,
+    "exit_price": 2.8713,
+    "pnl": -0.0101
+  },
+  {
+    "entry_time": 1759195800,
+    "exit_time": 1759212900,
+    "side": "short",
+    "entry_price": 2.8713,
+    "exit_price": 2.9029,
+    "pnl": -0.0316
+  },
+  {
+    "entry_time": 1759212900,
+    "exit_time": 1759218300,
+    "side": "long",
+    "entry_price": 2.9029,
+    "exit_price": 2.8729,
+    "pnl": -0.03
+  },
+  {
+    "entry_time": 1759218300,
+    "exit_time": 1759260600,
+    "side": "short",
+    "entry_price": 2.8729,
+    "exit_price": 2.8606,
+    "pnl": 0.0123
+  },
+  {
+    "entry_time": 1759260600,
+    "exit_time": 1759278600,
+    "side": "long",
+    "entry_price": 2.8606,
+    "exit_price": 2.8302,
+    "pnl": -0.0304
+  },
+  {
+    "entry_time": 1759278600,
+    "exit_time": 1759294800,
+    "side": "short",
+    "entry_price": 2.8302,
+    "exit_price": 2.8488,
+    "pnl": -0.0186
+  },
+  {
+    "entry_time": 1759294800,
+    "exit_time": 1759415400,
+    "side": "long",
+    "entry_price": 2.8488,
+    "exit_price": 2.9631,
+    "pnl": 0.1143
+  },
+  {
+    "entry_time": 1759415400,
+    "exit_time": 1759420800,
+    "side": "short",
+    "entry_price": 2.9631,
+    "exit_price": 3.0285,
+    "pnl": -0.0654
+  },
+  {
+    "entry_time": 1759420800,
+    "exit_time": 1759439700,
+    "side": "long",
+    "entry_price": 3.0285,
+    "exit_price": 3.0417,
+    "pnl": 0.0132
+  },
+  {
+    "entry_time": 1759439700,
+    "exit_time": 1759480200,
+    "side": "short",
+    "entry_price": 3.0417,
+    "exit_price": 3.0534,
+    "pnl": -0.0117
+  },
+  {
+    "entry_time": 1759480200,
+    "exit_time": 1759511700,
+    "side": "long",
+    "entry_price": 3.0534,
+    "exit_price": 3.0393,
+    "pnl": -0.0141
+  },
+  {
+    "entry_time": 1759511700,
+    "exit_time": 1759617000,
+    "side": "short",
+    "entry_price": 3.0393,
+    "exit_price": 2.9694,
+    "pnl": 0.0699
+  },
+  {
+    "entry_time": 1759617000,
+    "exit_time": 1759656600,
+    "side": "long",
+    "entry_price": 2.9694,
+    "exit_price": 3.0266,
+    "pnl": 0.0572
+  },
+  {
+    "entry_time": 1759656600,
+    "exit_time": 1759731300,
+    "side": "short",
+    "entry_price": 3.0266,
+    "exit_price": 2.9888,
+    "pnl": 0.0378
+  },
+  {
+    "entry_time": 1759731300,
+    "exit_time": 1759784400,
+    "side": "long",
+    "entry_price": 2.9888,
+    "exit_price": 3.0061,
+    "pnl": 0.0173
+  },
+  {
+    "entry_time": 1759784400,
+    "exit_time": 1759912200,
+    "side": "short",
+    "entry_price": 3.0061,
+    "exit_price": 2.8746,
+    "pnl": 0.1315
+  },
+  {
+    "entry_time": 1759912200,
+    "exit_time": 1759968000,
+    "side": "long",
+    "entry_price": 2.8746,
+    "exit_price": 2.865,
+    "pnl": -0.0096
+  },
+  {
+    "entry_time": 1759968000,
+    "exit_time": 1760011200,
+    "side": "short",
+    "entry_price": 2.865,
+    "exit_price": 2.829,
+    "pnl": 0.036
+  },
+  {
+    "entry_time": 1760011200,
+    "exit_time": 1760020200,
+    "side": "long",
+    "entry_price": 2.829,
+    "exit_price": 2.7963,
+    "pnl": -0.0327
+  },
+  {
+    "entry_time": 1760020200,
+    "exit_time": 1760066100,
+    "side": "short",
+    "entry_price": 2.7963,
+    "exit_price": 2.8201,
+    "pnl": -0.0238
+  },
+  {
+    "entry_time": 1760066100,
+    "exit_time": 1760107500,
+    "side": "long",
+    "entry_price": 2.8201,
+    "exit_price": 2.7979,
+    "pnl": -0.0222
+  },
+  {
+    "entry_time": 1760107500,
+    "exit_time": 1760132700,
+    "side": "short",
+    "entry_price": 2.7979,
+    "exit_price": 2.3255,
+    "pnl": 0.4724
+  },
+  {
+    "entry_time": 1760132700,
+    "exit_time": 1760212800,
+    "side": "long",
+    "entry_price": 2.3255,
+    "exit_price": 2.3872,
+    "pnl": 0.0617
+  },
+  {
+    "entry_time": 1760212800,
+    "exit_time": 1760249700,
+    "side": "short",
+    "entry_price": 2.3872,
+    "exit_price": 2.3909,
+    "pnl": -0.0037
+  },
+  {
+    "entry_time": 1760249700,
+    "exit_time": 1760279400,
+    "side": "long",
+    "entry_price": 2.3909,
+    "exit_price": 2.3688,
+    "pnl": -0.0221
+  },
+  {
+    "entry_time": 1760279400,
+    "exit_time": 1760280300,
+    "side": "short",
+    "entry_price": 2.3688,
+    "exit_price": 2.4401,
+    "pnl": -0.0713
+  },
+  {
+    "entry_time": 1760280300,
+    "exit_time": 1760354100,
+    "side": "long",
+    "entry_price": 2.4401,
+    "exit_price": 2.537,
+    "pnl": 0.0969
+  },
+  {
+    "entry_time": 1760354100,
+    "exit_time": 1760377500,
+    "side": "short",
+    "entry_price": 2.537,
+    "exit_price": 2.6218,
+    "pnl": -0.0848
+  },
+  {
+    "entry_time": 1760377500,
+    "exit_time": 1760407200,
+    "side": "long",
+    "entry_price": 2.6218,
+    "exit_price": 2.5778,
+    "pnl": -0.044
+  },
+  {
+    "entry_time": 1760407200,
+    "exit_time": 1760455800,
+    "side": "short",
+    "entry_price": 2.5778,
+    "exit_price": 2.4778,
+    "pnl": 0.1
+  },
+  {
+    "entry_time": 1760455800,
+    "exit_time": 1760525100,
+    "side": "long",
+    "entry_price": 2.4778,
+    "exit_price": 2.4955,
+    "pnl": 0.0177
+  },
+  {
+    "entry_time": 1760525100,
+    "exit_time": 1760608800,
+    "side": "short",
+    "entry_price": 2.4955,
+    "exit_price": 2.4385,
+    "pnl": 0.057
+  },
+  {
+    "entry_time": 1760608800,
+    "exit_time": 1760624100,
+    "side": "long",
+    "entry_price": 2.4385,
+    "exit_price": 2.3939,
+    "pnl": -0.0446
+  },
+  {
+    "entry_time": 1760624100,
+    "exit_time": 1760662800,
+    "side": "short",
+    "entry_price": 2.3939,
+    "exit_price": 2.3712,
+    "pnl": 0.0227
+  },
+  {
+    "entry_time": 1760662800,
+    "exit_time": 1760682600,
+    "side": "long",
+    "entry_price": 2.3712,
+    "exit_price": 2.2968,
+    "pnl": -0.0744
+  },
+  {
+    "entry_time": 1760682600,
+    "exit_time": 1760699700,
+    "side": "short",
+    "entry_price": 2.2968,
+    "exit_price": 2.2817,
+    "pnl": 0.0151
+  },
+  {
+    "entry_time": 1760699700,
+    "exit_time": 1760744700,
+    "side": "long",
+    "entry_price": 2.2817,
+    "exit_price": 2.2926,
+    "pnl": 0.0109
+  },
+  {
+    "entry_time": 1760744700,
+    "exit_time": 1760751900,
+    "side": "short",
+    "entry_price": 2.2926,
+    "exit_price": 2.3332,
+    "pnl": -0.0406
+  },
+  {
+    "entry_time": 1760751900,
+    "exit_time": 1760800500,
+    "side": "long",
+    "entry_price": 2.3332,
+    "exit_price": 2.3476,
+    "pnl": 0.0144
+  },
+  {
+    "entry_time": 1760800500,
+    "exit_time": 1760845500,
+    "side": "short",
+    "entry_price": 2.3476,
+    "exit_price": 2.3675,
+    "pnl": -0.0199
+  },
+  {
+    "entry_time": 1760845500,
+    "exit_time": 1760862600,
+    "side": "long",
+    "entry_price": 2.3675,
+    "exit_price": 2.3329,
+    "pnl": -0.0346
+  },
+  {
+    "entry_time": 1760862600,
+    "exit_time": 1760867100,
+    "side": "short",
+    "entry_price": 2.3329,
+    "exit_price": 2.3622,
+    "pnl": -0.0293
+  },
+  {
+    "entry_time": 1760867100,
+    "exit_time": 1760918400,
+    "side": "long",
+    "entry_price": 2.3622,
+    "exit_price": 2.3769,
+    "pnl": 0.0147
+  },
+  {
+    "entry_time": 1760918400,
+    "exit_time": 1760930100,
+    "side": "short",
+    "entry_price": 2.3769,
+    "exit_price": 2.3965,
+    "pnl": -0.0196
+  },
+  {
+    "entry_time": 1760930100,
+    "exit_time": 1760977800,
+    "side": "long",
+    "entry_price": 2.3965,
+    "exit_price": 2.4348,
+    "pnl": 0.0383
+  },
+  {
+    "entry_time": 1760977800,
+    "exit_time": 1760986800,
+    "side": "short",
+    "entry_price": 2.4348,
+    "exit_price": 2.4848,
+    "pnl": -0.05
+  },
+  {
+    "entry_time": 1760986800,
+    "exit_time": 1761008400,
+    "side": "long",
+    "entry_price": 2.4848,
+    "exit_price": 2.4753,
+    "pnl": -0.0095
+  },
+  {
+    "entry_time": 1761008400,
+    "exit_time": 1761049800,
+    "side": "short",
+    "entry_price": 2.4753,
+    "exit_price": 2.4373,
+    "pnl": 0.038
+  },
+  {
+    "entry_time": 1761049800,
+    "exit_time": 1761081300,
+    "side": "long",
+    "entry_price": 2.4373,
+    "exit_price": 2.4607,
+    "pnl": 0.0234
+  },
+  {
+    "entry_time": 1761081300,
+    "exit_time": 1761189300,
+    "side": "short",
+    "entry_price": 2.4607,
+    "exit_price": 2.3829,
+    "pnl": 0.0778
+  },
+  {
+    "entry_time": 1761189300,
+    "exit_time": 1761219900,
+    "side": "long",
+    "entry_price": 2.3829,
+    "exit_price": 2.3902,
+    "pnl": 0.0073
+  },
+  {
+    "entry_time": 1761219900,
+    "exit_time": 1761231600,
+    "side": "short",
+    "entry_price": 2.3902,
+    "exit_price": 2.4112,
+    "pnl": -0.021
+  },
+  {
+    "entry_time": 1761231600,
+    "exit_time": 1761421500,
+    "side": "long",
+    "entry_price": 2.4112,
+    "exit_price": 2.6039,
+    "pnl": 0.1927
+  },
+  {
+    "entry_time": 1761421500,
+    "exit_time": 1761437700,
+    "side": "short",
+    "entry_price": 2.6039,
+    "exit_price": 2.6216,
+    "pnl": -0.0177
+  },
+  {
+    "entry_time": 1761437700,
+    "exit_time": 1761476400,
+    "side": "long",
+    "entry_price": 2.6216,
+    "exit_price": 2.6244,
+    "pnl": 0.0028
+  },
+  {
+    "entry_time": 1761476400,
+    "exit_time": 1761516000,
+    "side": "short",
+    "entry_price": 2.6244,
+    "exit_price": 2.6438,
+    "pnl": -0.0194
+  },
+  {
+    "entry_time": 1761516000,
+    "exit_time": 1761535800,
+    "side": "long",
+    "entry_price": 2.6438,
+    "exit_price": 2.6262,
+    "pnl": -0.0176
+  },
+  {
+    "entry_time": 1761535800,
+    "exit_time": 1761577200,
+    "side": "short",
+    "entry_price": 2.6262,
+    "exit_price": 2.6596,
+    "pnl": -0.0334
+  },
+  {
+    "entry_time": 1761577200,
+    "exit_time": 1761595200,
+    "side": "long",
+    "entry_price": 2.6596,
+    "exit_price": 2.6468,
+    "pnl": -0.0128
+  },
+  {
+    "entry_time": 1761595200,
+    "exit_time": 1761640200,
+    "side": "short",
+    "entry_price": 2.6468,
+    "exit_price": 2.6574,
+    "pnl": -0.0106
+  },
+  {
+    "entry_time": 1761640200,
+    "exit_time": 1761661800,
+    "side": "long",
+    "entry_price": 2.6574,
+    "exit_price": 2.6234,
+    "pnl": -0.034
+  },
+  {
+    "entry_time": 1761661800,
+    "exit_time": 1761674400,
+    "side": "short",
+    "entry_price": 2.6234,
+    "exit_price": 2.6731,
+    "pnl": -0.0497
+  },
+  {
+    "entry_time": 1761674400,
+    "exit_time": 1761678900,
+    "side": "long",
+    "entry_price": 2.6731,
+    "exit_price": 2.6336,
+    "pnl": -0.0395
+  },
+  {
+    "entry_time": 1761678900,
+    "exit_time": 1761730200,
+    "side": "short",
+    "entry_price": 2.6336,
+    "exit_price": 2.6511,
+    "pnl": -0.0175
+  },
+  {
+    "entry_time": 1761730200,
+    "exit_time": 1761747300,
+    "side": "long",
+    "entry_price": 2.6511,
+    "exit_price": 2.6244,
+    "pnl": -0.0267
+  },
+  {
+    "entry_time": 1761747300,
+    "exit_time": 1761805800,
+    "side": "short",
+    "entry_price": 2.6244,
+    "exit_price": 2.5714,
+    "pnl": 0.053
+  },
+  {
+    "entry_time": 1761805800,
+    "exit_time": 1761825600,
+    "side": "long",
+    "entry_price": 2.5714,
+    "exit_price": 2.5402,
+    "pnl": -0.0312
+  },
+  {
+    "entry_time": 1761825600,
+    "exit_time": 1761871500,
+    "side": "short",
+    "entry_price": 2.5402,
+    "exit_price": 2.4573,
+    "pnl": 0.0829
+  },
+  {
+    "entry_time": 1761871500,
+    "exit_time": 1761929100,
+    "side": "long",
+    "entry_price": 2.4573,
+    "exit_price": 2.4947,
+    "pnl": 0.0374
+  },
+  {
+    "entry_time": 1761929100,
+    "exit_time": 1761939900,
+    "side": "short",
+    "entry_price": 2.4947,
+    "exit_price": 2.5423,
+    "pnl": -0.0476
+  },
+  {
+    "entry_time": 1761939900,
+    "exit_time": 1761962400,
+    "side": "long",
+    "entry_price": 2.5423,
+    "exit_price": 2.4938,
+    "pnl": -0.0485
+  },
+  {
+    "entry_time": 1761962400,
+    "exit_time": 1761970500,
+    "side": "short",
+    "entry_price": 2.4938,
+    "exit_price": 2.5166,
+    "pnl": -0.0228
+  },
+  {
+    "entry_time": 1761970500,
+    "exit_time": 1762001100,
+    "side": "long",
+    "entry_price": 2.5166,
+    "exit_price": 2.4917,
+    "pnl": -0.0249
+  },
+  {
+    "entry_time": 1762001100,
+    "exit_time": 1762014600,
+    "side": "short",
+    "entry_price": 2.4917,
+    "exit_price": 2.5108,
+    "pnl": -0.0191
+  },
+  {
+    "entry_time": 1762014600,
+    "exit_time": 1762033500,
+    "side": "long",
+    "entry_price": 2.5108,
+    "exit_price": 2.4921,
+    "pnl": -0.0187
+  },
+  {
+    "entry_time": 1762033500,
+    "exit_time": 1762056900,
+    "side": "short",
+    "entry_price": 2.4921,
+    "exit_price": 2.5114,
+    "pnl": -0.0193
+  },
+  {
+    "entry_time": 1762056900,
+    "exit_time": 1762078500,
+    "side": "long",
+    "entry_price": 2.5114,
+    "exit_price": 2.5127,
+    "pnl": 0.0013
+  },
+  {
+    "entry_time": 1762078500,
+    "exit_time": 1762083000,
+    "side": "short",
+    "entry_price": 2.5127,
+    "exit_price": 2.5468,
+    "pnl": -0.0341
+  },
+  {
+    "entry_time": 1762083000,
+    "exit_time": 1762092900,
+    "side": "long",
+    "entry_price": 2.5468,
+    "exit_price": 2.5134,
+    "pnl": -0.0334
+  },
+  {
+    "entry_time": 1762092900,
+    "exit_time": 1762119000,
+    "side": "short",
+    "entry_price": 2.5134,
+    "exit_price": 2.5103,
+    "pnl": 0.0031
+  },
+  {
+    "entry_time": 1762119000,
+    "exit_time": 1762132500,
+    "side": "long",
+    "entry_price": 2.5103,
+    "exit_price": 2.492,
+    "pnl": -0.0183
+  },
+  {
+    "entry_time": 1762132500,
+    "exit_time": 1762181100,
+    "side": "short",
+    "entry_price": 2.492,
+    "exit_price": 2.4262,
+    "pnl": 0.0658
+  },
+  {
+    "entry_time": 1762181100,
+    "exit_time": 1762182900,
+    "side": "long",
+    "entry_price": 2.4262,
+    "exit_price": 2.3562,
+    "pnl": -0.07
+  },
+  {
+    "entry_time": 1762182900,
+    "exit_time": 1762225200,
+    "side": "short",
+    "entry_price": 2.3562,
+    "exit_price": 2.3538,
+    "pnl": 0.0024
+  },
+  {
+    "entry_time": 1762225200,
+    "exit_time": 1762233300,
+    "side": "long",
+    "entry_price": 2.3538,
+    "exit_price": 2.303,
+    "pnl": -0.0508
+  },
+  {
+    "entry_time": 1762233300,
+    "exit_time": 1762267500,
+    "side": "short",
+    "entry_price": 2.303,
+    "exit_price": 2.3037,
+    "pnl": -0.0007
+  },
+  {
+    "entry_time": 1762267500,
+    "exit_time": 1762273800,
+    "side": "long",
+    "entry_price": 2.3037,
+    "exit_price": 2.2478,
+    "pnl": -0.0559
+  },
+  {
+    "entry_time": 1762273800,
+    "exit_time": 1762294500,
+    "side": "short",
+    "entry_price": 2.2478,
+    "exit_price": 2.2013,
+    "pnl": 0.0465
+  },
+  {
+    "entry_time": 1762294500,
+    "exit_time": 1762305300,
+    "side": "long",
+    "entry_price": 2.2013,
+    "exit_price": 2.1121,
+    "pnl": -0.0892
+  },
+  {
+    "entry_time": 1762305300,
+    "exit_time": 1762309800,
+    "side": "short",
+    "entry_price": 2.1121,
+    "exit_price": 2.221,
+    "pnl": -0.1089
+  },
+  {
+    "entry_time": 1762309800,
+    "exit_time": 1762410600,
+    "side": "long",
+    "entry_price": 2.221,
+    "exit_price": 2.3244,
+    "pnl": 0.1034
+  },
+  {
+    "entry_time": 1762410600,
+    "exit_time": 1762527600,
+    "side": "short",
+    "entry_price": 2.3244,
+    "exit_price": 2.2088,
+    "pnl": 0.1156
+  },
+  {
+    "entry_time": 1762527600,
+    "exit_time": 1762562700,
+    "side": "long",
+    "entry_price": 2.2088,
+    "exit_price": 2.2997,
+    "pnl": 0.0909
+  },
+  {
+    "entry_time": 1762562700,
+    "exit_time": 1762668900,
+    "side": "short",
+    "entry_price": 2.2997,
+    "exit_price": 2.2807,
+    "pnl": 0.019
+  },
+  {
+    "entry_time": 1762668900,
+    "exit_time": 1762682400,
+    "side": "long",
+    "entry_price": 2.2807,
+    "exit_price": 2.2589,
+    "pnl": -0.0218
+  },
+  {
+    "entry_time": 1762682400,
+    "exit_time": 1762697700,
+    "side": "short",
+    "entry_price": 2.2589,
+    "exit_price": 2.3151,
+    "pnl": -0.0562
+  },
+  {
+    "entry_time": 1762697700,
+    "exit_time": 1762785900,
+    "side": "long",
+    "entry_price": 2.3151,
+    "exit_price": 2.5086,
+    "pnl": 0.1935
+  },
+  {
+    "entry_time": 1762785900,
+    "exit_time": 1762806600,
+    "side": "short",
+    "entry_price": 2.5086,
+    "exit_price": 2.5761,
+    "pnl": -0.0675
+  },
+  {
+    "entry_time": 1762806600,
+    "exit_time": 1762835400,
+    "side": "long",
+    "entry_price": 2.5761,
+    "exit_price": 2.5102,
+    "pnl": -0.0659
+  },
+  {
+    "entry_time": 1762835400,
+    "exit_time": 1762936200,
+    "side": "short",
+    "entry_price": 2.5102,
+    "exit_price": 2.408,
+    "pnl": 0.1022
+  },
+  {
+    "entry_time": 1762936200,
+    "exit_time": 1762958700,
+    "side": "long",
+    "entry_price": 2.408,
+    "exit_price": 2.4115,
+    "pnl": 0.0035
+  },
+  {
+    "entry_time": 1762958700,
+    "exit_time": 1762981200,
+    "side": "short",
+    "entry_price": 2.4115,
+    "exit_price": 2.3741,
+    "pnl": 0.0374
+  },
+  {
+    "entry_time": 1762981200,
+    "exit_time": 1763041500,
+    "side": "long",
+    "entry_price": 2.3741,
+    "exit_price": 2.4593,
+    "pnl": 0.0852
+  },
+  {
+    "entry_time": 1763041500,
+    "exit_time": 1763130600,
+    "side": "short",
+    "entry_price": 2.4593,
+    "exit_price": 2.3036,
+    "pnl": 0.1557
+  },
+  {
+    "entry_time": 1763130600,
+    "exit_time": 1763152200,
+    "side": "long",
+    "entry_price": 2.3036,
+    "exit_price": 2.2566,
+    "pnl": -0.047
+  },
+  {
+    "entry_time": 1763152200,
+    "exit_time": 1763262900,
+    "side": "short",
+    "entry_price": 2.2566,
+    "exit_price": 2.2501,
+    "pnl": 0.0065
+  },
+  {
+    "entry_time": 1763262900,
+    "exit_time": 1763291700,
+    "side": "long",
+    "entry_price": 2.2501,
+    "exit_price": 2.2404,
+    "pnl": -0.0097
+  },
+  {
+    "entry_time": 1763291700,
+    "exit_time": 1763316000,
+    "side": "short",
+    "entry_price": 2.2404,
+    "exit_price": 2.2184,
+    "pnl": 0.022
+  },
+  {
+    "entry_time": 1763316000,
+    "exit_time": 1763385300,
+    "side": "long",
+    "entry_price": 2.2184,
+    "exit_price": 2.244,
+    "pnl": 0.0256
+  },
+  {
+    "entry_time": 1763385300,
+    "exit_time": 1763389800,
+    "side": "short",
+    "entry_price": 2.244,
+    "exit_price": 2.2666,
+    "pnl": -0.0226
+  },
+  {
+    "entry_time": 1763389800,
+    "exit_time": 1763395200,
+    "side": "long",
+    "entry_price": 2.2666,
+    "exit_price": 2.1834,
+    "pnl": -0.0832
+  },
+  {
+    "entry_time": 1763395200,
+    "exit_time": 1763454600,
+    "side": "short",
+    "entry_price": 2.1834,
+    "exit_price": 2.194,
+    "pnl": -0.0106
+  },
+  {
+    "entry_time": 1763454600,
+    "exit_time": 1763511300,
+    "side": "long",
+    "entry_price": 2.194,
+    "exit_price": 2.2011,
+    "pnl": 0.0071
+  },
+  {
+    "entry_time": 1763511300,
+    "exit_time": 1763587800,
+    "side": "short",
+    "entry_price": 2.2011,
+    "exit_price": 2.0841,
+    "pnl": 0.117
+  },
+  {
+    "entry_time": 1763587800,
+    "exit_time": 1763632800,
+    "side": "long",
+    "entry_price": 2.0841,
+    "exit_price": 2.1126,
+    "pnl": 0.0285
+  },
+  {
+    "entry_time": 1763632800,
+    "exit_time": 1763676900,
+    "side": "short",
+    "entry_price": 2.1126,
+    "exit_price": 2.0447,
+    "pnl": 0.0679
+  },
+  {
+    "entry_time": 1763676900,
+    "exit_time": 1763692200,
+    "side": "long",
+    "entry_price": 2.0447,
+    "exit_price": 1.9838,
+    "pnl": -0.0609
+  },
+  {
+    "entry_time": 1763692200,
+    "exit_time": 1763730000,
+    "side": "short",
+    "entry_price": 1.9838,
+    "exit_price": 1.9216,
+    "pnl": 0.0622
+  },
+  {
+    "entry_time": 1763730000,
+    "exit_time": 1763765100,
+    "side": "long",
+    "entry_price": 1.9216,
+    "exit_price": 1.9085,
+    "pnl": -0.0131
+  },
+  {
+    "entry_time": 1763765100,
+    "exit_time": 1763824500,
+    "side": "short",
+    "entry_price": 1.9085,
+    "exit_price": 1.9336,
+    "pnl": -0.0251
+  },
+  {
+    "entry_time": 1763824500,
+    "exit_time": 1763882100,
+    "side": "long",
+    "entry_price": 1.9336,
+    "exit_price": 2.0187,
+    "pnl": 0.0851
+  },
+  {
+    "entry_time": 1763882100,
+    "exit_time": 1763911800,
+    "side": "short",
+    "entry_price": 2.0187,
+    "exit_price": 2.0618,
+    "pnl": -0.0431
+  },
+  {
+    "entry_time": 1763911800,
+    "exit_time": 1763942400,
+    "side": "long",
+    "entry_price": 2.0618,
+    "exit_price": 2.0308,
+    "pnl": -0.031
+  },
+  {
+    "entry_time": 1763942400,
+    "exit_time": 1763949600,
+    "side": "short",
+    "entry_price": 2.0308,
+    "exit_price": 2.0885,
+    "pnl": -0.0577
+  },
+  {
+    "entry_time": 1763949600,
+    "exit_time": 1764056700,
+    "side": "long",
+    "entry_price": 2.0885,
+    "exit_price": 2.216,
+    "pnl": 0.1275
+  },
+  {
+    "entry_time": 1764056700,
+    "exit_time": 1764110700,
+    "side": "short",
+    "entry_price": 2.216,
+    "exit_price": 2.208,
+    "pnl": 0.008
+  },
+  {
+    "entry_time": 1764110700,
+    "exit_time": 1764153000,
+    "side": "long",
+    "entry_price": 2.208,
+    "exit_price": 2.1736,
+    "pnl": -0.0344
+  },
+  {
+    "entry_time": 1764153000,
+    "exit_time": 1764172800,
+    "side": "short",
+    "entry_price": 2.1736,
+    "exit_price": 2.188,
+    "pnl": -0.0144
+  },
+  {
+    "entry_time": 1764172800,
+    "exit_time": 1764221400,
+    "side": "long",
+    "entry_price": 2.188,
+    "exit_price": 2.2032,
+    "pnl": 0.0152
+  },
+  {
+    "entry_time": 1764221400,
+    "exit_time": 1764256500,
+    "side": "short",
+    "entry_price": 2.2032,
+    "exit_price": 2.1969,
+    "pnl": 0.0063
+  },
+  {
+    "entry_time": 1764256500,
+    "exit_time": 1764282600,
+    "side": "long",
+    "entry_price": 2.1969,
+    "exit_price": 2.2047,
+    "pnl": 0.0078
+  },
+  {
+    "entry_time": 1764282600,
+    "exit_time": 1764307800,
+    "side": "short",
+    "entry_price": 2.2047,
+    "exit_price": 2.2063,
+    "pnl": -0.0016
+  },
+  {
+    "entry_time": 1764307800,
+    "exit_time": 1764327600,
+    "side": "long",
+    "entry_price": 2.2063,
+    "exit_price": 2.2021,
+    "pnl": -0.0042
+  },
+  {
+    "entry_time": 1764327600,
+    "exit_time": 1764339300,
+    "side": "short",
+    "entry_price": 2.2021,
+    "exit_price": 2.2265,
+    "pnl": -0.0244
+  },
+  {
+    "entry_time": 1764339300,
+    "exit_time": 1764346500,
+    "side": "long",
+    "entry_price": 2.2265,
+    "exit_price": 2.2057,
+    "pnl": -0.0208
+  },
+  {
+    "entry_time": 1764346500,
+    "exit_time": 1764414900,
+    "side": "short",
+    "entry_price": 2.2057,
+    "exit_price": 2.2013,
+    "pnl": 0.0044
+  },
+  {
+    "entry_time": 1764414900,
+    "exit_time": 1764446400,
+    "side": "long",
+    "entry_price": 2.2013,
+    "exit_price": 2.1876,
+    "pnl": -0.0137
+  },
+  {
+    "entry_time": 1764446400,
+    "exit_time": 1764508500,
+    "side": "short",
+    "entry_price": 2.1876,
+    "exit_price": 2.2025,
+    "pnl": -0.0149
+  },
+  {
+    "entry_time": 1764508500,
+    "exit_time": 1764538200,
+    "side": "long",
+    "entry_price": 2.2025,
+    "exit_price": 2.1856,
+    "pnl": -0.0169
+  },
+  {
+    "entry_time": 1764538200,
+    "exit_time": 1764628200,
+    "side": "short",
+    "entry_price": 2.1856,
+    "exit_price": 2.0347,
+    "pnl": 0.1509
+  },
+  {
+    "entry_time": 1764628200,
+    "exit_time": 1764663300,
+    "side": "long",
+    "entry_price": 2.0347,
+    "exit_price": 1.9979,
+    "pnl": -0.0368
+  },
+  {
+    "entry_time": 1764663300,
+    "exit_time": 1764672300,
+    "side": "short",
+    "entry_price": 1.9979,
+    "exit_price": 2.0272,
+    "pnl": -0.0293
+  },
+  {
+    "entry_time": 1764672300,
+    "exit_time": 1764757800,
+    "side": "long",
+    "entry_price": 2.0272,
+    "exit_price": 2.1749,
+    "pnl": 0.1477
+  },
+  {
+    "entry_time": 1764757800,
+    "exit_time": 1764772200,
+    "side": "short",
+    "entry_price": 2.1749,
+    "exit_price": 2.1921,
+    "pnl": -0.0172
+  },
+  {
+    "entry_time": 1764772200,
+    "exit_time": 1764826200,
+    "side": "long",
+    "entry_price": 2.1921,
+    "exit_price": 2.1758,
+    "pnl": -0.0163
+  },
+  {
+    "entry_time": 1764826200,
+    "exit_time": 1764946800,
+    "side": "short",
+    "entry_price": 2.1758,
+    "exit_price": 2.0854,
+    "pnl": 0.0904
+  },
+  {
+    "entry_time": 1764946800,
+    "exit_time": 1764951300,
+    "side": "long",
+    "entry_price": 2.0854,
+    "exit_price": 2.0501,
+    "pnl": -0.0353
+  },
+  {
+    "entry_time": 1764951300,
+    "exit_time": 1765001700,
+    "side": "short",
+    "entry_price": 2.0501,
+    "exit_price": 2.0494,
+    "pnl": 0.0007
+  },
+  {
+    "entry_time": 1765001700,
+    "exit_time": 1765005300,
+    "side": "long",
+    "entry_price": 2.0494,
+    "exit_price": 2.0296,
+    "pnl": -0.0198
+  },
+  {
+    "entry_time": 1765005300,
+    "exit_time": 1765030500,
+    "side": "short",
+    "entry_price": 2.0296,
+    "exit_price": 2.0392,
+    "pnl": -0.0096
+  },
+  {
+    "entry_time": 1765030500,
+    "exit_time": 1765049400,
+    "side": "long",
+    "entry_price": 2.0392,
+    "exit_price": 2.0229,
+    "pnl": -0.0163
+  },
+  {
+    "entry_time": 1765049400,
+    "exit_time": 1765073700,
+    "side": "short",
+    "entry_price": 2.0229,
+    "exit_price": 2.0409,
+    "pnl": -0.018
+  },
+  {
+    "entry_time": 1765073700,
+    "exit_time": 1765084500,
+    "side": "long",
+    "entry_price": 2.0409,
+    "exit_price": 2.0461,
+    "pnl": 0.0052
+  },
+  {
+    "entry_time": 1765084500,
+    "exit_time": 1765111500,
+    "side": "short",
+    "entry_price": 2.0461,
+    "exit_price": 2.0461,
+    "pnl": 0.0
+  },
+  {
+    "entry_time": 1765111500,
+    "exit_time": 1765116000,
+    "side": "long",
+    "entry_price": 2.0461,
+    "exit_price": 2.0239,
+    "pnl": -0.0222
+  },
+  {
+    "entry_time": 1765116000,
+    "exit_time": 1765122300,
+    "side": "short",
+    "entry_price": 2.0239,
+    "exit_price": 2.0517,
+    "pnl": -0.0278
+  },
+  {
+    "entry_time": 1765122300,
+    "exit_time": 1765143000,
+    "side": "long",
+    "entry_price": 2.0517,
+    "exit_price": 2.0597,
+    "pnl": 0.008
+  },
+  {
+    "entry_time": 1765143000,
+    "exit_time": 1765157400,
+    "side": "short",
+    "entry_price": 2.0597,
+    "exit_price": 2.0776,
+    "pnl": -0.0179
+  },
+  {
+    "entry_time": 1765157400,
+    "exit_time": 1765206000,
+    "side": "long",
+    "entry_price": 2.0776,
+    "exit_price": 2.0782,
+    "pnl": 0.0006
+  },
+  {
+    "entry_time": 1765206000,
+    "exit_time": 1765280700,
+    "side": "short",
+    "entry_price": 2.0782,
+    "exit_price": 2.0681,
+    "pnl": 0.0101
+  },
+  {
+    "entry_time": 1765280700,
+    "exit_time": 1765288800,
+    "side": "long",
+    "entry_price": 2.0681,
+    "exit_price": 2.0599,
+    "pnl": -0.0082
+  },
+  {
+    "entry_time": 1765288800,
+    "exit_time": 1765293300,
+    "side": "short",
+    "entry_price": 2.0599,
+    "exit_price": 2.0848,
+    "pnl": -0.0249
+  },
+  {
+    "entry_time": 1765293300,
+    "exit_time": 1765311300,
+    "side": "long",
+    "entry_price": 2.0848,
+    "exit_price": 2.1114,
+    "pnl": 0.0266
+  },
+  {
+    "entry_time": 1765311300,
+    "exit_time": 1765359900,
+    "side": "short",
+    "entry_price": 2.1114,
+    "exit_price": 2.088,
+    "pnl": 0.0234
+  },
+  {
+    "entry_time": 1765359900,
+    "exit_time": 1765362600,
+    "side": "long",
+    "entry_price": 2.088,
+    "exit_price": 2.0704,
+    "pnl": -0.0176
+  },
+  {
+    "entry_time": 1765362600,
+    "exit_time": 1765396800,
+    "side": "short",
+    "entry_price": 2.0704,
+    "exit_price": 2.103,
+    "pnl": -0.0326
+  },
+  {
+    "entry_time": 1765396800,
+    "exit_time": 1765403100,
+    "side": "long",
+    "entry_price": 2.103,
+    "exit_price": 2.0461,
+    "pnl": -0.0569
+  },
+  {
+    "entry_time": 1765403100,
+    "exit_time": 1765477800,
+    "side": "short",
+    "entry_price": 2.0461,
+    "exit_price": 2.0203,
+    "pnl": 0.0258
+  },
+  {
+    "entry_time": 1765477800,
+    "exit_time": 1765551600,
+    "side": "long",
+    "entry_price": 2.0203,
+    "exit_price": 2.0266,
+    "pnl": 0.0063
+  },
+  {
+    "entry_time": 1765551600,
+    "exit_time": 1765598400,
+    "side": "short",
+    "entry_price": 2.0266,
+    "exit_price": 2.0237,
+    "pnl": 0.0029
+  },
+  {
+    "entry_time": 1765598400,
+    "exit_time": 1765645200,
+    "side": "long",
+    "entry_price": 2.0237,
+    "exit_price": 2.0187,
+    "pnl": -0.005
+  },
+  {
+    "entry_time": 1765645200,
+    "exit_time": 1765674000,
+    "side": "short",
+    "entry_price": 2.0187,
+    "exit_price": 2.0276,
+    "pnl": -0.0089
+  },
+  {
+    "entry_time": 1765674000,
+    "exit_time": 1765686600,
+    "side": "long",
+    "entry_price": 2.0276,
+    "exit_price": 2.016,
+    "pnl": -0.0116
+  },
+  {
+    "entry_time": 1765686600,
+    "exit_time": 1765763100,
+    "side": "short",
+    "entry_price": 2.016,
+    "exit_price": 1.9974,
+    "pnl": 0.0186
+  },
+  {
+    "entry_time": 1765763100,
+    "exit_time": 1765803600,
+    "side": "long",
+    "entry_price": 1.9974,
+    "exit_price": 1.9719,
+    "pnl": -0.0255
+  },
+  {
+    "entry_time": 1765803600,
+    "exit_time": 1765866600,
+    "side": "short",
+    "entry_price": 1.9719,
+    "exit_price": 1.8924,
+    "pnl": 0.0795
+  },
+  {
+    "entry_time": 1765866600,
+    "exit_time": 1765892700,
+    "side": "long",
+    "entry_price": 1.8924,
+    "exit_price": 1.9078,
+    "pnl": 0.0154
+  },
+  {
+    "entry_time": 1765892700,
+    "exit_time": 1765979100,
+    "side": "short",
+    "entry_price": 1.9078,
+    "exit_price": 1.92,
+    "pnl": -0.0122
+  },
+  {
+    "entry_time": 1765979100,
+    "exit_time": 1765986300,
+    "side": "long",
+    "entry_price": 1.92,
+    "exit_price": 1.9097,
+    "pnl": -0.0103
+  },
+  {
+    "entry_time": 1765986300,
+    "exit_time": 1766047500,
+    "side": "short",
+    "entry_price": 1.9097,
+    "exit_price": 1.8534,
+    "pnl": 0.0563
+  },
+  {
+    "entry_time": 1766047500,
+    "exit_time": 1766077200,
+    "side": "long",
+    "entry_price": 1.8534,
+    "exit_price": 1.8682,
+    "pnl": 0.0148
+  },
+  {
+    "entry_time": 1766077200,
+    "exit_time": 1766113200,
+    "side": "short",
+    "entry_price": 1.8682,
+    "exit_price": 1.8159,
+    "pnl": 0.0523
+  },
+  {
+    "entry_time": 1766113200,
+    "exit_time": 1766236500,
+    "side": "long",
+    "entry_price": 1.8159,
+    "exit_price": 1.9203,
+    "pnl": 0.1044
+  },
+  {
+    "entry_time": 1766236500,
+    "exit_time": 1766276100,
+    "side": "short",
+    "entry_price": 1.9203,
+    "exit_price": 1.9357,
+    "pnl": -0.0154
+  },
+  {
+    "entry_time": 1766276100,
+    "exit_time": 1766284200,
+    "side": "long",
+    "entry_price": 1.9357,
+    "exit_price": 1.919,
+    "pnl": -0.0167
+  },
+  {
+    "entry_time": 1766284200,
+    "exit_time": 1766305800,
+    "side": "short",
+    "entry_price": 1.919,
+    "exit_price": 1.9386,
+    "pnl": -0.0196
+  },
+  {
+    "entry_time": 1766305800,
+    "exit_time": 1766322000,
+    "side": "long",
+    "entry_price": 1.9386,
+    "exit_price": 1.9153,
+    "pnl": -0.0233
+  },
+  {
+    "entry_time": 1766322000,
+    "exit_time": 1766358000,
+    "side": "short",
+    "entry_price": 1.9153,
+    "exit_price": 1.9226,
+    "pnl": -0.0073
+  },
+  {
+    "entry_time": 1766358000,
+    "exit_time": 1766430000,
+    "side": "long",
+    "entry_price": 1.9226,
+    "exit_price": 1.9173,
+    "pnl": -0.0053
+  },
+  {
+    "entry_time": 1766430000,
+    "exit_time": 1766484900,
+    "side": "short",
+    "entry_price": 1.9173,
+    "exit_price": 1.8918,
+    "pnl": 0.0255
+  },
+  {
+    "entry_time": 1766484900,
+    "exit_time": 1766496600,
+    "side": "long",
+    "entry_price": 1.8918,
+    "exit_price": 1.8872,
+    "pnl": -0.0046
+  },
+  {
+    "entry_time": 1766496600,
+    "exit_time": 1766571300,
+    "side": "short",
+    "entry_price": 1.8872,
+    "exit_price": 1.8645,
+    "pnl": 0.0227
+  },
+  {
+    "entry_time": 1766571300,
+    "exit_time": 1766598300,
+    "side": "long",
+    "entry_price": 1.8645,
+    "exit_price": 1.8502,
+    "pnl": -0.0143
+  },
+  {
+    "entry_time": 1766598300,
+    "exit_time": 1766629800,
+    "side": "short",
+    "entry_price": 1.8502,
+    "exit_price": 1.8713,
+    "pnl": -0.0211
+  },
+  {
+    "entry_time": 1766629800,
+    "exit_time": 1766656800,
+    "side": "long",
+    "entry_price": 1.8713,
+    "exit_price": 1.8622,
+    "pnl": -0.0091
+  },
+  {
+    "entry_time": 1766656800,
+    "exit_time": 1766675700,
+    "side": "short",
+    "entry_price": 1.8622,
+    "exit_price": 1.8727,
+    "pnl": -0.0105
+  },
+  {
+    "entry_time": 1766675700,
+    "exit_time": 1766700000,
+    "side": "long",
+    "entry_price": 1.8727,
+    "exit_price": 1.8599,
+    "pnl": -0.0128
+  },
+  {
+    "entry_time": 1766700000,
+    "exit_time": 1766715300,
+    "side": "short",
+    "entry_price": 1.8599,
+    "exit_price": 1.8706,
+    "pnl": -0.0107
+  },
+  {
+    "entry_time": 1766715300,
+    "exit_time": 1766759400,
+    "side": "long",
+    "entry_price": 1.8706,
+    "exit_price": 1.8634,
+    "pnl": -0.0072
+  }
+]
