@@ -5,7 +5,7 @@ Pure data retrieval without indicator calculations
 import json
 from pathlib import Path
 
-import pandas as pd
+# import pandas as pd
 from api import DeltaAPI
 from datetime import datetime, timedelta
 from typing import Optional, Dict, List

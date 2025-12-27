@@ -1,4 +1,3 @@
-import pandas as pd
 from utils.data_fetcher import DataFetcher
 
 fetcher=DataFetcher()

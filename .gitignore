@@ -1,0 +1,41 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ======================
+# Environment & Secrets
+# ======================
+.env
+.env.*
+config/secrets.py
+*.key
+*.pem
+
+# ======================
+# Runtime / Temp Data
+# ======================
+logs/
+data/tmp/
+
+# ======================
+# Backtest / Research (KEEP JSON & CSV)
+# ======================
+# ❌ DO NOT IGNORE *.csv or *.json globally
+
+# ======================
+# Virtual Environment
+# ======================
+venv/
+.venv/
+
+# ======================
+# OS / IDE
+# ======================
+.DS_Store
+.vscode/
+.idea/
