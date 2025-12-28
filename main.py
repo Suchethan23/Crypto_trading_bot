@@ -4,6 +4,13 @@ from Indicators.SuperTrend.supertrend import calculate_supertrend, get_supertren
 import json
 import time
 from datetime import datetime
+from utils.telegramNotifier import TelegramNotifier
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
 
 def main():
     # Initialize
@@ -11,7 +18,7 @@ def main():
     fetcher = DataFetcher()
     symbol = "ETHUSD"
     size = 1
-    check_interval = 60  # Check every 60 seconds
+    check_interval = 300  # Check every 60 seconds
     sl_pct = 1 / 50  # 2% stop loss
     
     print("="*80)
@@ -34,6 +41,7 @@ def main():
                 data = fetcher.get_candles_in_batches(symbol, "15m")
                 supertrend = calculate_supertrend(data)
                 
+                fetcher.export_to_json(supertrend,"supertrend_ETHUSD.json")
                 # 2. Get signal
                 signal, price, trend, supertrend_value = get_supertrend_signal(supertrend)
                 
@@ -49,7 +57,7 @@ def main():
                         elif pos.get('size', 0) < 0:
                             current_side = 'short'
                 
-                print(f"📊 Signal: {signal.upper()} | Price: ${price:,.2f} | Trend: {trend}")
+                print(f"📊 Signal: {signal.upper()} | Price: ${price:,.2f} | Trend: {trend} | Supertrend:{supertrend_value}")
                 print(f"📍 Current Position: {current_side or 'None'}")
                 
                 # 4. Execute trades
@@ -109,4 +117,10 @@ def main():
         print("="*80)
 
 if __name__ == "__main__":
+    notifier = TelegramNotifier(
+    bot_token=os.getenv("TELEGRAM_BOT_TOKEN"),
+    chat_id=os.getenv("TELEGRAM_CHAT_ID"))
+    
+    notifier.info("🚀 Supertrend bot started")
     main()
+   

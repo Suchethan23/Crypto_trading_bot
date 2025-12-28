@@ -10,7 +10,7 @@ class SupertrendBacktest:
     Supertrend trend-flip backtest engine
     """
 
-    def __init__(self, data_file: str = "supertrend.json"):
+    def __init__(self, data_file: str = "supertrend_ETHUSD.json"):
         self.data_file = data_file
         self.data = []
         self.trades = []

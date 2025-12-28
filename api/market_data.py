@@ -183,8 +183,9 @@ class MarketData(DeltaExchangeClient):
 
         if not end:
             end = int(time.time())
+            print(end)
         if not start:
-           start = end - (350*24*60*60)
+           start = end - (90*24*60*60)
 
         if resolution not in TIMEFRAME_SECONDS:
             raise ValueError(f"Unsupported resolution: {resolution}")

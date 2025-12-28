@@ -1,3916 +1,595 @@
 [
   {
     "side": "short",
-    "entry_time": 1736673300,
-    "exit_time": 1736694900,
-    "entry": 2.5103,
-    "exit": 2.531,
-    "pnl_pct": -0.82,
+    "entry_time": 1759143600,
+    "exit_time": 1759152600,
+    "entry": 4094.15,
+    "exit": 4147.0,
+    "pnl_pct": -1.29,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1736719200,
-    "exit_time": 1736727300,
-    "entry": 2.4974,
-    "exit": 2.5393,
-    "pnl_pct": -1.68,
+    "entry_time": 1759209300,
+    "exit_time": 1759261500,
+    "entry": 4179.35,
+    "exit": 4159.65,
+    "pnl_pct": 0.47,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1736748900,
-    "exit_time": 1736756100,
-    "entry": 2.4939,
-    "exit": 2.41908,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1736778600,
-    "exit_time": 1736778600,
-    "entry": 2.4461,
-    "exit": 2.39718,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1736938800,
-    "exit_time": 1736947800,
-    "entry": 2.7752,
-    "exit": 2.8435,
-    "pnl_pct": -2.46,
+    "entry_time": 1759273200,
+    "exit_time": 1759307400,
+    "entry": 4126.65,
+    "exit": 4271.65,
+    "pnl_pct": -3.51,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1736986500,
-    "exit_time": 1736987400,
-    "entry": 3.0261,
-    "exit": 2.93532,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737025200,
-    "exit_time": 1737025200,
-    "entry": 3.1595,
-    "exit": 3.09631,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1737066600,
-    "exit_time": 1737066600,
-    "entry": 3.2026,
-    "exit": 3.26665,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737081900,
-    "exit_time": 1737100800,
-    "entry": 3.3432,
-    "exit": 3.27634,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1737102600,
-    "exit_time": 1737112500,
-    "entry": 3.2508,
-    "exit": 3.31582,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737148500,
-    "exit_time": 1737162000,
-    "entry": 3.2885,
-    "exit": 3.2187,
-    "pnl_pct": -2.12,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737206100,
-    "exit_time": 1737218700,
-    "entry": 3.1952,
-    "exit": 3.1429,
-    "pnl_pct": -1.64,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737242100,
-    "exit_time": 1737261000,
-    "entry": 3.2596,
-    "exit": 3.2008,
-    "pnl_pct": -1.8,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737296100,
-    "exit_time": 1737321300,
-    "entry": 3.1481,
-    "exit": 3.1093,
-    "pnl_pct": -1.23,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737347400,
-    "exit_time": 1737355500,
-    "entry": 3.1209,
-    "exit": 3.21453,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1737392400,
-    "exit_time": 1737392400,
-    "entry": 3.2114,
-    "exit": 3.27563,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737475200,
-    "exit_time": 1737553500,
-    "entry": 3.1745,
-    "exit": 3.179,
-    "pnl_pct": 0.14,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737575100,
-    "exit_time": 1737583200,
-    "entry": 3.2248,
-    "exit": 3.1603,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1737592200,
-    "exit_time": 1737630000,
-    "entry": 3.1635,
-    "exit": 3.06859,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737641700,
-    "exit_time": 1737666900,
-    "entry": 3.1048,
-    "exit": 3.0734,
-    "pnl_pct": -1.01,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737689400,
-    "exit_time": 1737732600,
-    "entry": 3.1263,
-    "exit": 3.1437,
-    "pnl_pct": 0.56,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737776700,
-    "exit_time": 1737796500,
-    "entry": 3.1318,
-    "exit": 3.095,
-    "pnl_pct": -1.18,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737804600,
-    "exit_time": 1737848700,
-    "entry": 3.1111,
-    "exit": 3.107,
-    "pnl_pct": -0.13,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737862200,
-    "exit_time": 1737883800,
-    "entry": 3.1395,
-    "exit": 3.1161,
-    "pnl_pct": -0.75,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737917100,
-    "exit_time": 1737925200,
-    "entry": 3.1317,
-    "exit": 3.1122,
-    "pnl_pct": -0.62,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1737982800,
-    "exit_time": 1737982800,
-    "entry": 2.9192,
-    "exit": 2.86082,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738097100,
-    "exit_time": 1738137600,
-    "entry": 3.0774,
-    "exit": 3.126,
-    "pnl_pct": -1.58,
+    "entry_time": 1759469400,
+    "exit_time": 1759487400,
+    "entry": 4473.25,
+    "exit": 4490.5,
+    "pnl_pct": -0.39,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1738153800,
-    "exit_time": 1738178100,
-    "entry": 3.0692,
-    "exit": 2.97712,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738240200,
-    "exit_time": 1738248300,
-    "entry": 3.0843,
-    "exit": 3.1192,
-    "pnl_pct": -1.13,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738284300,
-    "exit_time": 1738321200,
-    "entry": 3.1078,
-    "exit": 3.0936,
-    "pnl_pct": 0.46,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738347300,
-    "exit_time": 1738373400,
-    "entry": 3.0557,
-    "exit": 3.058,
-    "pnl_pct": -0.08,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738395900,
-    "exit_time": 1738437300,
-    "entry": 3.03,
-    "exit": 2.9391,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1738456200,
-    "exit_time": 1738465200,
-    "entry": 2.9284,
-    "exit": 2.8528,
-    "pnl_pct": -2.58,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1738504800,
-    "exit_time": 1738510200,
-    "entry": 2.8345,
-    "exit": 2.77781,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738513800,
-    "exit_time": 1738516500,
-    "entry": 2.7467,
-    "exit": 2.6643,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1738526400,
-    "exit_time": 1738529100,
-    "entry": 2.7007,
-    "exit": 2.64669,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738535400,
-    "exit_time": 1738535400,
-    "entry": 2.5241,
-    "exit": 2.57458,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1738566900,
-    "exit_time": 1738566900,
-    "entry": 2.388,
-    "exit": 2.34024,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738591200,
-    "exit_time": 1738591200,
-    "entry": 2.2551,
-    "exit": 2.3002,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1738595700,
-    "exit_time": 1738595700,
-    "entry": 2.5024,
-    "exit": 2.45235,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738645200,
-    "exit_time": 1738645200,
-    "entry": 2.5683,
-    "exit": 2.61967,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1738667700,
-    "exit_time": 1738697400,
-    "entry": 2.6179,
-    "exit": 2.69644,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738699200,
-    "exit_time": 1738699200,
-    "entry": 2.556,
-    "exit": 2.60712,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1738823400,
-    "exit_time": 1738845000,
-    "entry": 2.4591,
-    "exit": 2.4061,
-    "pnl_pct": -2.16,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1738919700,
-    "exit_time": 1738926000,
-    "entry": 2.3535,
-    "exit": 2.4241,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1738958400,
-    "exit_time": 1739008800,
-    "entry": 2.395,
-    "exit": 2.4061,
-    "pnl_pct": -0.46,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739101500,
-    "exit_time": 1739136600,
-    "entry": 2.4379,
-    "exit": 2.36476,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1739140200,
-    "exit_time": 1739151000,
-    "entry": 2.3968,
-    "exit": 2.342,
-    "pnl_pct": -2.29,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1739174400,
-    "exit_time": 1739252700,
-    "entry": 2.4267,
-    "exit": 2.4995,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739281500,
-    "exit_time": 1739309400,
-    "entry": 2.4414,
-    "exit": 2.4415,
-    "pnl_pct": -0.0,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739329200,
-    "exit_time": 1739360700,
-    "entry": 2.3838,
-    "exit": 2.43148,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739367000,
-    "exit_time": 1739367000,
-    "entry": 2.3758,
-    "exit": 2.42332,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1739380500,
-    "exit_time": 1739428200,
-    "entry": 2.4552,
-    "exit": 2.4511,
-    "pnl_pct": -0.17,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1739473200,
-    "exit_time": 1739484000,
-    "entry": 2.4661,
-    "exit": 2.54008,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739573100,
-    "exit_time": 1739581200,
-    "entry": 2.7083,
-    "exit": 2.76247,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1739584800,
-    "exit_time": 1739602800,
-    "entry": 2.8108,
-    "exit": 2.75458,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739629800,
-    "exit_time": 1739664900,
-    "entry": 2.7605,
-    "exit": 2.7723,
-    "pnl_pct": -0.43,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739691900,
-    "exit_time": 1739738700,
-    "entry": 2.7595,
-    "exit": 2.7442,
-    "pnl_pct": 0.55,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739763000,
-    "exit_time": 1739800800,
-    "entry": 2.7033,
-    "exit": 2.723,
-    "pnl_pct": -0.73,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1739806200,
-    "exit_time": 1739858400,
-    "entry": 2.6629,
-    "exit": 2.58301,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1739888100,
-    "exit_time": 1739889900,
-    "entry": 2.6203,
-    "exit": 2.56789,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1739916900,
-    "exit_time": 1739940300,
-    "entry": 2.5541,
-    "exit": 2.5161,
-    "pnl_pct": -1.49,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1739959200,
-    "exit_time": 1739981700,
-    "entry": 2.5797,
-    "exit": 2.65709,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1740034800,
-    "exit_time": 1740060000,
-    "entry": 2.6739,
-    "exit": 2.7287,
-    "pnl_pct": -2.05,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1740066300,
-    "exit_time": 1740075300,
-    "entry": 2.6708,
-    "exit": 2.72422,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1740133800,
-    "exit_time": 1740150900,
-    "entry": 2.676,
-    "exit": 2.6476,
-    "pnl_pct": -1.06,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1740187800,
-    "exit_time": 1740255300,
-    "entry": 2.5955,
-    "exit": 2.5742,
-    "pnl_pct": -0.82,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1740294900,
-    "exit_time": 1740312000,
-    "entry": 2.5755,
-    "exit": 2.5593,
-    "pnl_pct": -0.63,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1740334500,
-    "exit_time": 1740360600,
-    "entry": 2.5597,
-    "exit": 2.5558,
-    "pnl_pct": -0.15,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1740484800,
-    "exit_time": 1740488400,
-    "entry": 2.207,
-    "exit": 2.27321,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1740573000,
-    "exit_time": 1740579300,
-    "entry": 2.266,
-    "exit": 2.19802,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1740582000,
-    "exit_time": 1740586500,
-    "entry": 2.2929,
-    "exit": 2.24704,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1740593700,
-    "exit_time": 1740607200,
-    "entry": 2.1871,
-    "exit": 2.23084,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1740651300,
-    "exit_time": 1740666600,
-    "entry": 2.2399,
-    "exit": 2.1979,
+    "entry_time": 1759500000,
+    "exit_time": 1759506300,
+    "entry": 4450.2,
+    "exit": 4534.05,
     "pnl_pct": -1.88,
     "exit_reason": "TREND_FLIP"
   },
   {
-    "side": "long",
-    "entry_time": 1740735900,
-    "exit_time": 1740751200,
-    "entry": 2.0528,
-    "exit": 2.11438,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1740825000,
-    "exit_time": 1740864600,
-    "entry": 2.1596,
-    "exit": 2.1781,
-    "pnl_pct": -0.86,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1740924900,
-    "exit_time": 1740928500,
-    "entry": 2.2419,
-    "exit": 2.3851,
-    "pnl_pct": -6.39,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1740966300,
-    "exit_time": 1740983400,
-    "entry": 2.8087,
-    "exit": 2.72444,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741008600,
-    "exit_time": 1741012200,
-    "entry": 2.7047,
-    "exit": 2.65061,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741098600,
-    "exit_time": 1741098600,
-    "entry": 2.4081,
-    "exit": 2.35994,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741152600,
-    "exit_time": 1741163400,
-    "entry": 2.4301,
-    "exit": 2.4787,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741165200,
-    "exit_time": 1741181400,
-    "entry": 2.4976,
-    "exit": 2.4576,
-    "pnl_pct": -1.6,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741226400,
-    "exit_time": 1741255200,
-    "entry": 2.5223,
-    "exit": 2.59797,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741282200,
-    "exit_time": 1741289400,
-    "entry": 2.5424,
-    "exit": 2.59325,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741338000,
-    "exit_time": 1741361400,
-    "entry": 2.5327,
-    "exit": 2.48205,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741363200,
-    "exit_time": 1741363200,
-    "entry": 2.4306,
-    "exit": 2.47921,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741444200,
-    "exit_time": 1741451400,
-    "entry": 2.359,
-    "exit": 2.31182,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741453200,
-    "exit_time": 1741468500,
-    "entry": 2.3135,
-    "exit": 2.35977,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741552200,
-    "exit_time": 1741557600,
-    "entry": 2.1979,
-    "exit": 2.15394,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741615200,
-    "exit_time": 1741626000,
-    "entry": 2.1135,
-    "exit": 2.0501,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741658400,
-    "exit_time": 1741669200,
-    "entry": 2.0358,
-    "exit": 2.09687,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741698000,
-    "exit_time": 1741698900,
-    "entry": 2.0869,
-    "exit": 2.12864,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1741716900,
-    "exit_time": 1741743900,
-    "entry": 2.1673,
-    "exit": 2.23232,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741751100,
-    "exit_time": 1741766400,
-    "entry": 2.166,
-    "exit": 2.215,
-    "pnl_pct": -2.26,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741788000,
-    "exit_time": 1741794300,
-    "entry": 2.1826,
-    "exit": 2.22625,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1741886100,
-    "exit_time": 1741918500,
-    "entry": 2.2462,
-    "exit": 2.2772,
-    "pnl_pct": -1.38,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742022000,
-    "exit_time": 1742041800,
-    "entry": 2.4048,
-    "exit": 2.4323,
-    "pnl_pct": -1.14,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742063400,
-    "exit_time": 1742122800,
-    "entry": 2.401,
-    "exit": 2.32897,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1742141700,
-    "exit_time": 1742152500,
-    "entry": 2.3333,
-    "exit": 2.28663,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742190300,
-    "exit_time": 1742232600,
-    "entry": 2.3281,
-    "exit": 2.3563,
-    "pnl_pct": -1.21,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742256000,
-    "exit_time": 1742279400,
-    "entry": 2.3295,
-    "exit": 2.25961,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1742283900,
-    "exit_time": 1742298300,
-    "entry": 2.2876,
-    "exit": 2.2611,
-    "pnl_pct": -1.16,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1742337000,
-    "exit_time": 1742348700,
-    "entry": 2.2733,
-    "exit": 2.2687,
-    "pnl_pct": -0.2,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1742364000,
-    "exit_time": 1742389200,
-    "entry": 2.3007,
-    "exit": 2.36972,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742443200,
-    "exit_time": 1742459400,
-    "entry": 2.4765,
-    "exit": 2.4902,
-    "pnl_pct": -0.55,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742484600,
-    "exit_time": 1742521500,
-    "entry": 2.4499,
-    "exit": 2.4606,
-    "pnl_pct": -0.44,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742534100,
-    "exit_time": 1742581800,
-    "entry": 2.4143,
-    "exit": 2.4126,
-    "pnl_pct": 0.07,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742599800,
-    "exit_time": 1742635800,
-    "entry": 2.3783,
-    "exit": 2.4115,
-    "pnl_pct": -1.4,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742641200,
-    "exit_time": 1742697900,
-    "entry": 2.3877,
-    "exit": 2.3853,
-    "pnl_pct": 0.1,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742753700,
-    "exit_time": 1742767200,
-    "entry": 2.3846,
-    "exit": 2.4148,
-    "pnl_pct": -1.27,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742780700,
-    "exit_time": 1742788800,
-    "entry": 2.414,
-    "exit": 2.4507,
-    "pnl_pct": -1.52,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742832900,
-    "exit_time": 1742895900,
-    "entry": 2.4485,
-    "exit": 2.4382,
-    "pnl_pct": 0.42,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742957100,
-    "exit_time": 1742975100,
-    "entry": 2.4399,
-    "exit": 2.4643,
-    "pnl_pct": -1.0,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1742991300,
-    "exit_time": 1743014700,
-    "entry": 2.4472,
-    "exit": 2.37378,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1743040800,
-    "exit_time": 1743074100,
-    "entry": 2.3764,
-    "exit": 2.3493,
-    "pnl_pct": -1.14,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1743086700,
-    "exit_time": 1743121800,
-    "entry": 2.3609,
-    "exit": 2.31368,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1743123600,
-    "exit_time": 1743140700,
-    "entry": 2.3182,
-    "exit": 2.24865,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1743206400,
-    "exit_time": 1743214500,
-    "entry": 2.2122,
-    "exit": 2.1817,
-    "pnl_pct": -1.38,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1743253200,
-    "exit_time": 1743267600,
-    "entry": 2.124,
-    "exit": 2.08152,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1743330600,
-    "exit_time": 1743381000,
-    "entry": 2.1533,
-    "exit": 2.0887,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1743424200,
-    "exit_time": 1743497100,
-    "entry": 2.0989,
-    "exit": 2.16187,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1743507000,
-    "exit_time": 1743519600,
-    "entry": 2.1321,
-    "exit": 2.1695,
-    "pnl_pct": -1.75,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1743554700,
-    "exit_time": 1743579900,
-    "entry": 2.1131,
-    "exit": 2.107,
-    "pnl_pct": 0.29,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1743625800,
-    "exit_time": 1743631200,
-    "entry": 2.1065,
-    "exit": 2.04331,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1743705000,
-    "exit_time": 1743761700,
-    "entry": 2.0456,
-    "exit": 2.0582,
-    "pnl_pct": 0.62,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1743774300,
-    "exit_time": 1743774300,
-    "entry": 2.1188,
-    "exit": 2.07642,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1743858900,
-    "exit_time": 1743898500,
-    "entry": 2.1319,
-    "exit": 2.1469,
-    "pnl_pct": -0.7,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1743909300,
-    "exit_time": 1743945300,
-    "entry": 2.1241,
-    "exit": 2.06038,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1743950700,
-    "exit_time": 1743959700,
-    "entry": 2.0921,
-    "exit": 2.05026,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744014600,
-    "exit_time": 1744014600,
-    "entry": 1.7844,
-    "exit": 1.74871,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1744094700,
-    "exit_time": 1744110000,
-    "entry": 1.8592,
-    "exit": 1.89638,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1744123500,
-    "exit_time": 1744131600,
-    "entry": 1.8976,
-    "exit": 1.84067,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744178400,
-    "exit_time": 1744198200,
-    "entry": 1.8231,
-    "exit": 1.7708,
-    "pnl_pct": -2.87,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744214400,
-    "exit_time": 1744218900,
-    "entry": 1.8436,
-    "exit": 1.89891,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1744254000,
-    "exit_time": 1744287300,
-    "entry": 1.9817,
-    "exit": 2.02133,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744335900,
-    "exit_time": 1744380900,
-    "entry": 1.9935,
-    "exit": 1.9874,
-    "pnl_pct": -0.31,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744392600,
-    "exit_time": 1744425900,
-    "entry": 2.0332,
-    "exit": 2.0032,
-    "pnl_pct": -1.48,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744434900,
-    "exit_time": 1744463700,
-    "entry": 2.0307,
-    "exit": 2.09162,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1744520400,
-    "exit_time": 1744533900,
-    "entry": 2.1269,
-    "exit": 2.1754,
-    "pnl_pct": -2.28,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1744546500,
-    "exit_time": 1744572600,
-    "entry": 2.1694,
-    "exit": 2.10432,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744596900,
-    "exit_time": 1744614000,
-    "entry": 2.1586,
-    "exit": 2.108,
-    "pnl_pct": -2.34,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744626600,
-    "exit_time": 1744645500,
-    "entry": 2.1511,
-    "exit": 2.115,
-    "pnl_pct": -1.68,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744688700,
-    "exit_time": 1744726500,
-    "entry": 2.1524,
-    "exit": 2.1388,
-    "pnl_pct": -0.63,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744800300,
-    "exit_time": 1744825500,
-    "entry": 2.0795,
-    "exit": 2.0517,
-    "pnl_pct": -1.34,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744867800,
-    "exit_time": 1744899300,
-    "entry": 2.1001,
-    "exit": 2.077,
-    "pnl_pct": -1.1,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744912800,
-    "exit_time": 1744917300,
-    "entry": 2.1009,
-    "exit": 2.0568,
-    "pnl_pct": -2.1,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1744964100,
-    "exit_time": 1744988400,
-    "entry": 2.0757,
-    "exit": 2.0596,
-    "pnl_pct": -0.78,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1745000100,
-    "exit_time": 1745018100,
-    "entry": 2.0868,
-    "exit": 2.0594,
-    "pnl_pct": -1.31,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1745028900,
-    "exit_time": 1745077500,
-    "entry": 2.0786,
-    "exit": 2.076,
-    "pnl_pct": -0.13,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1745085600,
-    "exit_time": 1745130600,
-    "entry": 2.0917,
-    "exit": 2.0744,
-    "pnl_pct": -0.83,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1745167500,
-    "exit_time": 1745199900,
-    "entry": 2.0595,
-    "exit": 2.12128,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745234100,
-    "exit_time": 1745244900,
-    "entry": 2.112,
-    "exit": 2.1339,
-    "pnl_pct": -1.04,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745253000,
-    "exit_time": 1745284500,
-    "entry": 2.0951,
-    "exit": 2.0909,
-    "pnl_pct": 0.2,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745415900,
-    "exit_time": 1745466300,
-    "entry": 2.2454,
-    "exit": 2.17804,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1745496900,
-    "exit_time": 1745507700,
-    "entry": 2.1618,
-    "exit": 2.22665,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745548200,
-    "exit_time": 1745574300,
-    "entry": 2.178,
-    "exit": 2.2075,
-    "pnl_pct": -1.35,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745586900,
-    "exit_time": 1745631900,
-    "entry": 2.1774,
-    "exit": 2.2019,
-    "pnl_pct": -1.13,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745657100,
-    "exit_time": 1745757000,
-    "entry": 2.2096,
-    "exit": 2.2365,
-    "pnl_pct": -1.22,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745798400,
-    "exit_time": 1745816400,
-    "entry": 2.2403,
-    "exit": 2.2785,
-    "pnl_pct": -1.71,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745847900,
-    "exit_time": 1745889300,
-    "entry": 2.28,
-    "exit": 2.3076,
-    "pnl_pct": -1.21,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745901000,
-    "exit_time": 1745919900,
-    "entry": 2.2767,
-    "exit": 2.2998,
-    "pnl_pct": -1.01,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745930700,
-    "exit_time": 1745943300,
-    "entry": 2.2722,
-    "exit": 2.2938,
-    "pnl_pct": -0.95,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1745960400,
-    "exit_time": 1746016200,
-    "entry": 2.2669,
-    "exit": 2.19889,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746043200,
-    "exit_time": 1746107100,
-    "entry": 2.2076,
-    "exit": 2.2158,
-    "pnl_pct": 0.37,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746111600,
-    "exit_time": 1746131400,
-    "entry": 2.2535,
-    "exit": 2.2163,
-    "pnl_pct": -1.65,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746154800,
-    "exit_time": 1746167400,
-    "entry": 2.2323,
-    "exit": 2.2092,
-    "pnl_pct": -1.03,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746185400,
-    "exit_time": 1746212400,
-    "entry": 2.2177,
-    "exit": 2.2041,
-    "pnl_pct": -0.61,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746240300,
-    "exit_time": 1746255600,
-    "entry": 2.2177,
-    "exit": 2.2019,
-    "pnl_pct": -0.71,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746281700,
-    "exit_time": 1746291600,
-    "entry": 2.2062,
-    "exit": 2.183,
-    "pnl_pct": -1.05,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746324000,
-    "exit_time": 1746349200,
-    "entry": 2.2109,
-    "exit": 2.1862,
-    "pnl_pct": -1.12,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746370800,
-    "exit_time": 1746378900,
-    "entry": 2.1983,
-    "exit": 2.1777,
-    "pnl_pct": -0.94,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746423900,
-    "exit_time": 1746440100,
-    "entry": 2.177,
-    "exit": 2.163,
-    "pnl_pct": -0.64,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746468000,
-    "exit_time": 1746477000,
-    "entry": 2.1472,
-    "exit": 2.1182,
-    "pnl_pct": -1.35,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746544500,
-    "exit_time": 1746566100,
-    "entry": 2.116,
-    "exit": 2.1121,
-    "pnl_pct": -0.18,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746569700,
-    "exit_time": 1746596700,
-    "entry": 2.1458,
-    "exit": 2.1331,
-    "pnl_pct": -0.59,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746627300,
-    "exit_time": 1746633600,
-    "entry": 2.143,
-    "exit": 2.1207,
-    "pnl_pct": -1.04,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1746666900,
-    "exit_time": 1746692100,
-    "entry": 2.144,
-    "exit": 2.20832,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1746922500,
-    "exit_time": 1746922500,
-    "entry": 2.4034,
-    "exit": 2.45147,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747009800,
-    "exit_time": 1747047600,
-    "entry": 2.3858,
-    "exit": 2.45737,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1747074600,
-    "exit_time": 1747081800,
-    "entry": 2.4962,
-    "exit": 2.54612,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747116000,
-    "exit_time": 1747163700,
-    "entry": 2.5082,
-    "exit": 2.58345,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1747188900,
-    "exit_time": 1747203300,
-    "entry": 2.5457,
-    "exit": 2.59661,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747208700,
-    "exit_time": 1747212300,
-    "entry": 2.6196,
-    "exit": 2.56721,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1747229400,
-    "exit_time": 1747290600,
-    "entry": 2.5636,
-    "exit": 2.48669,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747327500,
-    "exit_time": 1747334700,
-    "entry": 2.4882,
-    "exit": 2.4315,
-    "pnl_pct": -2.28,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747372500,
-    "exit_time": 1747384200,
-    "entry": 2.4244,
-    "exit": 2.3855,
-    "pnl_pct": -1.6,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747388700,
-    "exit_time": 1747413000,
-    "entry": 2.424,
-    "exit": 2.3984,
-    "pnl_pct": -1.06,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747455300,
-    "exit_time": 1747479600,
-    "entry": 2.3761,
-    "exit": 2.3498,
-    "pnl_pct": -1.11,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747505700,
-    "exit_time": 1747578600,
-    "entry": 2.3464,
-    "exit": 2.41679,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1747590300,
-    "exit_time": 1747610100,
-    "entry": 2.3957,
-    "exit": 2.4092,
-    "pnl_pct": -0.56,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1747620000,
-    "exit_time": 1747636200,
-    "entry": 2.3733,
-    "exit": 2.3021,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747665000,
-    "exit_time": 1747707300,
-    "entry": 2.3375,
-    "exit": 2.40762,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1747721700,
-    "exit_time": 1747770300,
-    "entry": 2.3615,
-    "exit": 2.3557,
-    "pnl_pct": 0.25,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1747812600,
-    "exit_time": 1747834200,
-    "entry": 2.345,
-    "exit": 2.3686,
-    "pnl_pct": -1.01,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1747847700,
-    "exit_time": 1747847700,
-    "entry": 2.3454,
-    "exit": 2.39231,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747875600,
-    "exit_time": 1747948500,
-    "entry": 2.4071,
-    "exit": 2.4054,
-    "pnl_pct": -0.07,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1747958400,
-    "exit_time": 1747980900,
-    "entry": 2.4386,
-    "exit": 2.4329,
-    "pnl_pct": -0.23,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748056500,
-    "exit_time": 1748124000,
-    "entry": 2.334,
-    "exit": 2.3367,
-    "pnl_pct": 0.12,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748196900,
-    "exit_time": 1748267100,
-    "entry": 2.3025,
-    "exit": 2.3235,
-    "pnl_pct": 0.91,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748325600,
-    "exit_time": 1748381400,
-    "entry": 2.3044,
-    "exit": 2.3164,
-    "pnl_pct": 0.52,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748434500,
-    "exit_time": 1748439900,
-    "entry": 2.3116,
-    "exit": 2.2813,
-    "pnl_pct": -1.31,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748473200,
-    "exit_time": 1748527200,
-    "entry": 2.2659,
-    "exit": 2.2806,
-    "pnl_pct": 0.65,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748628900,
-    "exit_time": 1748644200,
-    "entry": 2.1972,
-    "exit": 2.1469,
-    "pnl_pct": -2.29,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748693700,
-    "exit_time": 1748734200,
-    "entry": 2.15,
-    "exit": 2.1737,
-    "pnl_pct": 1.1,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748793600,
-    "exit_time": 1748833200,
-    "entry": 2.1617,
-    "exit": 2.1526,
-    "pnl_pct": -0.42,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748852100,
-    "exit_time": 1748854800,
-    "entry": 2.1766,
-    "exit": 2.1507,
-    "pnl_pct": -1.19,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748884500,
-    "exit_time": 1748923200,
-    "entry": 2.1708,
-    "exit": 2.1906,
-    "pnl_pct": 0.91,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1748948400,
-    "exit_time": 1748965500,
-    "entry": 2.2073,
-    "exit": 2.27352,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1748987100,
-    "exit_time": 1749027600,
-    "entry": 2.2422,
-    "exit": 2.253,
-    "pnl_pct": -0.48,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1749039300,
-    "exit_time": 1749049200,
-    "entry": 2.2388,
-    "exit": 2.255,
-    "pnl_pct": -0.72,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1749061800,
-    "exit_time": 1749124800,
-    "entry": 2.2276,
-    "exit": 2.2104,
-    "pnl_pct": 0.77,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1749131100,
-    "exit_time": 1749150900,
-    "entry": 2.1994,
-    "exit": 2.13342,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1749181500,
-    "exit_time": 1749254400,
-    "entry": 2.1281,
-    "exit": 2.1518,
-    "pnl_pct": 1.11,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1749266100,
-    "exit_time": 1749318300,
-    "entry": 2.1732,
-    "exit": 2.1719,
-    "pnl_pct": -0.06,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1749359700,
-    "exit_time": 1749384000,
-    "entry": 2.1865,
-    "exit": 2.2521,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1749422700,
-    "exit_time": 1749460500,
-    "entry": 2.2589,
-    "exit": 2.2456,
-    "pnl_pct": 0.59,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1749532500,
-    "exit_time": 1749555000,
-    "entry": 2.2883,
-    "exit": 2.3119,
-    "pnl_pct": -1.03,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1749564900,
-    "exit_time": 1749592800,
-    "entry": 2.28,
-    "exit": 2.3076,
-    "pnl_pct": -1.21,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1749606300,
-    "exit_time": 1749628800,
-    "entry": 2.283,
-    "exit": 2.3097,
-    "pnl_pct": -1.17,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1749667500,
-    "exit_time": 1749726900,
-    "entry": 2.2964,
-    "exit": 2.22751,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1749736800,
-    "exit_time": 1749756600,
-    "entry": 2.2505,
-    "exit": 2.2272,
-    "pnl_pct": -1.04,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1749801600,
-    "exit_time": 1749824100,
-    "entry": 2.1521,
-    "exit": 2.1232,
-    "pnl_pct": -1.34,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1749872700,
-    "exit_time": 1749915000,
-    "entry": 2.1584,
-    "exit": 2.155,
-    "pnl_pct": -0.16,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1749948300,
-    "exit_time": 1750017600,
-    "entry": 2.147,
-    "exit": 2.1549,
-    "pnl_pct": 0.37,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750024800,
-    "exit_time": 1750074300,
-    "entry": 2.1644,
-    "exit": 2.22933,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1750113000,
-    "exit_time": 1750158900,
-    "entry": 2.2614,
-    "exit": 2.19356,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750187700,
-    "exit_time": 1750198500,
-    "entry": 2.1943,
-    "exit": 2.1552,
-    "pnl_pct": -1.78,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750255200,
-    "exit_time": 1750331700,
-    "entry": 2.1559,
-    "exit": 2.1522,
-    "pnl_pct": -0.17,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750354200,
-    "exit_time": 1750391100,
-    "entry": 2.1698,
-    "exit": 2.1541,
-    "pnl_pct": -0.72,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750404600,
-    "exit_time": 1750428000,
-    "entry": 2.1634,
-    "exit": 2.158,
-    "pnl_pct": -0.25,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750449600,
-    "exit_time": 1750510800,
-    "entry": 2.1392,
-    "exit": 2.1276,
-    "pnl_pct": -0.54,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750552200,
-    "exit_time": 1750585500,
-    "entry": 2.0795,
-    "exit": 2.0369,
-    "pnl_pct": -2.05,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750631400,
-    "exit_time": 1750672800,
-    "entry": 2.0024,
-    "exit": 2.0033,
-    "pnl_pct": 0.04,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750682700,
-    "exit_time": 1750695300,
-    "entry": 2.0188,
-    "exit": 1.9733,
-    "pnl_pct": -2.25,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750698900,
-    "exit_time": 1750708800,
-    "entry": 2.0169,
-    "exit": 2.07741,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1750824000,
-    "exit_time": 1750851000,
-    "entry": 2.174,
-    "exit": 2.1947,
-    "pnl_pct": -0.95,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1750864500,
-    "exit_time": 1750905900,
-    "entry": 2.1818,
-    "exit": 2.2016,
-    "pnl_pct": -0.91,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1750928400,
-    "exit_time": 1750946400,
-    "entry": 2.1809,
-    "exit": 2.11547,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1750969800,
-    "exit_time": 1750977900,
-    "entry": 2.1446,
-    "exit": 2.1082,
-    "pnl_pct": -1.7,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1751040900,
-    "exit_time": 1751049000,
-    "entry": 2.106,
-    "exit": 2.0781,
-    "pnl_pct": -1.32,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1751056200,
-    "exit_time": 1751075100,
-    "entry": 2.1102,
-    "exit": 2.17351,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751140800,
-    "exit_time": 1751188500,
-    "entry": 2.1821,
-    "exit": 2.1921,
-    "pnl_pct": -0.46,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751207400,
-    "exit_time": 1751234400,
-    "entry": 2.1806,
-    "exit": 2.1925,
-    "pnl_pct": -0.55,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751252400,
-    "exit_time": 1751297400,
-    "entry": 2.1953,
-    "exit": 2.189,
-    "pnl_pct": 0.29,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751324400,
-    "exit_time": 1751376600,
-    "entry": 2.2488,
-    "exit": 2.18134,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1751427900,
-    "exit_time": 1751455800,
-    "entry": 2.1849,
-    "exit": 2.1786,
-    "pnl_pct": -0.29,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1751464800,
-    "exit_time": 1751473800,
-    "entry": 2.1898,
-    "exit": 2.25549,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751554800,
-    "exit_time": 1751627700,
-    "entry": 2.2681,
-    "exit": 2.2387,
-    "pnl_pct": 1.3,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751636700,
-    "exit_time": 1751696100,
-    "entry": 2.2194,
-    "exit": 2.231,
-    "pnl_pct": -0.52,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751706000,
-    "exit_time": 1751726700,
-    "entry": 2.2142,
-    "exit": 2.2266,
-    "pnl_pct": -0.56,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751734800,
-    "exit_time": 1751756400,
-    "entry": 2.2084,
-    "exit": 2.2184,
-    "pnl_pct": -0.45,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751825700,
-    "exit_time": 1751835600,
-    "entry": 2.255,
-    "exit": 2.2726,
-    "pnl_pct": -0.78,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751850000,
-    "exit_time": 1751855400,
-    "entry": 2.2581,
-    "exit": 2.2785,
-    "pnl_pct": -0.9,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751870700,
-    "exit_time": 1751880600,
-    "entry": 2.2579,
-    "exit": 2.2775,
-    "pnl_pct": -0.87,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1751912100,
-    "exit_time": 1751961600,
-    "entry": 2.2852,
-    "exit": 2.28,
-    "pnl_pct": 0.23,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1752249600,
-    "exit_time": 1752249600,
-    "entry": 2.7497,
-    "exit": 2.80469,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752282900,
-    "exit_time": 1752322500,
-    "entry": 2.8114,
-    "exit": 2.782,
-    "pnl_pct": -1.05,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752371100,
-    "exit_time": 1752415200,
-    "entry": 2.7617,
-    "exit": 2.84455,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1752442200,
-    "exit_time": 1752454800,
-    "entry": 2.7999,
-    "exit": 2.8559,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752459300,
-    "exit_time": 1752471000,
-    "entry": 2.8836,
-    "exit": 2.97011,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1752518700,
-    "exit_time": 1752548400,
-    "entry": 2.9169,
-    "exit": 2.82939,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752574500,
-    "exit_time": 1752582600,
-    "entry": 2.9144,
-    "exit": 2.85611,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1752590700,
-    "exit_time": 1752597000,
-    "entry": 2.8552,
-    "exit": 2.9123,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752647400,
-    "exit_time": 1752686100,
-    "entry": 2.9352,
-    "exit": 3.02326,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1752722100,
-    "exit_time": 1752727500,
-    "entry": 3.0119,
-    "exit": 3.07214,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752729300,
-    "exit_time": 1752741900,
-    "entry": 3.1189,
-    "exit": 3.21247,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1752823800,
-    "exit_time": 1752829200,
-    "entry": 3.5234,
-    "exit": 3.4177,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752899400,
-    "exit_time": 1752922800,
-    "entry": 3.4783,
-    "exit": 3.4037,
-    "pnl_pct": -2.14,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752941700,
-    "exit_time": 1752977700,
-    "entry": 3.4339,
-    "exit": 3.3926,
-    "pnl_pct": -1.2,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1752995700,
-    "exit_time": 1753039800,
-    "entry": 3.4544,
-    "exit": 3.55803,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1753048800,
-    "exit_time": 1753073100,
-    "entry": 3.4505,
-    "exit": 3.5052,
-    "pnl_pct": -1.59,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1753123500,
-    "exit_time": 1753159500,
-    "entry": 3.5544,
-    "exit": 3.44777,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1753184700,
-    "exit_time": 1753192800,
-    "entry": 3.5205,
-    "exit": 3.45009,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1753232400,
-    "exit_time": 1753274700,
-    "entry": 3.5082,
-    "exit": 3.40295,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1753321500,
-    "exit_time": 1753330500,
-    "entry": 3.2305,
-    "exit": 3.16589,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1753355700,
-    "exit_time": 1753369200,
-    "entry": 3.1545,
-    "exit": 3.24914,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1753394400,
-    "exit_time": 1753410600,
-    "entry": 3.1714,
-    "exit": 3.07626,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1753442100,
-    "exit_time": 1753452000,
-    "entry": 3.1484,
-    "exit": 3.0708,
-    "pnl_pct": -2.46,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1753474500,
-    "exit_time": 1753524000,
-    "entry": 3.1083,
-    "exit": 3.20155,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1753551000,
-    "exit_time": 1753578900,
-    "entry": 3.1678,
-    "exit": 3.1974,
-    "pnl_pct": -0.93,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1753601400,
-    "exit_time": 1753613100,
-    "entry": 3.1914,
-    "exit": 3.2011,
-    "pnl_pct": -0.3,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1753693200,
-    "exit_time": 1753712100,
-    "entry": 3.2513,
-    "exit": 3.15376,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1753808400,
-    "exit_time": 1753867800,
-    "entry": 3.1382,
-    "exit": 3.094,
-    "pnl_pct": -1.41,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1753886700,
-    "exit_time": 1753901100,
-    "entry": 3.1475,
-    "exit": 3.0497,
-    "pnl_pct": -3.11,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1753905600,
-    "exit_time": 1753963200,
-    "entry": 3.1121,
-    "exit": 3.1358,
-    "pnl_pct": 0.76,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1754051400,
-    "exit_time": 1754055900,
-    "entry": 2.9959,
-    "exit": 2.93598,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754085600,
-    "exit_time": 1754109000,
-    "entry": 2.9624,
-    "exit": 3.0118,
-    "pnl_pct": -1.67,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754115300,
-    "exit_time": 1754145900,
-    "entry": 2.9674,
-    "exit": 2.87838,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1754191800,
-    "exit_time": 1754240400,
-    "entry": 2.836,
-    "exit": 2.92108,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754360100,
-    "exit_time": 1754386200,
-    "entry": 3.0474,
-    "exit": 3.0475,
-    "pnl_pct": -0.0,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754397000,
-    "exit_time": 1754426700,
-    "entry": 3.0291,
-    "exit": 2.93823,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1754458200,
-    "exit_time": 1754535600,
-    "entry": 2.9613,
-    "exit": 2.9708,
-    "pnl_pct": 0.32,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1754546400,
-    "exit_time": 1754584200,
-    "entry": 3.0042,
-    "exit": 3.0332,
-    "pnl_pct": 0.97,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1754595000,
-    "exit_time": 1754601300,
-    "entry": 3.0726,
-    "exit": 3.16478,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754663400,
-    "exit_time": 1754682300,
-    "entry": 3.2845,
-    "exit": 3.3376,
-    "pnl_pct": -1.62,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754744400,
-    "exit_time": 1754801100,
-    "entry": 3.2982,
-    "exit": 3.2725,
-    "pnl_pct": 0.78,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754810100,
-    "exit_time": 1754852400,
-    "entry": 3.2341,
-    "exit": 3.2126,
-    "pnl_pct": 0.66,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754859600,
-    "exit_time": 1754874000,
-    "entry": 3.1726,
-    "exit": 3.2049,
-    "pnl_pct": -1.02,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1754910900,
-    "exit_time": 1754948700,
-    "entry": 3.215,
-    "exit": 3.11855,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755000900,
-    "exit_time": 1755022500,
-    "entry": 3.1613,
-    "exit": 3.25614,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1755046800,
-    "exit_time": 1755072900,
-    "entry": 3.2167,
-    "exit": 3.2695,
-    "pnl_pct": -1.64,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1755096300,
-    "exit_time": 1755131400,
-    "entry": 3.2401,
-    "exit": 3.3049,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755135000,
-    "exit_time": 1755149400,
-    "entry": 3.3214,
-    "exit": 3.2765,
-    "pnl_pct": -1.35,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755224100,
-    "exit_time": 1755264600,
-    "entry": 3.1032,
-    "exit": 3.0833,
-    "pnl_pct": -0.64,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755291600,
-    "exit_time": 1755342900,
-    "entry": 3.0844,
-    "exit": 3.1168,
-    "pnl_pct": 1.05,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755395100,
-    "exit_time": 1755449100,
-    "entry": 3.1042,
-    "exit": 3.1107,
-    "pnl_pct": 0.21,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755521100,
-    "exit_time": 1755538200,
-    "entry": 2.989,
-    "exit": 3.07867,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1755571500,
-    "exit_time": 1755613800,
-    "entry": 3.0341,
-    "exit": 2.94308,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755679500,
-    "exit_time": 1755689400,
-    "entry": 2.9121,
-    "exit": 2.8642,
-    "pnl_pct": -1.64,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755702000,
-    "exit_time": 1755741600,
-    "entry": 2.9139,
-    "exit": 2.9268,
-    "pnl_pct": 0.44,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755841500,
-    "exit_time": 1755859500,
-    "entry": 2.87,
-    "exit": 2.8313,
-    "pnl_pct": -1.35,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1755869400,
-    "exit_time": 1755871200,
-    "entry": 2.8456,
-    "exit": 2.93097,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1755910800,
-    "exit_time": 1755926100,
-    "entry": 3.0359,
-    "exit": 3.0436,
-    "pnl_pct": -0.25,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1755955800,
-    "exit_time": 1755989100,
-    "entry": 3.0145,
-    "exit": 3.047,
-    "pnl_pct": -1.08,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1756023300,
-    "exit_time": 1756054800,
-    "entry": 3.0383,
-    "exit": 3.0399,
-    "pnl_pct": -0.05,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1756063800,
-    "exit_time": 1756104300,
-    "entry": 3.0553,
-    "exit": 2.96364,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756184400,
-    "exit_time": 1756236600,
-    "entry": 2.9129,
-    "exit": 3.00029,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1756321200,
-    "exit_time": 1756356300,
-    "entry": 2.9944,
-    "exit": 3.0069,
-    "pnl_pct": -0.42,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1756394100,
-    "exit_time": 1756444500,
-    "entry": 2.9941,
-    "exit": 2.90428,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756462500,
-    "exit_time": 1756474200,
-    "entry": 2.8835,
-    "exit": 2.856,
-    "pnl_pct": -0.95,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756527300,
-    "exit_time": 1756544400,
-    "entry": 2.8205,
-    "exit": 2.802,
-    "pnl_pct": -0.66,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756573200,
-    "exit_time": 1756621800,
-    "entry": 2.8154,
-    "exit": 2.8279,
-    "pnl_pct": 0.44,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756629900,
-    "exit_time": 1756635300,
-    "entry": 2.8427,
-    "exit": 2.822,
-    "pnl_pct": -0.73,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756712700,
-    "exit_time": 1756726200,
-    "entry": 2.7931,
-    "exit": 2.767,
-    "pnl_pct": -0.93,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756755000,
-    "exit_time": 1756761300,
-    "entry": 2.7701,
-    "exit": 2.731,
-    "pnl_pct": -1.41,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756776600,
-    "exit_time": 1756816200,
-    "entry": 2.7704,
-    "exit": 2.7804,
-    "pnl_pct": 0.36,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756819800,
-    "exit_time": 1756829700,
-    "entry": 2.8068,
-    "exit": 2.7817,
-    "pnl_pct": -0.89,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756844100,
-    "exit_time": 1756878300,
-    "entry": 2.8488,
-    "exit": 2.826,
-    "pnl_pct": -0.8,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756890900,
-    "exit_time": 1756947600,
-    "entry": 2.8396,
-    "exit": 2.8345,
-    "pnl_pct": -0.18,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1756973700,
-    "exit_time": 1756994400,
-    "entry": 2.8518,
-    "exit": 2.8119,
-    "pnl_pct": -1.4,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1757046600,
-    "exit_time": 1757081700,
-    "entry": 2.8154,
-    "exit": 2.8262,
-    "pnl_pct": 0.38,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1757099700,
-    "exit_time": 1757108700,
-    "entry": 2.8494,
-    "exit": 2.8216,
-    "pnl_pct": -0.98,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1757164500,
-    "exit_time": 1757173500,
-    "entry": 2.814,
-    "exit": 2.801,
-    "pnl_pct": -0.46,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1757200500,
-    "exit_time": 1757253600,
-    "entry": 2.8103,
-    "exit": 2.89461,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1757269800,
-    "exit_time": 1757286900,
-    "entry": 2.8527,
-    "exit": 2.889,
-    "pnl_pct": -1.27,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1757377800,
-    "exit_time": 1757396700,
-    "entry": 2.9494,
-    "exit": 2.9641,
-    "pnl_pct": -0.5,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1757428200,
-    "exit_time": 1757471400,
-    "entry": 2.9623,
-    "exit": 2.9613,
-    "pnl_pct": 0.03,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1757531700,
-    "exit_time": 1757560500,
-    "entry": 2.9739,
-    "exit": 3.0048,
-    "pnl_pct": -1.04,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
     "side": "short",
-    "entry_time": 1757593800,
-    "exit_time": 1757631600,
-    "entry": 2.9955,
-    "exit": 3.0427,
-    "pnl_pct": -1.58,
+    "entry_time": 1759513500,
+    "exit_time": 1759612500,
+    "entry": 4470.1,
+    "exit": 4492.75,
+    "pnl_pct": -0.51,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1757677500,
-    "exit_time": 1757698200,
-    "entry": 3.0378,
-    "exit": 3.0694,
-    "pnl_pct": -1.04,
+    "entry_time": 1759658400,
+    "exit_time": 1759724100,
+    "entry": 4538.2,
+    "exit": 4539.85,
+    "pnl_pct": -0.04,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1757772000,
-    "exit_time": 1757815200,
-    "entry": 3.1381,
-    "exit": 3.1259,
-    "pnl_pct": 0.39,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1757822400,
-    "exit_time": 1757912400,
-    "entry": 3.0885,
-    "exit": 3.0594,
-    "pnl_pct": 0.94,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1757917800,
-    "exit_time": 1757943000,
-    "entry": 3.0341,
-    "exit": 3.016,
-    "pnl_pct": 0.6,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1757990700,
-    "exit_time": 1758001500,
-    "entry": 2.9785,
-    "exit": 3.0034,
-    "pnl_pct": -0.84,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1758075300,
-    "exit_time": 1758093300,
-    "entry": 3.0317,
-    "exit": 3.0355,
-    "pnl_pct": -0.13,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1758104100,
-    "exit_time": 1758114900,
-    "entry": 3.006,
-    "exit": 3.029,
-    "pnl_pct": -0.77,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1758133800,
-    "exit_time": 1758146400,
-    "entry": 2.9933,
-    "exit": 3.05317,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1758175200,
-    "exit_time": 1758182400,
-    "entry": 3.0603,
-    "exit": 3.1027,
-    "pnl_pct": -1.39,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1758229200,
-    "exit_time": 1758294000,
-    "entry": 3.0873,
-    "exit": 2.99468,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1758349800,
-    "exit_time": 1758357900,
-    "entry": 3.0041,
-    "exit": 2.9839,
+    "entry_time": 1759817700,
+    "exit_time": 1759837500,
+    "entry": 4675.85,
+    "exit": 4707.3,
     "pnl_pct": -0.67,
     "exit_reason": "TREND_FLIP"
   },
   {
-    "side": "long",
-    "entry_time": 1758381300,
-    "exit_time": 1758445200,
-    "entry": 2.9916,
-    "exit": 2.9834,
-    "pnl_pct": -0.27,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1758479400,
-    "exit_time": 1758500100,
-    "entry": 2.9792,
-    "exit": 2.9536,
-    "pnl_pct": -0.86,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1758546000,
-    "exit_time": 1758591000,
-    "entry": 2.8488,
-    "exit": 2.8315,
-    "pnl_pct": -0.61,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1758597300,
-    "exit_time": 1758649500,
-    "entry": 2.8472,
-    "exit": 2.848,
-    "pnl_pct": 0.03,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1758688200,
-    "exit_time": 1758727800,
-    "entry": 2.8435,
-    "exit": 2.92881,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
     "side": "short",
-    "entry_time": 1758755700,
-    "exit_time": 1758773700,
-    "entry": 2.9283,
-    "exit": 2.84045,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1758806100,
-    "exit_time": 1758818700,
-    "entry": 2.8488,
-    "exit": 2.7913,
-    "pnl_pct": -2.02,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1758827700,
-    "exit_time": 1758829500,
-    "entry": 2.8081,
-    "exit": 2.75194,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1758835800,
-    "exit_time": 1758889800,
-    "entry": 2.74,
-    "exit": 2.7604,
-    "pnl_pct": -0.74,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1758960000,
-    "exit_time": 1758969000,
-    "entry": 2.7706,
-    "exit": 2.7917,
-    "pnl_pct": -0.76,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1758993300,
-    "exit_time": 1758996900,
-    "entry": 2.7678,
-    "exit": 2.7853,
-    "pnl_pct": -0.63,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759017600,
-    "exit_time": 1759070700,
-    "entry": 2.7942,
-    "exit": 2.7947,
-    "pnl_pct": -0.02,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759141800,
-    "exit_time": 1759152600,
-    "entry": 2.8581,
-    "exit": 2.8814,
-    "pnl_pct": -0.82,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759195800,
-    "exit_time": 1759212900,
-    "entry": 2.8713,
-    "exit": 2.9029,
-    "pnl_pct": -1.1,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759218300,
-    "exit_time": 1759260600,
-    "entry": 2.8729,
-    "exit": 2.8606,
-    "pnl_pct": 0.43,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759278600,
-    "exit_time": 1759294800,
-    "entry": 2.8302,
-    "exit": 2.8488,
-    "pnl_pct": -0.66,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759415400,
-    "exit_time": 1759420800,
-    "entry": 2.9631,
-    "exit": 3.0285,
-    "pnl_pct": -2.21,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759439700,
-    "exit_time": 1759480200,
-    "entry": 3.0417,
-    "exit": 3.0534,
-    "pnl_pct": -0.38,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759511700,
-    "exit_time": 1759590900,
-    "entry": 3.0393,
-    "exit": 2.94812,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1759617000,
-    "exit_time": 1759650300,
-    "entry": 2.9694,
-    "exit": 3.05848,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759656600,
-    "exit_time": 1759731300,
-    "entry": 3.0266,
-    "exit": 2.9888,
-    "pnl_pct": 1.25,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1759784400,
-    "exit_time": 1759845600,
-    "entry": 3.0061,
-    "exit": 2.91592,
+    "entry_time": 1759843800,
+    "exit_time": 1759849200,
+    "entry": 4686.7,
+    "exit": 4546.099,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
     "entry_time": 1759912200,
-    "exit_time": 1759968000,
-    "entry": 2.8746,
-    "exit": 2.865,
-    "pnl_pct": -0.33,
+    "exit_time": 1759930200,
+    "entry": 4492.7,
+    "exit": 4455.45,
+    "pnl_pct": -0.83,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1760011200,
-    "exit_time": 1760020200,
-    "entry": 2.829,
-    "exit": 2.7963,
-    "pnl_pct": -1.16,
+    "entry_time": 1759943700,
+    "exit_time": 1759972500,
+    "entry": 4538.9,
+    "exit": 4480.55,
+    "pnl_pct": -1.29,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1760066100,
-    "exit_time": 1760107500,
-    "entry": 2.8201,
-    "exit": 2.7979,
-    "pnl_pct": -0.79,
+    "entry_time": 1760013000,
+    "exit_time": 1760019300,
+    "entry": 4403.7,
+    "exit": 4340.5,
+    "pnl_pct": -1.44,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1760048100,
+    "exit_time": 1760067900,
+    "entry": 4372.7,
+    "exit": 4345.85,
+    "pnl_pct": -0.61,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1760103000,
+    "exit_time": 1760105700,
+    "entry": 4374.2,
+    "exit": 4325.45,
+    "pnl_pct": -1.11,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
     "entry_time": 1760132700,
-    "exit_time": 1760132700,
-    "entry": 2.3255,
-    "exit": 2.27899,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1760212800,
-    "exit_time": 1760234400,
-    "entry": 2.3872,
-    "exit": 2.31558,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1760249700,
-    "exit_time": 1760279400,
-    "entry": 2.3909,
-    "exit": 2.3688,
-    "pnl_pct": -0.92,
+    "exit_time": 1760211900,
+    "entry": 3940.7,
+    "exit": 3757.95,
+    "pnl_pct": -4.64,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1760280300,
+    "entry_time": 1760238000,
     "exit_time": 1760280300,
-    "entry": 2.4401,
-    "exit": 2.3913,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
+    "entry": 3758.7,
+    "exit": 3871.461,
+    "pnl_pct": 3.0,
+    "exit_reason": "TARGET"
   },
   {
     "side": "short",
     "entry_time": 1760354100,
-    "exit_time": 1760354100,
-    "entry": 2.537,
-    "exit": 2.58774,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
+    "exit_time": 1760363100,
+    "entry": 4044.15,
+    "exit": 4163.45,
+    "pnl_pct": -2.95,
+    "exit_reason": "TREND_FLIP"
   },
   {
-    "side": "long",
-    "entry_time": 1760377500,
-    "exit_time": 1760407200,
-    "entry": 2.6218,
-    "exit": 2.5778,
-    "pnl_pct": -1.68,
-    "exit_reason": "TREND_FLIP"
+    "side": "short",
+    "entry_time": 1760407200,
+    "exit_time": 1760419800,
+    "entry": 4201.45,
+    "exit": 4075.4065,
+    "pnl_pct": 3.0,
+    "exit_reason": "TARGET"
   },
   {
     "side": "long",
     "entry_time": 1760455800,
-    "exit_time": 1760525100,
-    "entry": 2.4778,
-    "exit": 2.4955,
-    "pnl_pct": 0.71,
-    "exit_reason": "TREND_FLIP"
+    "exit_time": 1760458500,
+    "entry": 4021.4,
+    "exit": 4142.042,
+    "pnl_pct": 3.0,
+    "exit_reason": "TARGET"
+  },
+  {
+    "side": "short",
+    "entry_time": 1760526000,
+    "exit_time": 1760540400,
+    "entry": 4113.25,
+    "exit": 3989.8525,
+    "pnl_pct": 3.0,
+    "exit_reason": "TARGET"
   },
   {
     "side": "long",
-    "entry_time": 1760608800,
-    "exit_time": 1760624100,
-    "entry": 2.4385,
-    "exit": 2.3939,
-    "pnl_pct": -1.83,
+    "entry_time": 1760597100,
+    "exit_time": 1760623200,
+    "entry": 4040.8,
+    "exit": 3986.25,
+    "pnl_pct": -1.35,
     "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1760662800,
-    "exit_time": 1760681700,
-    "entry": 2.3712,
-    "exit": 2.32378,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
   },
   {
     "side": "long",
     "entry_time": 1760699700,
-    "exit_time": 1760744700,
-    "entry": 2.2817,
-    "exit": 2.2926,
-    "pnl_pct": 0.48,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1760751900,
-    "exit_time": 1760800500,
-    "entry": 2.3332,
-    "exit": 2.3476,
-    "pnl_pct": 0.62,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1760845500,
-    "exit_time": 1760862600,
-    "entry": 2.3675,
-    "exit": 2.3329,
-    "pnl_pct": -1.46,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1760867100,
-    "exit_time": 1760918400,
-    "entry": 2.3622,
-    "exit": 2.3769,
-    "pnl_pct": 0.62,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1760930100,
-    "exit_time": 1760942700,
-    "entry": 2.3965,
-    "exit": 2.4684,
+    "exit_time": 1760770800,
+    "entry": 3796.45,
+    "exit": 3910.3435,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
-    "entry_time": 1760977800,
-    "exit_time": 1760986800,
-    "entry": 2.4348,
-    "exit": 2.4848,
-    "pnl_pct": -2.05,
+    "entry_time": 1760835600,
+    "exit_time": 1760844600,
+    "entry": 3858.8,
+    "exit": 3898.45,
+    "pnl_pct": -1.03,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1761008400,
-    "exit_time": 1761036300,
-    "entry": 2.4753,
-    "exit": 2.40104,
+    "entry_time": 1760861700,
+    "exit_time": 1760867100,
+    "entry": 3873.95,
+    "exit": 3912.0,
+    "pnl_pct": -0.98,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1760916600,
+    "exit_time": 1760931900,
+    "entry": 3975.65,
+    "exit": 4026.65,
+    "pnl_pct": -1.28,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1760958000,
+    "exit_time": 1761019200,
+    "entry": 4015.25,
+    "exit": 3894.7925,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
-    "entry_time": 1761049800,
-    "exit_time": 1761059700,
-    "entry": 2.4373,
-    "exit": 2.51042,
+    "entry_time": 1761048900,
+    "exit_time": 1761057900,
+    "entry": 3903.65,
+    "exit": 4020.7595,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
-    "entry_time": 1761081300,
-    "exit_time": 1761124500,
-    "entry": 2.4607,
-    "exit": 2.38688,
+    "entry_time": 1761069600,
+    "exit_time": 1761089400,
+    "entry": 3985.0,
+    "exit": 3865.45,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
-    "entry_time": 1761189300,
-    "exit_time": 1761219900,
-    "entry": 2.3829,
-    "exit": 2.3902,
-    "pnl_pct": 0.31,
+    "entry_time": 1761140700,
+    "exit_time": 1761143400,
+    "entry": 3872.15,
+    "exit": 3795.0,
+    "pnl_pct": -1.99,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1761231600,
+    "entry_time": 1761181200,
+    "exit_time": 1761220800,
+    "entry": 3827.35,
+    "exit": 3844.8,
+    "pnl_pct": 0.46,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1761237900,
+    "exit_time": 1761249600,
+    "entry": 3917.1,
+    "exit": 3841.1,
+    "pnl_pct": -1.94,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1761270300,
     "exit_time": 1761309000,
-    "entry": 2.4112,
-    "exit": 2.48354,
+    "entry": 3880.4,
+    "exit": 3996.812,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
-    "entry_time": 1761421500,
-    "exit_time": 1761437700,
-    "entry": 2.6039,
-    "exit": 2.6216,
-    "pnl_pct": -0.68,
+    "entry_time": 1761312600,
+    "exit_time": 1761381900,
+    "entry": 3934.7,
+    "exit": 3953.0,
+    "pnl_pct": -0.47,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1761476400,
-    "exit_time": 1761516000,
-    "entry": 2.6244,
-    "exit": 2.6438,
-    "pnl_pct": -0.74,
+    "entry_time": 1761443100,
+    "exit_time": 1761465600,
+    "entry": 3932.15,
+    "exit": 3954.8,
+    "pnl_pct": -0.58,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1761535800,
-    "exit_time": 1761577200,
-    "entry": 2.6262,
-    "exit": 2.6596,
-    "pnl_pct": -1.27,
+    "entry_time": 1761552900,
+    "exit_time": 1761582600,
+    "entry": 4160.5,
+    "exit": 4204.0,
+    "pnl_pct": -1.05,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
     "entry_time": 1761595200,
-    "exit_time": 1761640200,
-    "entry": 2.6468,
-    "exit": 2.6574,
-    "pnl_pct": -0.4,
+    "exit_time": 1761635700,
+    "entry": 4149.5,
+    "exit": 4119.9,
+    "pnl_pct": 0.71,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
     "entry_time": 1761661800,
-    "exit_time": 1761674400,
-    "entry": 2.6234,
-    "exit": 2.6731,
-    "pnl_pct": -1.89,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1761678900,
-    "exit_time": 1761730200,
-    "entry": 2.6336,
-    "exit": 2.6511,
-    "pnl_pct": -0.66,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1761747300,
-    "exit_time": 1761780600,
-    "entry": 2.6244,
-    "exit": 2.54567,
+    "exit_time": 1761682500,
+    "entry": 4106.2,
+    "exit": 3983.014,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
-    "entry_time": 1761805800,
+    "entry_time": 1761715800,
+    "exit_time": 1761728400,
+    "entry": 4030.25,
+    "exit": 3993.2,
+    "pnl_pct": -0.92,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1761759000,
+    "exit_time": 1761762600,
+    "entry": 4003.4,
+    "exit": 3861.25,
+    "pnl_pct": -3.55,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1761809400,
     "exit_time": 1761825600,
-    "entry": 2.5714,
-    "exit": 2.5402,
-    "pnl_pct": -1.21,
+    "entry": 3939.0,
+    "exit": 3873.0,
+    "pnl_pct": -1.68,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1761871500,
-    "exit_time": 1761922800,
-    "entry": 2.4573,
-    "exit": 2.53102,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1761929100,
-    "exit_time": 1761939900,
-    "entry": 2.4947,
-    "exit": 2.5423,
-    "pnl_pct": -1.91,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1761962400,
-    "exit_time": 1761970500,
-    "entry": 2.4938,
-    "exit": 2.5166,
-    "pnl_pct": -0.91,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1762001100,
-    "exit_time": 1762014600,
-    "entry": 2.4917,
-    "exit": 2.5108,
-    "pnl_pct": -0.77,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1762033500,
-    "exit_time": 1762056900,
-    "entry": 2.4921,
-    "exit": 2.5114,
-    "pnl_pct": -0.77,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1762078500,
-    "exit_time": 1762083000,
-    "entry": 2.5127,
-    "exit": 2.5468,
-    "pnl_pct": -1.36,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1762092900,
-    "exit_time": 1762119000,
-    "entry": 2.5134,
-    "exit": 2.5103,
-    "pnl_pct": 0.12,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "short",
-    "entry_time": 1762132500,
-    "exit_time": 1762142400,
-    "entry": 2.492,
-    "exit": 2.41724,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1762181100,
-    "exit_time": 1762182900,
-    "entry": 2.4262,
-    "exit": 2.3562,
-    "pnl_pct": -2.89,
+    "entry_time": 1761864300,
+    "exit_time": 1761929100,
+    "entry": 3782.75,
+    "exit": 3821.7,
+    "pnl_pct": 1.03,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1762225200,
-    "exit_time": 1762233300,
-    "entry": 2.3538,
-    "exit": 2.303,
-    "pnl_pct": -2.16,
+    "entry_time": 1761939000,
+    "exit_time": 1762005600,
+    "entry": 3892.45,
+    "exit": 3858.9,
+    "pnl_pct": -0.86,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1762009200,
+    "exit_time": 1762075800,
+    "entry": 3892.55,
+    "exit": 3876.15,
+    "pnl_pct": -0.42,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1762124400,
+    "exit_time": 1762130700,
+    "entry": 3880.35,
+    "exit": 3864.15,
+    "pnl_pct": -0.42,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
     "entry_time": 1762267500,
     "exit_time": 1762272900,
-    "entry": 2.3037,
-    "exit": 2.25763,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
+    "entry": 3554.65,
+    "exit": 3476.75,
+    "pnl_pct": -2.19,
+    "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1762294500,
-    "exit_time": 1762304400,
-    "entry": 2.2013,
-    "exit": 2.15727,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1762309800,
-    "exit_time": 1762361100,
-    "entry": 2.221,
-    "exit": 2.28763,
+    "entry_time": 1762293600,
+    "exit_time": 1762350300,
+    "entry": 3266.9,
+    "exit": 3364.907,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
-    "entry_time": 1762410600,
-    "exit_time": 1762441200,
-    "entry": 2.3244,
-    "exit": 2.25467,
+    "entry_time": 1762389000,
+    "exit_time": 1762399800,
+    "entry": 3397.5,
+    "exit": 3436.65,
+    "pnl_pct": -1.15,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1762407000,
+    "exit_time": 1762443900,
+    "entry": 3396.8,
+    "exit": 3294.896,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
-    "entry_time": 1762527600,
-    "exit_time": 1762533900,
-    "entry": 2.2088,
-    "exit": 2.27506,
+    "entry_time": 1762485300,
+    "exit_time": 1762506900,
+    "entry": 3360.95,
+    "exit": 3306.05,
+    "pnl_pct": -1.63,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1762526700,
+    "exit_time": 1762535700,
+    "entry": 3286.45,
+    "exit": 3385.0435,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
-    "entry_time": 1762562700,
-    "exit_time": 1762668900,
-    "entry": 2.2997,
-    "exit": 2.2807,
-    "pnl_pct": 0.83,
+    "entry_time": 1762602300,
+    "exit_time": 1762668000,
+    "entry": 3412.15,
+    "exit": 3406.6,
+    "pnl_pct": 0.16,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
     "entry_time": 1762682400,
-    "exit_time": 1762697700,
-    "entry": 2.2589,
-    "exit": 2.3151,
-    "pnl_pct": -2.49,
+    "exit_time": 1762688700,
+    "entry": 3390.1,
+    "exit": 3427.7,
+    "pnl_pct": -1.11,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1762785900,
-    "exit_time": 1762795800,
-    "entry": 2.5086,
-    "exit": 2.55877,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1762806600,
-    "exit_time": 1762809300,
-    "entry": 2.5761,
-    "exit": 2.52458,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
+    "entry_time": 1762785000,
+    "exit_time": 1762823700,
+    "entry": 3581.05,
+    "exit": 3619.15,
+    "pnl_pct": -1.06,
+    "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1762835400,
-    "exit_time": 1762869600,
-    "entry": 2.5102,
-    "exit": 2.43489,
+    "entry_time": 1762839000,
+    "exit_time": 1762891200,
+    "entry": 3546.95,
+    "exit": 3440.5415,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
     "entry_time": 1762936200,
-    "exit_time": 1762958700,
-    "entry": 2.408,
-    "exit": 2.4115,
-    "pnl_pct": 0.15,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1762981200,
-    "exit_time": 1763004600,
-    "entry": 2.3741,
-    "exit": 2.44532,
+    "exit_time": 1762954200,
+    "entry": 3471.15,
+    "exit": 3575.2845,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
-    "entry_time": 1763041500,
-    "exit_time": 1763045100,
-    "entry": 2.4593,
-    "exit": 2.50849,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
+    "entry_time": 1762958700,
+    "exit_time": 1762963200,
+    "entry": 3501.7,
+    "exit": 3396.649,
+    "pnl_pct": 3.0,
+    "exit_reason": "TARGET"
+  },
+  {
+    "side": "long",
+    "entry_time": 1763006400,
+    "exit_time": 1763027100,
+    "entry": 3466.35,
+    "exit": 3485.85,
+    "pnl_pct": 0.56,
+    "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
     "entry_time": 1763130600,
-    "exit_time": 1763130600,
-    "entry": 2.3036,
-    "exit": 2.25753,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1763152200,
-    "exit_time": 1763175600,
-    "entry": 2.2566,
-    "exit": 2.30173,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1763262900,
-    "exit_time": 1763291700,
-    "entry": 2.2501,
-    "exit": 2.2404,
-    "pnl_pct": -0.43,
+    "exit_time": 1763152200,
+    "entry": 3200.4,
+    "exit": 3129.5,
+    "pnl_pct": -2.22,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1763316000,
-    "exit_time": 1763316000,
-    "entry": 2.2184,
-    "exit": 2.17403,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1763385300,
-    "exit_time": 1763389800,
-    "entry": 2.244,
-    "exit": 2.2666,
-    "pnl_pct": -1.01,
+    "entry_time": 1763214300,
+    "exit_time": 1763242200,
+    "entry": 3191.85,
+    "exit": 3157.05,
+    "pnl_pct": -1.09,
     "exit_reason": "TREND_FLIP"
   },
   {
-    "side": "short",
-    "entry_time": 1763395200,
-    "exit_time": 1763409600,
-    "entry": 2.1834,
-    "exit": 2.1179,
+    "side": "long",
+    "entry_time": 1763260200,
+    "exit_time": 1763290800,
+    "entry": 3190.15,
+    "exit": 3199.15,
+    "pnl_pct": 0.28,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1763340300,
+    "exit_time": 1763384400,
+    "entry": 3135.55,
+    "exit": 3164.75,
+    "pnl_pct": 0.93,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1763389800,
+    "exit_time": 1763395200,
+    "entry": 3177.85,
+    "exit": 3078.85,
+    "pnl_pct": -3.12,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1763461800,
+    "exit_time": 1763482500,
+    "entry": 3063.95,
+    "exit": 3155.8685,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
-    "side": "long",
-    "entry_time": 1763454600,
-    "exit_time": 1763472600,
-    "entry": 2.194,
-    "exit": 2.15012,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
     "side": "short",
-    "entry_time": 1763511300,
+    "entry_time": 1763502300,
     "exit_time": 1763530200,
-    "entry": 2.2011,
-    "exit": 2.13507,
+    "entry": 3097.6,
+    "exit": 3004.672,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
-    "entry_time": 1763587800,
+    "entry_time": 1763537400,
+    "exit_time": 1763561700,
+    "entry": 3072.65,
+    "exit": 3026.7,
+    "pnl_pct": -1.5,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1763586900,
     "exit_time": 1763614800,
-    "entry": 2.0841,
-    "exit": 2.14662,
+    "entry": 2969.15,
+    "exit": 3058.2245,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
@@ -3918,305 +597,260 @@
     "side": "short",
     "entry_time": 1763632800,
     "exit_time": 1763654400,
-    "entry": 2.1126,
-    "exit": 2.04922,
+    "entry": 2998.55,
+    "exit": 2908.5935,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
     "entry_time": 1763676900,
-    "exit_time": 1763681400,
-    "entry": 2.0447,
-    "exit": 2.00381,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1763692200,
-    "exit_time": 1763710200,
-    "entry": 1.9838,
-    "exit": 1.92429,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
+    "exit_time": 1763692200,
+    "entry": 2900.9,
+    "exit": 2811.6,
+    "pnl_pct": -3.08,
+    "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1763730000,
-    "exit_time": 1763745300,
-    "entry": 1.9216,
-    "exit": 1.97925,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1763765100,
-    "exit_time": 1763767800,
-    "entry": 1.9085,
-    "exit": 1.94667,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
+    "entry_time": 1763731800,
+    "exit_time": 1763806500,
+    "entry": 2758.1,
+    "exit": 2709.8,
+    "pnl_pct": -1.75,
+    "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1763824500,
-    "exit_time": 1763861400,
-    "entry": 1.9336,
-    "exit": 1.99161,
+    "entry_time": 1763829000,
+    "exit_time": 1763871300,
+    "entry": 2755.55,
+    "exit": 2838.2165,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
     "entry_time": 1763882100,
-    "exit_time": 1763906400,
-    "entry": 2.0187,
-    "exit": 2.05907,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1763911800,
-    "exit_time": 1763942400,
-    "entry": 2.0618,
-    "exit": 2.0308,
-    "pnl_pct": -1.5,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1763949600,
-    "exit_time": 1763957700,
-    "entry": 2.0885,
-    "exit": 2.04673,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "short",
-    "entry_time": 1764056700,
-    "exit_time": 1764098100,
-    "entry": 2.216,
-    "exit": 2.14952,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1764110700,
-    "exit_time": 1764153000,
-    "entry": 2.208,
-    "exit": 2.1736,
-    "pnl_pct": -1.56,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1764172800,
-    "exit_time": 1764180900,
-    "entry": 2.188,
-    "exit": 2.25364,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1764221400,
-    "exit_time": 1764256500,
-    "entry": 2.2032,
-    "exit": 2.1969,
-    "pnl_pct": 0.29,
+    "exit_time": 1763899200,
+    "entry": 2781.25,
+    "exit": 2827.55,
+    "pnl_pct": -1.66,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1764282600,
-    "exit_time": 1764307800,
-    "entry": 2.2047,
-    "exit": 2.2063,
-    "pnl_pct": -0.07,
+    "entry_time": 1763916300,
+    "exit_time": 1763949600,
+    "entry": 2799.2,
+    "exit": 2858.4,
+    "pnl_pct": -2.11,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1764327600,
-    "exit_time": 1764339300,
-    "entry": 2.2021,
-    "exit": 2.2265,
-    "pnl_pct": -1.11,
+    "entry_time": 1763975700,
+    "exit_time": 1763998200,
+    "entry": 2793.7,
+    "exit": 2845.8,
+    "pnl_pct": -1.86,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1764346500,
-    "exit_time": 1764414900,
-    "entry": 2.2057,
-    "exit": 2.2013,
-    "pnl_pct": 0.2,
+    "entry_time": 1764035100,
+    "exit_time": 1764072000,
+    "entry": 2918.5,
+    "exit": 2920.9,
+    "pnl_pct": -0.08,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1764446400,
-    "exit_time": 1764508500,
-    "entry": 2.1876,
-    "exit": 2.2025,
+    "entry_time": 1764081000,
+    "exit_time": 1764087300,
+    "entry": 2879.35,
+    "exit": 2929.05,
+    "pnl_pct": -1.73,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1764098100,
+    "exit_time": 1764110700,
+    "entry": 2884.25,
+    "exit": 2969.65,
+    "pnl_pct": -2.96,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1764145800,
+    "exit_time": 1764164700,
+    "entry": 2918.7,
+    "exit": 2933.5,
+    "pnl_pct": -0.51,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1764245700,
+    "exit_time": 1764268200,
+    "entry": 3013.25,
+    "exit": 3033.6,
     "pnl_pct": -0.68,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1764538200,
+    "entry_time": 1764282600,
+    "exit_time": 1764319500,
+    "entry": 3011.3,
+    "exit": 3064.3,
+    "pnl_pct": -1.76,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1764346500,
+    "exit_time": 1764464400,
+    "entry": 3028.45,
+    "exit": 3006.3,
+    "pnl_pct": 0.73,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1764472500,
+    "exit_time": 1764490500,
+    "entry": 2986.9,
+    "exit": 3008.0,
+    "pnl_pct": -0.71,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1764544500,
     "exit_time": 1764547200,
-    "entry": 2.1856,
-    "exit": 2.12003,
+    "entry": 3007.25,
+    "exit": 2917.0325,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "long",
-    "entry_time": 1764628200,
-    "exit_time": 1764663300,
-    "entry": 2.0347,
-    "exit": 1.9979,
-    "pnl_pct": -1.81,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1764672300,
-    "exit_time": 1764686700,
-    "entry": 2.0272,
-    "exit": 2.08802,
+    "entry_time": 1764624600,
+    "exit_time": 1764685800,
+    "entry": 2794.85,
+    "exit": 2878.6955,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
-    "entry_time": 1764757800,
+    "entry_time": 1764770400,
     "exit_time": 1764772200,
-    "entry": 2.1749,
-    "exit": 2.1921,
-    "pnl_pct": -0.79,
+    "entry": 3047.85,
+    "exit": 3130.95,
+    "pnl_pct": -2.73,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1764826200,
-    "exit_time": 1764873000,
-    "entry": 2.1758,
-    "exit": 2.11053,
+    "entry_time": 1764853200,
+    "exit_time": 1764862200,
+    "entry": 3163.4,
+    "exit": 3213.75,
+    "pnl_pct": -1.59,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1764873000,
+    "exit_time": 1764897300,
+    "entry": 3137.9,
+    "exit": 3164.0,
+    "pnl_pct": -0.83,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1764925200,
+    "exit_time": 1764951300,
+    "entry": 3141.6,
+    "exit": 3047.352,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
-  },
-  {
-    "side": "long",
-    "entry_time": 1764946800,
-    "exit_time": 1764951300,
-    "entry": 2.0854,
-    "exit": 2.0501,
-    "pnl_pct": -1.69,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1765001700,
-    "exit_time": 1765005300,
-    "entry": 2.0494,
-    "exit": 2.0296,
-    "pnl_pct": -0.97,
-    "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
     "entry_time": 1765030500,
-    "exit_time": 1765049400,
-    "entry": 2.0392,
-    "exit": 2.0229,
-    "pnl_pct": -0.8,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1765073700,
-    "exit_time": 1765084500,
-    "entry": 2.0409,
-    "exit": 2.0461,
-    "pnl_pct": 0.25,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1765111500,
-    "exit_time": 1765116000,
-    "entry": 2.0461,
-    "exit": 2.0239,
-    "pnl_pct": -1.08,
+    "exit_time": 1765092600,
+    "entry": 3046.4,
+    "exit": 3031.85,
+    "pnl_pct": -0.48,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
     "entry_time": 1765122300,
-    "exit_time": 1765143000,
-    "entry": 2.0517,
-    "exit": 2.0597,
-    "pnl_pct": 0.39,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1765157400,
-    "exit_time": 1765206000,
-    "entry": 2.0776,
-    "exit": 2.0782,
-    "pnl_pct": 0.03,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1765280700,
-    "exit_time": 1765288800,
-    "entry": 2.0681,
-    "exit": 2.0599,
-    "pnl_pct": -0.4,
-    "exit_reason": "TREND_FLIP"
-  },
-  {
-    "side": "long",
-    "entry_time": 1765293300,
-    "exit_time": 1765296000,
-    "entry": 2.0848,
-    "exit": 2.14734,
+    "exit_time": 1765128600,
+    "entry": 3026.35,
+    "exit": 3117.1405,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
-    "entry_time": 1765311300,
+    "entry_time": 1765143900,
+    "exit_time": 1765157400,
+    "entry": 3084.55,
+    "exit": 3116.1,
+    "pnl_pct": -1.02,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1765197000,
+    "exit_time": 1765204200,
+    "entry": 3125.15,
+    "exit": 3168.1,
+    "pnl_pct": -1.37,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1765206900,
+    "exit_time": 1765283400,
+    "entry": 3107.0,
+    "exit": 3133.7,
+    "pnl_pct": -0.86,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "short",
+    "entry_time": 1765330200,
     "exit_time": 1765359900,
-    "entry": 2.1114,
-    "exit": 2.088,
-    "pnl_pct": 1.11,
+    "entry": 3295.4,
+    "exit": 3346.8,
+    "pnl_pct": -1.56,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
     "entry_time": 1765362600,
-    "exit_time": 1765396800,
-    "entry": 2.0704,
-    "exit": 2.103,
-    "pnl_pct": -1.57,
+    "exit_time": 1765383300,
+    "entry": 3318.8,
+    "exit": 3356.1,
+    "pnl_pct": -1.12,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1765403100,
-    "exit_time": 1765464300,
-    "entry": 2.0461,
-    "exit": 1.98472,
+    "entry_time": 1765404000,
+    "exit_time": 1765418400,
+    "entry": 3334.85,
+    "exit": 3234.8045,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
@@ -4224,162 +858,153 @@
     "side": "long",
     "entry_time": 1765477800,
     "exit_time": 1765551600,
-    "entry": 2.0203,
-    "exit": 2.0266,
-    "pnl_pct": 0.31,
+    "entry": 3231.3,
+    "exit": 3205.6,
+    "pnl_pct": -0.8,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1765598400,
-    "exit_time": 1765645200,
-    "entry": 2.0237,
-    "exit": 2.0187,
-    "pnl_pct": -0.25,
+    "entry_time": 1765613700,
+    "exit_time": 1765631700,
+    "entry": 3122.6,
+    "exit": 3097.7,
+    "pnl_pct": -0.8,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1765674000,
-    "exit_time": 1765686600,
-    "entry": 2.0276,
-    "exit": 2.016,
-    "pnl_pct": -0.57,
+    "entry_time": 1765672200,
+    "exit_time": 1765706400,
+    "entry": 3117.7,
+    "exit": 3098.0,
+    "pnl_pct": -0.63,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1765763100,
-    "exit_time": 1765803600,
-    "entry": 1.9974,
-    "exit": 1.9719,
-    "pnl_pct": -1.28,
+    "entry_time": 1765762200,
+    "exit_time": 1765808100,
+    "entry": 3106.4,
+    "exit": 3129.15,
+    "pnl_pct": 0.73,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1765866600,
+    "entry_time": 1765881000,
     "exit_time": 1765892700,
-    "entry": 1.8924,
-    "exit": 1.9078,
-    "pnl_pct": 0.81,
+    "entry": 2954.75,
+    "exit": 2909.4,
+    "pnl_pct": -1.53,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1765979100,
-    "exit_time": 1765983600,
-    "entry": 1.92,
-    "exit": 1.9776,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1765986300,
-    "exit_time": 1765997100,
-    "entry": 1.9097,
-    "exit": 1.85241,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
+    "entry_time": 1765982700,
+    "exit_time": 1765986300,
+    "entry": 2994.45,
+    "exit": 2904.0,
+    "pnl_pct": -3.02,
+    "exit_reason": "TREND_FLIP"
   },
   {
     "side": "long",
-    "entry_time": 1766047500,
+    "entry_time": 1766050200,
     "exit_time": 1766064600,
-    "entry": 1.8534,
-    "exit": 1.909,
+    "entry": 2855.95,
+    "exit": 2941.6285,
     "pnl_pct": 3.0,
     "exit_reason": "TARGET"
   },
   {
     "side": "short",
     "entry_time": 1766077200,
-    "exit_time": 1766077200,
-    "entry": 1.8682,
-    "exit": 1.90556,
-    "pnl_pct": -2.0,
-    "exit_reason": "SL"
-  },
-  {
-    "side": "long",
-    "entry_time": 1766113200,
-    "exit_time": 1766127600,
-    "entry": 1.8159,
-    "exit": 1.87038,
-    "pnl_pct": 3.0,
-    "exit_reason": "TARGET"
-  },
-  {
-    "side": "short",
-    "entry_time": 1766236500,
-    "exit_time": 1766276100,
-    "entry": 1.9203,
-    "exit": 1.9357,
-    "pnl_pct": -0.8,
+    "exit_time": 1766113200,
+    "entry": 2856.55,
+    "exit": 2867.9,
+    "pnl_pct": -0.4,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1766284200,
-    "exit_time": 1766305800,
-    "entry": 1.919,
-    "exit": 1.9386,
-    "pnl_pct": -1.02,
+    "entry_time": 1766236500,
+    "exit_time": 1766304900,
+    "entry": 2971.15,
+    "exit": 2984.15,
+    "pnl_pct": -0.44,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
     "entry_time": 1766322000,
-    "exit_time": 1766358000,
-    "entry": 1.9153,
-    "exit": 1.9226,
-    "pnl_pct": -0.38,
+    "exit_time": 1766342700,
+    "entry": 2971.25,
+    "exit": 2987.6,
+    "pnl_pct": -0.55,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1766430000,
-    "exit_time": 1766484900,
-    "entry": 1.9173,
-    "exit": 1.8918,
-    "pnl_pct": 1.33,
+    "entry_time": 1766424600,
+    "exit_time": 1766448900,
+    "entry": 3029.1,
+    "exit": 3018.9,
+    "pnl_pct": 0.34,
     "exit_reason": "TREND_FLIP"
   },
   {
     "side": "short",
-    "entry_time": 1766496600,
-    "exit_time": 1766571300,
-    "entry": 1.8872,
-    "exit": 1.8645,
-    "pnl_pct": 1.2,
+    "entry_time": 1766457900,
+    "exit_time": 1766501100,
+    "entry": 2990.65,
+    "exit": 2900.9305,
+    "pnl_pct": 3.0,
+    "exit_reason": "TARGET"
+  },
+  {
+    "side": "long",
+    "entry_time": 1766521800,
+    "exit_time": 1766543400,
+    "entry": 2979.3,
+    "exit": 2927.65,
+    "pnl_pct": -1.73,
     "exit_reason": "TREND_FLIP"
   },
   {
-    "side": "short",
-    "entry_time": 1766598300,
-    "exit_time": 1766629800,
-    "entry": 1.8502,
-    "exit": 1.8713,
-    "pnl_pct": -1.14,
+    "side": "long",
+    "entry_time": 1766593800,
+    "exit_time": 1766650500,
+    "entry": 2944.2,
+    "exit": 2922.6,
+    "pnl_pct": -0.73,
     "exit_reason": "TREND_FLIP"
   },
   {
-    "side": "short",
-    "entry_time": 1766656800,
-    "exit_time": 1766675700,
-    "entry": 1.8622,
-    "exit": 1.8727,
-    "pnl_pct": -0.56,
+    "side": "long",
+    "entry_time": 1766675700,
+    "exit_time": 1766701800,
+    "entry": 2949.3,
+    "exit": 2928.65,
+    "pnl_pct": -0.7,
     "exit_reason": "TREND_FLIP"
   },
   {
-    "side": "short",
-    "entry_time": 1766700000,
-    "exit_time": 1766715300,
-    "entry": 1.8599,
-    "exit": 1.8706,
-    "pnl_pct": -0.58,
+    "side": "long",
+    "entry_time": 1766715300,
+    "exit_time": 1766735100,
+    "entry": 2980.5,
+    "exit": 2955.95,
+    "pnl_pct": -0.82,
+    "exit_reason": "TREND_FLIP"
+  },
+  {
+    "side": "long",
+    "entry_time": 1766865600,
+    "exit_time": 1766900700,
+    "entry": 2931.8,
+    "exit": 2934.9,
+    "pnl_pct": 0.11,
     "exit_reason": "TREND_FLIP"
   }
 ]

@@ -14,4 +14,4 @@ class Config:
     RISK_PER_TRADE = 0.02  # 2% of capital
 
 
-print(Config.API_KEY)
+# print(Config.API_KEY)
