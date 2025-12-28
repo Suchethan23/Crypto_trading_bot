@@ -44,6 +44,31 @@ def main():
                 fetcher.export_to_json(supertrend,"supertrend_ETHUSD.json")
                 # 2. Get signal
                 signal, price, trend, supertrend_value = get_supertrend_signal(supertrend)
+
+                if(signal=="buy"):
+
+                    notifier.trade_entry(
+                    symbol="ETHUSD",
+                    side="long", 
+                    entry=price,
+                    stoploss=supertrend_value,
+                    timeframe="15m"
+                    )
+                    print("telegram signal sent time to long")
+
+                elif(signal=="sell"):
+                    notifier.trade_entry(
+                    symbol="ETHUSD",
+                    side="short",
+                    entry=price,
+                    stoploss=supertrend_value,
+                    timeframe="15m"
+                    )
+                    print("telegram signal sent time to short")
+
+                else:
+                    notifier.info(" HAve some patience still no signal triggered"
+                    )
                 
                 # 3. Check current position
                 positions = bot.monitor_positions(symbol)
