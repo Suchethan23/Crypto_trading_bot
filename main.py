@@ -206,7 +206,7 @@ def wait_until_next_15m():
     """
     while True:
         now = datetime.now()
-        if now.minute % 1 == 0 and now.second < 2:
+        if now.minute % 15 == 0 and now.second < 2:
             logger.info("15m candle close detected")
             return
         time.sleep(1)
@@ -330,7 +330,7 @@ def main(notifier):
 
     # Configuration
     symbol = "ETHUSD"
-    timeframe="1m"
+    timeframe="15m"
     size = 1
     sl_pct = 0.02  # 2% fallback SL
     min_candles_required = 50  # Minimum candles needed for SuperTrend
