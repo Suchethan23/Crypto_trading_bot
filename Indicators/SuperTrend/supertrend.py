@@ -27,11 +27,11 @@ def get_supertrend_signal(supertrend_data):
     
     # Trend change from down to up = BUY signal
     if prev['trend'] == 'down' and current['trend'] == 'up':
-        return 'buy', current['close'], current['trend']
+        return 'buy', current['close'], current['trend'],current['supertrend']
     
     # Trend change from up to down = SELL signal
     elif prev['trend'] == 'up' and current['trend'] == 'down':
-        return 'sell', current['close'], current['trend']
+        return 'sell', current['close'], current['trend'],current['supertrend']
     
     # No trend change = HOLD
     else:

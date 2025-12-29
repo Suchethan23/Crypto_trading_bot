@@ -18,7 +18,7 @@ def wait_until_next_15m():
     """
     while True:
         now = datetime.now()
-        if now.minute % 15 == 0 and now.second < 2:
+        if now.minute % 1 == 0 and now.second < 2:
             return
         time.sleep(1)
 
@@ -47,18 +47,25 @@ def main():
             print("⏳ Waiting for next 15m candle close...")
             wait_until_next_15m()
 
+
+
             timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             print(f"\n[{timestamp}] 🔍 Checking market...")
 
             try:
                 # 1. Fetch fresh data
-                data = fetcher.get_candles_in_batches(symbol, "15m")
+                data = fetcher.get_candles_in_batches(symbol, "1m")
                 supertrend = calculate_supertrend(data)
+
+                # with open("supertrend_ETHUSD.json", "r") as f:
+                #     data = json.load(f)
+
 
                 fetcher.export_to_json(supertrend, "supertrend_ETHUSD.json")
 
                 # 2. Get signal
                 signal, price, trend, supertrend_value = get_supertrend_signal(supertrend)
+                print(signal," fgg ", price,"sdgdg", trend,"fsgsd", supertrend_value)
 
                 if signal == "buy":
                     notifier.trade_entry(
@@ -68,6 +75,7 @@ def main():
                         stoploss=supertrend_value,
                         timeframe="15m"
                     )
+
                     print("📩 Telegram signal sent → LONG")
 
                 elif signal == "sell":
@@ -79,6 +87,7 @@ def main():
                         timeframe="15m"
                     )
                     print("📩 Telegram signal sent → SHORT")
+                    # notifier.info("⏸️ ")
 
                 else:
                     notifier.info("⏸️ No signal yet. Waiting...")
