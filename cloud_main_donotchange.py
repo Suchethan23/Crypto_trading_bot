@@ -7,7 +7,7 @@ import json
 import time
 import os
 import logging
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
 
 import sys
@@ -29,21 +29,25 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def wait_until_next_15m():
-    """
-    Block execution until the next 15-minute candle close
-    Ensures fresh candle data (no partial candles)
-    """
-    logger.info("→ Entering wait_until_next_15m() function")
-    while True:
-        now = datetime.now()
-        logger.debug(f"  Current time: {now.strftime('%Y-%m-%d %H:%M:%S')} | Minute: {now.minute} | Second: {now.second}")
-        if now.minute % 15 == 0 and now.second < 2:
-            logger.info("✓ 15m candle close detected")
-            logger.info("← Exiting wait_until_next_15m() function")
-            return
-        time.sleep(5)
 
+def wait_until_next_15m():
+    now = datetime.now(timezone.utc)
+
+    # Minutes until next 15m boundary
+    minutes_to_add = (15 - (now.minute % 15)) % 15
+    if minutes_to_add == 0:
+        minutes_to_add = 15
+
+    next_close = now.replace(second=0, microsecond=0) + timedelta(minutes=minutes_to_add)
+
+    sleep_seconds = (next_close - now).total_seconds()
+
+    logger.info(
+        f"⏳ Sleeping {int(sleep_seconds)}s until "
+        f"{next_close.strftime('%H:%M:%S')} UTC"
+    )
+
+    time.sleep(max(1, sleep_seconds))
 
 def verify_position_closed(bot, symbol, max_attempts=3):
     """
@@ -222,7 +226,7 @@ def main(notifier):
 
     # Configuration
     symbol = "ETHUSD"
-    timeframe="15m"
+    timeframe="5m"
     size = 5
     sl_pct = 0.02  # 2% fallback SL
     min_candles_required = 50  # Minimum candles needed for SuperTrend
